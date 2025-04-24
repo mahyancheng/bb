@@ -1,0 +1,14 @@
+- [ ] **Task:** Identify reliable news sources.
+    - [ ] Browse action: Search for 'reliable news sources list' on Google and find the title of the first result.
+        - [ ] Initialize ChatOllama for Browser Agent (Model: qwen2.5:32b-instruct, URL: http://localhost:11434).
+        - [ ] Initialize Browser instance.
+        - [ ] Create new Browser Context.
+        - [ ] Initialize BrowserUseAgent and handle any initialization errors.
+- [ ] **Task:** Fetch the top news from identified reliable sources.
+    - [ ] Send prompt to model 'qwen2.5:32b-instruct' for identifying the specific news articles.
+        - [ ] If browser session is required, retry with proper initialization steps.
+- [ ] **Task:** Compile the top 3 news based on reliability and relevance.
+    - [ ] Review each article’s content to ensure it meets criteria for being “top” news today.
+        - [ ] Consider factors like timeliness, impact, and relevance.
+    - [ ] List the compiled articles in a structured format (title, source, brief summary).
+- [ ] **Task:** Perform final review to ensure accuracy and completeness.
