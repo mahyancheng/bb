@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ..      # project root (mahyancheng-lm/)
+      dockerfile: ./backend/Dockerfile
+    ports:
+      - "8000:8000" # FastAPI backend
+      - "6080:6080" # noVNC Web UI
+      - "5901:5901" # Internal VNC Port
+    environment:
+      # Set defaults, can be overridden by a .env file in backend/
+      OLLAMA_ENDPOINT:              ${OLLAMA_ENDPOINT:-http://host.docker.internal:11434}
+      PLANNING_TOOLING_MODEL:       ${PLANNING_TOOLING_MODEL:-llama3:latest}
+      # BROWSER_AGENT_INTERNAL_MODEL: ${BROWSER_AGENT_INTERNAL_MODEL:-qwen2.5:7b} # Set via script.js now
+      # DEEPCODER_MODEL:              ${DEEPCODER_MODEL:-deepcoder:latest} # Set via script.js now
+      DISPLAY: ":99"
+      TZ: Asia/Kuala_Lumpur # Set timezone
+      PYTHONUNBUFFERED: "1" # Ensure Python logs appear immediately
+
+    volumes:
+      # Mount the host's frontend code into the container (read-only)
+      # Ensures changes in host's backend/frontend are reflected without rebuild
+      - ./backend/frontend:/app/frontend:ro
+      # Persist generated task files (optional, agent now uses WebSocket)
+      - ./tasks:/app/tasks
+
+    shm_size: "2gb" # Recommended for Playwright/Chrome
+    # Allows container to reach host machine services (like Ollama)
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped

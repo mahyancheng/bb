@@ -1,0 +1,9 @@
+- [ ] Verify the current date and time to ensure that the information is up-to-date.
+- [ ] Access reliable news sources such as BBC News, CNN, or Reuters for the latest headlines.
+- [ ] Scan through the top headlines on each of these websites to identify the most prominent stories.
+- [ ] Evaluate the news articles based on their relevance, impact, and frequency across different platforms to determine which ones are making significant waves today.
+- [ ] Compile a list of the top three news items identified from the review of various sources.
+- [ ] Summarize each of the top three news stories briefly in order to provide a clear overview for the user.
+- [ ] Cross-reference the selected headlines with other credible news outlets to confirm their validity and importance.
+- [ ] Format the summary of the top three news stories in an easy-to-read manner, including any relevant links for further reading.
+- [ ] Present the compiled information on the top three news stories of today to the user.

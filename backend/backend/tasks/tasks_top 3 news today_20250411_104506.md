@@ -1,0 +1,19 @@
+- [ ] Step 1: Identify reliable and trustworthy news sources.
+    - [ ] Select at least three reputable news outlets (e.g., BBC, CNN, Reuters).
+- [ ] Step 2: Access current day’s headlines from chosen sources.
+    - [ ] Visit the websites of each selected news outlet.
+    - [ ] Use mobile apps or RSS feeds if available for more timely updates.
+- [ ] Step 3: Review and prioritize top stories.
+    - [ ] Scan through headlines to identify major breaking news items.
+    - [ ] Look for common themes across different sources to confirm significance.
+- [ ] Step 4: Summarize the top three stories.
+    - [ ] Write a brief summary (1-2 sentences) of each selected story highlighting key points.
+    - [ ] Ensure summaries are unbiased and factual, avoiding sensationalism.
+- [ ] Step 5: Compile the summarized news into a report.
+    - [ ] Format the information neatly for easy reading.
+    - [ ] Include links to original articles where applicable.
+- [ ] Step 6: Review the compiled report.
+    - [ ] Check for any grammatical errors or factual inconsistencies.
+    - [ ] Ensure that all required information is present and accurate.
+- [ ] Step 7: Present the final report to the user.
+    - [ ] Send the summarized top three news stories directly to the user.

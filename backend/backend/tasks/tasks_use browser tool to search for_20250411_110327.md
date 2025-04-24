@@ -1,0 +1,11 @@
+- [ ] Open the web browser.
+- [ ] Navigate to a reliable and popular news website (e.g., BBC News, CNN, or Reuters).
+- [ ] Use the search function within the site if available or scroll through the homepage to find today's top stories.
+- [ ] Identify the first top story of the day.
+  - [ ] Note down the headline and the brief summary provided.
+- [ ] Identify the second top story of the day.
+  - [ ] Note down the headline and the brief summary provided.
+- [ ] Identify the third top story of the day. 
+  - [ ] Note down the headline and the brief summary provided.
+- [ ] Compile these three stories into a list for easy review or further action.
+- [ ] Close the browser if no more actions are required, or keep it open for additional browsing.
