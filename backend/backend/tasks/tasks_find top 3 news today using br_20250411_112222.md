@@ -1,0 +1,9 @@
+- [ ] Open your preferred web browser.
+- [ ] Navigate to a reputable news website or use a news aggregator site like Google News.
+- [ ] If necessary, refresh the page to ensure you are seeing the latest updates.
+- [ ] Look for sections that highlight "Top Stories" or "Most Read" stories on the homepage.
+- [ ] Identify the first headline and briefly read its summary to understand what it is about.
+    - [ ] Note down the title of the story and a short description if necessary.
+- [ ] Move on to identify the second top news story following the same process as above.
+- [ ] Similarly, find the third most prominent or popular news item on the page.
+- [ ] Ensure you have noted down at least three distinct stories along with brief descriptions for clarity.

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local AI Agent</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="chatbox-area">
+            <h2>Chat & Agent Log</h2>
+            <div class="chat-history scrollable" id="chatHistory">
+                <p class="message system-info">Connecting to agent...</p>
+            </div>
+            <div class="model-selection">
+                <div>
+                     <label for="plannerSel">Planner LLM:</label>
+                     <select id="plannerSel">
+                         <option value="" disabled selected>Loading models...</option>
+                     </select>
+                </div>
+                 </div>
+            <div class="chat-input">
+                <textarea id="userInput" placeholder="Enter your query here... (Shift+Enter for newline)" rows="3"></textarea>
+                <button id="sendButton">Send</button>
+            </div>
+        </div>
+
+        <div class="display-area">
+            <div class="live-view-section">
+                <h2>Live Agent View (VNC)</h2>
+                <div class="live-view-content">
+                    <iframe id="liveViewFrame" src="about:blank" title="Live Agent VNC View"></iframe>
+                    <p id="liveViewStatus" class="visible">Connecting to VNC...</p>
+                </div>
+            </div>
+            <div class="task-list-section">
+                 <h2>Current Tasks</h2>
+                 <div class="task-list scrollable" id="taskList">
+                     <p class="system-info">Waiting for agent plan...</p>
+                 </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

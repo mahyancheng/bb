@@ -1,0 +1,317 @@
+/* frontend/style.css */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden; /* Prevent body scroll */
+}
+
+.container {
+    display: flex;
+    width: 95%;
+    max-width: 1600px; /* Allow wider view */
+    height: 90vh; /* Use viewport height */
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    overflow: hidden; /* Prevent content spill */
+}
+
+/* Left Column: Chatbox Area */
+.chatbox-area {
+    flex: 4; /* Adjusted flex */
+    min-width: 400px; /* Minimum width */
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #d1d5da;
+    padding: 16px;
+    background-color: #f6f8fa; /* Light grey background */
+    overflow: hidden; /* Prevent inner elements from overflowing */
+}
+
+/* Right Column: Display Area */
+.display-area {
+    flex: 6; /* Adjusted flex */
+    display: flex;
+    flex-direction: column;
+    padding: 0; /* Remove padding to allow iframe/sections to fill */
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+/* Common Section Titles */
+.chatbox-area h2, .display-area h2 {
+     margin: 0 16px 12px 16px; /* Add horizontal margin */
+     padding-top: 16px; /* Add top padding */
+     padding-bottom: 8px;
+     border-bottom: 1px solid #eaecef;
+     font-size: 1.1em;
+     font-weight: 600;
+     color: #24292e;
+}
+/* Specific title padding for display area sections */
+.display-area h2 {
+    margin-top: 0; /* Remove top margin for right-side titles */
+}
+
+.chat-history {
+    flex-grow: 1; /* Takes available vertical space */
+    overflow-y: auto; /* Enable vertical scroll */
+    margin-bottom: 12px;
+    padding: 10px;
+    border: 1px solid #eaecef;
+    background-color: #fff;
+    border-radius: 6px;
+    word-break: break-word; /* Ensure text wraps */
+}
+/* Style for individual messages added by JS */
+.chat-history .message {
+    margin-bottom: 8px;
+    padding: 7px 12px;
+    border-radius: 12px;
+    line-height: 1.45;
+    max-width: 90%; /* Limit message width */
+    box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+    white-space: pre-wrap; /* Preserve whitespace and wrap */
+}
+.chat-history .message.user {
+    background-color: #d1e7fd;
+    color: #0a3660;
+    margin-left: auto; /* Align right */
+    text-align: left;
+    border-bottom-right-radius: 4px;
+}
+.chat-history .message.agent-log,
+.chat-history .message.agent-important,
+.chat-history .message.agent-final,
+.chat-history .message.agent-error,
+.chat-history .message.agent-warning,
+.chat-history .message.tool-input,
+.chat-history .message.tool-output {
+    background-color: #e9ecef;
+    color: #343a40;
+    margin-right: auto; /* Align left */
+    border-bottom-left-radius: 4px;
+}
+.chat-history .message.agent-important { font-weight: bold; background-color: #e2e3e5;}
+.chat-history .message.agent-final { background-color: #d4edda; border: 1px solid #c3e6cb; font-weight: 500; color: #155724; }
+.chat-history .message.agent-error { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; font-weight: 500; }
+.chat-history .message.agent-warning { background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; font-weight: 500; }
+.chat-history .message.tool-input { background-color: #f3e5f5; border: 1px solid #e1bee7; font-family: monospace; font-size: 0.85em;}
+.chat-history .message.tool-output { background-color: #e8f5e9; border: 1px solid #c8e6c9; font-family: monospace; font-size: 0.85em;}
+
+.chat-history .message.system-info { /* Style for connecting/status messages */
+    color: #6c757d;
+    font-style: italic;
+    background-color: transparent;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    box-shadow: none;
+    padding: 2px 0;
+}
+.chat-history pre { /* Style code blocks */
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: monospace;
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+.chat-history code { font-family: monospace; }
+
+
+/* Model Selection Area */
+.model-selection {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eaecef;
+    flex-shrink: 0; /* Prevent shrinking */
+}
+.model-selection div { /* Add spacing between model rows */
+    margin-top: 5px;
+}
+.model-selection label {
+    margin-right: 5px; /* Reduced margin */
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #586069;
+}
+.model-selection select {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #d1d5da;
+    background-color: #fff;
+    font-size: 0.9em;
+    cursor: pointer;
+    min-width: 150px; /* Give selects some width */
+}
+.model-selection select:focus {
+    border-color: #0366d6;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3);
+}
+
+/* Chat Input Area */
+.chat-input {
+    display: flex;
+    align-items: flex-end;
+    padding-top: 12px;
+    border-top: 1px solid #eaecef;
+    flex-shrink: 0;
+}
+.chat-input textarea {
+    flex-grow: 1;
+    padding: 8px 12px;
+    border: 1px solid #d1d5da;
+    border-radius: 6px;
+    resize: none;
+    margin-right: 8px;
+    font-size: 0.95em;
+    line-height: 1.5;
+    min-height: 40px;
+    max-height: 150px;
+    overflow-y: auto;
+}
+.chat-input textarea:focus {
+    border-color: #0366d6;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3);
+}
+.chat-input button {
+    padding: 8px 16px;
+    background-color: #2ea44f;
+    color: white;
+    border: 1px solid rgba(27, 31, 35, 0.15);
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.95em;
+    transition: background-color 0.2s;
+    white-space: nowrap;
+    height: 40px; /* Match min-height of textarea */
+}
+.chat-input button:hover { background-color: #2c974b; }
+.chat-input button:active { background-color: #298e46; }
+
+/* Right Column Sections */
+.live-view-section, .task-list-section {
+    flex: 1; /* Each takes half vertical space */
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 150px;
+}
+.live-view-section {
+     border-bottom: 1px solid #eaecef;
+}
+
+.live-view-content {
+    flex-grow: 1; /* Takes available space */
+    position: relative; /* For positioning status */
+    background-color: #333; /* Dark background for VNC area */
+    border: 1px solid #444;
+    margin: 0 16px 16px 16px; /* Add margin */
+    border-radius: 6px;
+    overflow: hidden; /* Clip iframe */
+}
+#liveViewFrame {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+#liveViewStatus {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px;
+    font-size: 0.95em;
+    text-align: center;
+    display: none; /* Initially hidden */
+    z-index: 10;
+    white-space: nowrap;
+}
+#liveViewStatus.visible {
+    display: block;
+}
+
+.task-list-section {
+    padding-bottom: 16px; /* Add padding below task list area */
+}
+.task-list {
+    flex-grow: 1; /* Takes available space */
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border: 1px solid #eaecef;
+    border-radius: 6px;
+    padding: 12px;
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: #343a40;
+    margin: 0 16px 0 16px; /* Match content margin */
+}
+.task-list .system-info { /* Style placeholder text in task list */
+    color: #6c757d;
+    font-style: italic;
+    text-align: center;
+}
+.task-list .task-item {
+    padding: 6px 10px;
+    margin-bottom: 6px;
+    border-radius: 4px;
+    border: 1px solid #dee2e6;
+    border-left-width: 4px; /* Use left border for status color */
+    display: flex;
+    align-items: center;
+    background-color: #fff; /* White background for items */
+}
+.task-list .task-status {
+    margin-right: 10px;
+    font-size: 1.1em; /* Make icon slightly larger */
+    line-height: 1;
+    min-width: 20px;
+    text-align: center;
+}
+.task-list .task-description {
+    flex-grow: 1;
+    word-break: break-word;
+}
+
+/* Status indicators for tasks */
+.task-list .task-item.status-pending { border-left-color: #adb5bd; } /* Grey */
+.task-list .task-item.status-running { border-left-color: #ffc107; } /* Yellow */
+.task-list .task-item.status-done { border-left-color: #28a745; } /* Green */
+.task-list .task-item.status-error { border-left-color: #dc3545; } /* Red */
+
+.task-list .task-status::before { content: "⏳"; color: #adb5bd; } /* Pending */
+.task-list .task-item.status-running .task-status::before { content: "⚙️"; color: #ffc107; animation: spin 2s linear infinite; } /* Running */
+.task-list .task-item.status-done .task-status::before { content: "✅"; color: #28a745; animation: none; } /* Done */
+.task-list .task-item.status-error .task-status::before { content: "❌"; color: #dc3545; animation: none; } /* Error */
+
+@keyframes spin { 100% { transform: rotate(360deg); } }
+
+
+/* Scrollbar Styling */
+.scrollable {
+    scrollbar-width: thin;
+    scrollbar-color: #adb5bd #f1f3f5;
+}
+.scrollable::-webkit-scrollbar { width: 8px; }
+.scrollable::-webkit-scrollbar-track { background: #f1f3f5; border-radius: 4px; }
+.scrollable::-webkit-scrollbar-thumb { background-color: #adb5bd; border-radius: 4px; border: 2px solid #f1f3f5; }
+.scrollable::-webkit-scrollbar-thumb:hover { background-color: #868e96; }

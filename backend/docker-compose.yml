@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ..                     # project root (mahyancheng-bb/)
+      dockerfile: ./backend/Dockerfile
+    ports:
+      - "8000:8000"                   # FastAPI backend
+      - "6080:6080"                   # noVNC Web UI
+      - "5901:5901"                   # internal VNC
+    environment:
+      OLLAMA_ENDPOINT:        ${OLLAMA_ENDPOINT:-http://host.docker.internal:11434}
+      PLANNING_TOOLING_MODEL: ${PLANNING_TOOLING_MODEL:-llama3:latest}
+      DISPLAY: ":99"
+      TZ: Asia/Kuala_Lumpur
+      PYTHONUNBUFFERED: "1"
+
+    # NOTE: we now mount the **real** SPA that lives in app/frontend
+    volumes:
+      - ./app/frontend:/app/frontend:ro
+      - ./tasks:/app/tasks
+
+    shm_size: "2gb"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
