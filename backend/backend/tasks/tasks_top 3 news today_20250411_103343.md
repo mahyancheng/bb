@@ -1,8 +1,0 @@
-- [ ] **Identify Reliable News Sources**: Choose well-known and credible sources such as CNN, BBC, Reuters, or The New York Times.
-- [ ] **Access Websites of Selected Sources**: Navigate to the homepages or dedicated sections on these websites that highlight the most recent news.
-- [ ] **Review Headlines and Summaries**: Scan through headlines and quick summaries provided in today's updates. Focus on those marked as top stories, featured prominently, or have accompanying images/video.
-- [ ] **Select Top 3 Stories**: Choose three stories based on their impact, relevance, and the breadth of coverage they received across different platforms. Consider if these stories are covered by more than one source to ensure significance.
-- [ ] **Gather Detailed Information**: For each selected story, gather additional details like date published, author(s), main points, and any linked articles or multimedia content for a comprehensive understanding.
-- [ ] **Compile the News Briefing**: Organize the information into a concise report. Include headlines, brief descriptions, sources, links to original articles, and any important context that provides depth to each story.
-- [ ] **Review and Finalize**: Double-check all details for accuracy and completeness. Ensure that the stories are indeed today’s top news according to chosen credible sources.
-- [ ] **Present or Share**: Deliver the compiled list of top 3 news stories either verbally, in a written report, or through another agreed-upon medium as per user preference.
