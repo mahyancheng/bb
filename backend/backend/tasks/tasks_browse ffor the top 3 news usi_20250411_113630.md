@@ -1,7 +1,0 @@
-- [ ] Open the default web browser.
-- [ ] Navigate to a reliable and popular news website such as BBC News, CNN, or Reuters.
-- [ ] Once on the homepage of the chosen news site, identify the section that highlights "Top Stories" or similar headings that denote the most significant articles.
-- [ ] Scan through this section to find the top 3 news stories based on their prominence or any ranking provided by the website.
-- [ ] Read the headlines and brief summaries (if available) of these three top news items.
-- [ ] If necessary, click on each story's headline for more detailed information about it.
-- [ ] Compile a summary of these top 3 news stories including their headlines and key points or details.

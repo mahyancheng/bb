@@ -1,7 +1,0 @@
-- [ ] Confirm the current date to ensure news relevancy.
-- [ ] Choose reliable news sources (e.g., BBC, CNN, Reuters) for accuracy and credibility.
-- [ ] Access selected news websites or apps to gather a variety of headlines.
-- [ ] Identify trending topics across multiple platforms to confirm their prominence.
-- [ ] Select the top 3 stories that are most widely covered by chosen sources, indicating they are significant.
-- [ ] Briefly summarize each story including key points and impacts if applicable.
-- [ ] Compile summaries into a cohesive presentation or document.
