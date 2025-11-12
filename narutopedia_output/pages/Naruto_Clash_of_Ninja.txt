@@ -1,0 +1,120 @@
+Naruto: Clash of Ninja
+, known in Japan as
+Naruto: Gekitō Ninja Taisen!
+, is the first instalment of the
+Gekitō Ninja Taisen!
+ (
+Clash of Ninja
+)
+series
+. This was the very first 3-D cel-shaded
+Naruto
+ game.
+
+Gameplay
+
+The player can select between different game modes such as One Player mode, Two Player Battle mode, Play Against Computer mode, Survival mode, Time Attack mode, Training mode, and Story mode. Like with most fighters, first player to deplete the opposing side's health to zero wins, or the one with the most health left after a time out.
+
+In battle, characters while rendered in 3D polygons move back and forth via 2D plane fighters, but are also able to sidestep into the foreground and background, via left and right (characters' placement on the side of screen is relevant to the dodging direction however, where using the left-dodge button is always a foreground dodge and the right-dodge button being a background dodge). Because of this, characters can end up facing the wrong way from their opponent at times, leading to exploits in movement and notable management in being able to turn around on time to block rear-attacks (dodging however, is one way to back around effectively).
+
+Other movements include running, backdashing (usually done as a back flip), jumping and double jumping. Characters are able to perform weak attacks, strong attacks, throws, and special techniques. Weak Attacks are often quick moves that sport sets of combos/strings, with backward weak attacks having guard points during their animations, allowing autoguard.
+
+Strong Attacks are often projectile moves and special ninjutsu characters tend to have, and most projectiles that are ninja tools can be charged up. Most backward Strong Attacks tend to be a teleport, counterattack reversal or a special stance. Characters can press their weak and strong attacks in a neutral position or four directions to access different moves, with some combos branching off of certain attacks (combos/strings available vary for each character). Despite this, there are attacks with either the weak or strong button that are qualified as "weak" on hit (light hitstun/blockstun) or "strong" on hit (heavy hitstun/blockstun that is usually enough to knock the victim off of their feet; strong-on-hit attacks when blocked in particular often send the defender into aerial blockstun or backwards-sliding blockstun).
+
+Running attacks and midair attacks are also available, where most midair weak attacks are often diving attacks. Characters can also block attacks by holding back or standing still. The guard in the game is infinite and can guard anything except throws (which can be escaped with any face button press at the proper timing despite throws all coming out in 1 frames) and specials, but they can take "chip damage" (small amounts of damage from blocking) if they block weapon attacks or strong attacks that normally involve ninjutsu.
+
+In regards to more extensive combos, they are normally formed through understanding the properties of attack string/combo inputs in order to merge them together with other moves, much like other 3D fighters of a similar nature. However, the standard feature of damage scaling still applies, where overall damage will decrease the longer a single combo goes on. In this particular game/series however, all characters have their damage scaled down by 5% across the board, regardless of their overall average damage output. However, attack strings are all easy to escape when blocked, as their more-noticeable gaps can easily be dodged out of should the defender still remain grounded.
+
+The chakra gauge at the bottom of the screen fills up via attacking, taking damage or blocking attacks. Once at a certain point, players can press the dodge buttons while getting hit to use the
+Body Replacement Technique
+, to counter-attack from the rear direction of the attacker; either with a falling attack during airborne hitstun, or with a running attack animation when suffering from grounded hitstun (though the victim can combine a dodge with a downward direction in order to perform the grounded counterattack during airborne hitstun).
+
+However, some specific attacks are programmed/flagged to be inescapable with the said technique, along with whenever a character suffers damage while already knocked down without getting up on time) at the cost of some chakra however (exactly 75% of the gauge minimum).
+
+Recovering/teching from a knockdown of any sort by pressing either attack button upon landing not only gives a small amount of chakra, but also helps mitigate a small amount of damage taken upon falling down normally.
+
+If the chakra gauge is full, characters can perform secret special attacks (or ōgi/secret techniques in Japanese) that use up all chakra. Most of them are cinematic moves that require an initial blow to initiate, such as the
+Naruto Uzumaki Combo
+ and
+Lion Combo
+. Cinematic supers/specials with the X button also have the unique trait of ignoring damage scaling when used in a combo (but only the damage during the cinematic itself will ignore the said scaling). Certain attacks in a character's moveset can also be super-cancelled straight into such attacks (most of them being the second input of a neutral weak combo/string).
+
+Chakra can also be used to extend most characters' strong attacks, for example, such as Naruto's down strong attack (where he
+teleports
+ out of sight then uppercuts from underground), Kakashi's down strong attack (
+Earth Release: Double Suicide Decapitation Technique
+) and Sasuke's forward strong attack (
+Fire Release: Great Fireball Technique
+) can all be held down to extend their duration at the cost of chakra, though they can mainly be performed regardless of chakra amount. Most backward strong attacks that act as reversals can also be held down for chakra cost as well.
+
+The player also can unlock new features such as new characters, stages, and modes by accomplishing certain tasks in the game (i.e. to unlock both Naruto Uzumaki and Kakashi Hatake's alternate forms, the player must first play on story mode to unlock Rock Lee, then beat one player mode with all players twice). The Story mode follows the
+Prologue — Land of Waves
+ (to an extent), but the only character playable is Naruto Uzumaki, making the story a little twisted of how it's supposed to be.
+
+Other intricacies to the battle system via debugging and the like include moves that can duck under high-hitting attacks during certain frames (as manual crouching does not exist in this series), types of ground bounces that can either be recovered from or not, as well as moves that inflict stagger or a unique form of paralysis (which must be broken with rapid control stick movement). To also compensate for the clunky-ness associated with having one's back turned, taking any form of hitstun while one's back is turned is decreased compared to a frontal hit.
+
+Playable Characters
+
+Naruto Uzumaki
+ (Playable in a
+Nine-Tails
+ form)
+
+Sasuke Uchiha
+
+Sakura Haruno
+
+Kakashi Hatake
+ (Playable with
+Sharingan
+)
+
+Rock Lee
+ (Unlockable)
+
+Iruka Umino
+
+Zabuza Momochi
+
+Haku
+
+Stages
+
+Ramen Ichiraku
+
+Academy
+
+Hokage Rock
+
+Hidden Leaf Village Gates
+ (Day, Night)
+
+Forest of Death
+
+Great Naruto Bridge
+ (Day, Mist)
+
+Gamabunta
+'s Chamber
+
+Trivia
+
+In both Japanese and English versions, Naruto's respective voice actresses act as the announcers per round.
+
+Zabuza, Lee and Nine-Tailed Naruto are the only characters who cannot throw ninja tools with their strong attacks.
+
+Kakashi is the only character via his running strong attack which is a ninja tool throw akin to other characters like Sasuke, that has combos/strings that branch off of that said type of move (whereas other characters don't).
+
+Naruto is the only character in the series who throws the least amount of ninja tools for his neutral strong in Part I, where he only tosses a single kunai as opposed to 2 or 3 of them (save for his upward strong attack, and save for Iruka throwing a single giant shuriken); to compensate for this, his kunai/ninja tool throw possesses more knockback compared to others' at full charge.
+
+Sasuke normally stays silent after winning a round, but he has one unique line he says if he's facing Naruto. When he wins against him, he'll call him "Scaredy-Cat". This is a reference to the
+Prologue — Land of Waves
+ arc where after the fight against the
+Demon Brothers
+, Sasuke mocked Naruto for panicking and getting injured.
+
+In the game's files and via rumours, Hinata was initially to be a playable character in the roster before the sequel's release. Instead, she was rendered as a background character in the Konoha Front Gates stage.
+
+Lee (and eventually Guy in the later titles) is the only character with a unique backward weak attack that can be charged up for a guard break at full charge, though this is mainly due to them lacking any strong attack inputs that can be charged up in the same vein.
+
+There is a bug in all the games so far starting from this one, where within one frame of turning around, it is possible to perform a throw where it will mask the turn-around animation.

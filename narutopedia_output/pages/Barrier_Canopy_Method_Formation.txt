@@ -1,0 +1,17 @@
+This technique allows the user to create a spherical detection barrier with the user at the centre. At the user's command, the detection barrier can expand, grasping everything in the surroundings. The users can also detect anything that moves inside the barrier space with their own "sense". As the users move, the barrier will follow them.
+
+Trivia
+
+"Hō" (
+法
+) means "law", "method", or "ritual". "Jin" (
+陣
+) means formation or encampment. "Hōjin" (
+法陣
+) is the word used for the circle diagrams used in alchemy.
+
+See Also
+
+Sensing Barrier
+
+References

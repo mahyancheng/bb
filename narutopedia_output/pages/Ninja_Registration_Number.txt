@@ -1,0 +1,364 @@
+A
+ninja registration number
+ (
+忍者登録番号
+,
+Ninja tōroku bangō
+) is a unique identifier given to
+ninja
+ of certain
+hidden villages
+; different villages use different numbering schemes.
+
+Overview
+
+Registration numbers have only ever been provided within the supplementary
+databooks
+ of the
+Naruto
+ series, and even then only for characters that are given full biographies. Some such characters have their registration numbers listed as "?", implying that they have one but that it is not being disclosed for whatever reason;
+Minato Namikaze
+ is initially listed in this way before a proper number is provided in
+Jin no Sho
+. Still other characters have registration numbers listed as "—", implying they do not have one at all, either because their village does not use registration numbers (discussed below), because the character became a ninja before their respective village was founded (such as with
+Hashirama Senju
+ and
+Ōnoki
+), or for some other unknown reason (as with the
+Ame Orphans
+ and
+Iwagakure
+'s
+jinchūriki
+).
+
+Registration numbers are used by all of the villages of the
+Five Great Shinobi Countries
+ with the exception of
+Kirigakure
+, whose ninja have consistently been listed without one. Of the smaller villages, only
+Amegakure
+ is known to use registration numbers. Ninja of
+Otogakure
+ (as with
+Team Dosu
+ in
+Rin no Sho
+),
+Yugakure
+ (as with
+Hidan
+ in
+Sha no Sho
+), and
+Takigakure
+ (as with
+Fū
+ in
+Jin no Sho
+) are listed without registration numbers, suggesting those villages do not use them. Only two ninja from
+Uzushiogakure
+ have ever received full biographies in the databooks:
+Mito Uzumaki
+ is listed without a registration number, though this may be because of her age;
+Kushina Uzumaki
+ is listed with a registration number, though it conforms to the numbering scheme used by
+Konohagakure
+, where she received her ninja training. Thus, it's unclear whether or not Uzushio used registration numbers at any point. Ninja from
+Kusagakure
+ have never received full biographies, again making it unclear if the village uses them.
+
+Beyond the existence of ninja registration numbers, the databooks never go into detail about them, rendering everything that can be said about them entirely observational. Individuals evidently receive their numbers when they complete their ninja training, most commonly by graduating from their village's
+Academy
+: twenty-seven students graduate from
+Naruto Uzumaki
+'s Academy class,
+ though only
+nine
+ of those students are ultimately accepted as
+genin
+.
+ Those nine graduates have registration numbers ranging from
+012601
+ to
+012625
+, with the unaccounted for intervening numbers presumably belonging to the eighteen graduates who were denied as genin. Accordingly, members of genin teams generally have registration numbers within close proximity of each other, sometimes even consecutive numbers: the
+Sannin
+ are numbered
+002300
+,
+002301
+, and
+002302
+. With the exception of Amegakure, registration numbers are seemingly assigned sequentially, so that new ninja will receive higher numbers than their predecessors:
+Konohamaru Sarutobi
+ is numbered 012707, while his
+grandfather
+ is numbered 000261;
+Gaara
+ is numbered 56-001, while his
+sister
+ (three years his senior) is numbered 53-004.
+
+Registration Numbers by Village
+
+Konohagakure
+
+
+Ninja Registration
+Koharu Utatane
+000256
+Hiruzen Sarutobi
+000261
+Danzō Shimura
+000272
+Homura Mitokado
+000293
+Orochimaru
+002300
+Jiraiya
+002301
+Tsunade
+002302
+Dan Katō
+002973
+Might Duy
+003001
+Fugaku Uchiha
+004086
+Hiashi Hyūga
+005159
+Hizashi Hyūga
+005160
+Nonō Yakushi
+005200
+Mikoto Uchiha
+005348
+Nawaki
+005350
+Shibi Aburame
+005480
+Chōza Akimichi
+005490
+Shikaku Nara
+005491
+Inoichi Yamanaka
+005492
+Minato Namikaze
+006510
+Kushina Uzumaki
+007310
+Tsume Inuzuka
+007350
+Yoshino Nara
+009091
+Raidō Namiashi
+009717
+Kakashi Hatake
+009720
+Aoba Yamashiro
+009744
+Suzume
+009902
+Genma Shiranui
+010203
+Might Guy
+010252
+Ebisu
+010777
+Shizune
+010800
+Asuma Sarutobi
+010829
+Kurenai Yūhi
+010881
+Rin Nohara
+010885
+Obito Uchiha
+010886
+Ibiki Morino
+010913
+Yamato
+010992
+Tonbo Tobitake
+010997
+Mizuki
+011141
+Anko Mitarashi
+011226
+Hayate Gekkō
+011671
+Iruka Umino
+011850
+Yoroi Akadō
+011930
+Misumi Tsurugi
+011981
+Iwashi Tatami
+012021
+Izumo Kamizuki
+012049
+Kotetsu Hagane
+012050
+Itachi Uchiha
+012110
+Kabuto Yakushi
+012140
+Yūgao Uzuki
+012161
+Fū Yamanaka
+012337
+Torune Aburame
+012360
+Hana Inuzuka
+012368
+Sai
+012420
+Rock Lee
+012561
+Tenten
+012573
+Neji Hyūga
+012587
+Sakura Haruno
+012601
+Ino Yamanaka
+012604
+Sasuke Uchiha
+012606
+Menma Namikaze
+012607
+Naruto Uzumaki
+012607
+Shikamaru Nara
+012611
+Hinata Hyūga
+012612
+Shino Aburame
+012618
+Kiba Inuzuka
+012620
+Chōji Akimichi
+012625
+Konohamaru Sarutobi
+012707
+
+Sunagakure
+
+
+Ninja Registration
+Chiyo
+01-002
+Ebizō
+02-002
+Rasa
+28-115
+Yashamaru
+32-049
+Sasori
+33-001
+Baki
+38-212
+Yūra
+44-005
+Temari
+53-004
+Kankurō
+54-002
+Gaara
+56-001
+
+Iwagakure
+
+
+Ninja Registration
+Kitsuchi
+IW-06112
+Kakkō
+IW-06219
+Taiseki
+IW-06225
+Mahiru
+IW-06531
+Akatsuchi
+IW-08718
+Deidara
+IW-08721
+Kurotsuchi
+IW-09011
+
+Kumogakure
+
+
+Ninja Registration
+Dodai
+CL1532
+A (Fourth Raikage)
+CL2211
+Killer B
+CL3288
+Motoi
+CL4803
+Yugito Nii
+CL5322
+C
+CL5517
+Mabui
+CL5550
+Samui
+CL5570
+Darui
+CL5596
+Atsui
+CL6265
+Omoi
+CL6305
+Karui
+CL6306
+
+Amegakure
+
+
+Ninja Registration
+Shigure
+R1-115
+Kagari
+R1-126
+Oboro
+R1-127
+Mubi
+R1-128
+Baiu
+R2-039
+Midare
+R4-059
+
+Trivia
+
+Because ninja registration numbers roughly correspond to a character's age, all characters with "?" listed as their registration number are likewise not listed with ages in the databooks. Examples include
+Pakura
+,
+Gari
+, and the
+Third Raikage
+.
+
+Similarly, when
+Iruka Umino
+'s age is reduced from 25 in
+Rin no Sho
+ to 23 in
+Tō no Sho
+, his registration number is changed as well, going from 011450 in the former to 011850 in the latter.
+
+Several characters with "—" listed as their ninja registration numbers are similarly listed without
+ninja ranks
+, potentially explaining why they did not receive numbers. Examples include
+Karura
+,
+Rōshi
+, and
+Nagato
+.
+
+References

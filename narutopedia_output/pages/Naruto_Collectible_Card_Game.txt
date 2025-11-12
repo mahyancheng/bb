@@ -1,0 +1,196 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 253650333
+ of
+Wikipedia
+'s
+Naruto Collectible Card Game
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+
+
+
+
+A typical card of the CCG.
+
+
+
+Published by
+Bandai
+, the
+Naruto Collectible Card Game
+ is a collectible card game (CCG) based on the
+Naruto
+ series. This game was introduced in 2006, and ended in 2013.
+
+Gameplay
+
+This is a multi-player, duel-based game, in which players take alternating turns putting cards into play and attacking using Ninja cards combined with Jutsu, Mission, or Client cards. The goal of the game is to either earn ten battle rewards before the other player or force the other player to run out of cards. In cases where both players meet the conditions to win, the win is deferred to the current attacking player. Players each use a deck consisting of exactly fifty cards. Of those fifty cards, no more than three cards of the same name can be used in a single deck.
+
+Design
+
+A
+Naruto
+ card is divided into two halves. The upper half is the art while the lower half illustrates its subject. The upper-left and upper-right corners identify the card type and symbol type, respectively. The lower half gives the name of the card and describes its effects and statistics. On the bottom of every card lies the copyright information, card number, set logo, and a number of white, yellow or red dots (or lack thereof) determining rarity.
+
+Ninja cards are identified by a grey background or by the card type symbol. To the left of the card name is the ninja's village of origin. To the right are the card's Entrance cost and Hand cost, identified by a
+shuriken
+ and an image of three cards, respectively, both of which are numbered. Below the card name is the card's basic characteristics, giving the ninja's home village, rank, and gender. It may also have certain special effects or statuses such as "Mental Power", "Ambush" and/or "Growth". Beneath that is the card's effect text, which clarifies what a ninja does aside from attacking and defending. In the bottom-right corner are the combat and support numbers and the combat attribute, the former of which determines the card's overall power. The number printed on the bottom is the card's healthy power while the one printed on the side is its injured power (which comes into effect after the card is defeated by another). In most cases, the injured number is lower than the healthy one. The combat attribute is used in determining the effect of other cards used on it.
+
+Mission cards are designed in basically the same manner as Ninja cards, but have a deep sea green background and lack power, characteristics and a combat attribute.
+
+Jutsu cards have various symbols beneath the name of the card. These symbols are the card's "jutsu cost", and must be paid for applying the upper-right hand symbols (Chakra type) of cards in the player's chakra (voluntary discard) area in order to gain their effects in battle.
+
+Client cards are similar to Ninja cards, but have two chakra types in the upper-right corner and have no power statistics (they cannot be used in ninja battles).
+
+English Set List
+
+Path To
+Hokage
+
+Coils Of
+The Snake
+
+Curse Of
+The Sand
+
+Revenge and Rebirth
+
+Dream Legacy
+
+Eternal
+
+Rivalry
+
+Quest for Power
+
+Battle of Destiny
+
+The Chosen
+
+Lineage of Legends
+
+Approaching Wind
+
+A New Chronicle
+
+Faithful Reunion
+
+Emerging Alliance
+
+Foretold Prophecy
+
+Broken Promise
+
+Will Of Fire
+
+Fangs Of The Snake
+
+Path Of Pain
+
+Tales Of The Gallant Sage
+
+Shattered Truth
+
+Weapons Of War.
+
+Invasion
+
+Kage Summit
+
+Avenger's Wrath
+
+Hero's Ascension
+
+Ultimate Ninja Storm 3
+
+Tournament Pack 1
+
+Tournament Pack 2
+
+Tournament Pack 3
+
+Tournament Pack 4
+
+North American distribution
+
+Booster packs in North America are sold in two alternate art packages, they contain six common cards, two uncommon cards, a foil of a random rarity and a rare card with a foil lettering on the name. "Super-rares" are included in boosters to a varying probability, with one super-rare per 12 packs in the first four (4) sets, and one super-rare per 6 packs in editions released after Revenge and Rebirth. 'Starter decks' are also sold. These are fifty card packs containing one forty-card deck, a ten-card sideboard, a game playmat, a turn-counter, and a stainless steel "ninja blade coin." Booster boxes (display boxes containing 24 booster packs) and theme deck sets (containing all four different decks) are also sold for bulk purchasers. The game's popularity has led to an established market for cards via the internet, with some super-rares going for over US $40 on eBay. In 2023, 10 years after the games discontinuation, the booster packs and boxes can fetch high prices on auction sites like eBay.
+
+The game was replaced by the Naruto Shippuden: Deck Building Game and the Naruto x Boruto Card Game. Both of them weren't very successful.
+
+Rarity
+
+Depending on the combination of dots on the bottom line of any given card, that card will have a specific rarity. Like other collectible card games, a card's rarity often marks its overall power or usefulness; however, certain cards are also made rare simply for their popularity, instead of for strategic reasons. Levels of rarity are named differently in the American version to match conventions used by other collectible card games for simplicity reasons.
+
+The American version also has "Foil" cards, which are shiny versions of normal cards. The Japanese version uses such cards as "Super-rares," instead of simply making foil versions of any given card. In American booster packs containing Super-rares (Ultra-rares in Japan), the foil card is replaced by the Super Rare and the Rare card is left alone. An interesting note is that each booster set has two "package" variations, one whose foil rares is foiled with a diamond-shaped pattern, while the other is a wavy, swirl-like pattern.
+
+Rarity Guide For Japanese and English Cards
+
+Japanese
+
+No Dots = normal card (no foiled picture or gold name text, could be specially printed in wavy or diamond foil)
+
+1 Dot = Rare(no foiled or gold name text, could be specially printed in wavy or diamond foil)
+
+2 Dots = Super Rare (Foiled in different forms depending on set, including sparkly-rainbow foil and wavy-rainbow foil)
+
+3 Dots = Ultra Rare (Golden-reflective foiled with golden-foiled name text)
+
+4 dots= Ultimate Rare
+
+5 dots= Secret Rare (Shippūden only)
+
+English
+
+No Dots = Normal Card (no foiled picture or gold name text, could be specially printed in wavy or diamond foil)
+
+No Dots Alt= Promotional cards also have no Dots on them. Just the added PR.
+
+1 Dot = Uncommon Card (no foiled picture or gold name text, could be specially printed in wavy or diamond foil)
+
+1 red Dot = Card found in starter decks only (no foiled picture or gold name text, not found in wavy or diamond foil)
+
+2 Dots = Rare Card (Older versions have gold name text, newest have rainbow-coloured mixes, no foil, could be specially printed in wavy or diamond foil; some are found in starter decks without gold or coloured name text, newest set has reverted back to gold)
+
+3 Dots = Super Rare Card (gold-reflective foiled with gold-foiled name text, is not found in wavy or diamond foil(in chosen lighter foil))
+
+3 red Dots = Super Rare Card found in starter decks only (gold-reflective foiled with gold-foiled name text, is not found in wavy or diamond foil)
+
+Some reprints of popular cards, such as
+Zabuza Momochi
+ and
+Sakura Haruno
+, have been showing up as alternate foiled promos. The foiling is often called "Silver" or "Platinum".
+
+Issues
+
+The game's cards are released in card sets themed after the current events taking place in the English version of the anime and manga. Because the English version is so far behind the Japanese version of the series, the Japanese version of the card game is well ahead, with many cards symbolising events that have not yet appeared on Cartoon Network's showing of the anime. For that reason, many independent websites have taken it upon themselves to translate the Japanese cards as set spoilers.
+
+Bandai, the company responsible for localisation and distribution in the game's American market, has criticised this practice, claiming that such translations are misleading because the North American rules are different from the game in Japan. This is at least somewhat true in the fact that some of the Japanese cards use somewhat different terminology when literally translated in English, though recent trends have seen an alteration in text or new effect text altogether. The moderators of the forums located on the card game's official website are under policy to immediately lock any threads showing or requesting a translation of a Japanese card that has yet to be officially localised and launched into the American market, although raw images of the cards themselves are tolerated.
+
+Upon launch of the game in America in April 2006, the game was quickly sold out across the nation, achieving above and beyond the demand Bandai had projected for it. The result was an incredible product shortage that spiked card and booster pack prices as the cards became less available. Parts of North America either consistently sold out or continued to sell
+Path to Hokage
+ booster packs, well above the prices of packs for the top competitors in the collectible card game genre. This was largely been corrected by the release of unlimited edition
+Path to Hokage
+ cards six months later.
+
+There are also problems regarding the prints of very early Path to Hokage cards. Some of the cards were translated in a fashion that replaced terms unique to the series with other synonymous terms ("Illusion" for "
+Genjutsu
+," for example). These have since been corrected, and the series' terms have been used ever since.
+
+The game was cancelled by Bandai USA in May of 2013, announcing that after 7 years set 28: "Ultimate Ninja Storm 3", would be its final released set.
+
+External links
+
+Official Bandai website
+ (orphan link)
+
+Official Japanese Carddas website
+ (orphan link)
+
+Naruto CCG Fan Wiki

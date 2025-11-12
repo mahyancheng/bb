@@ -1,0 +1,130 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 384448916
+ of
+Wikipedia
+'s
+Naruto: Ninja Council (series)
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+Naruto: Ninja Council 2 European Version
+, known as
+Naruto: Saikyō Ninja Daikesshu 3 for DS
+ (
+ＮＡＲＵＴＯ－ナルト- 最強忍者大結集3 for DS
+,
+literally meaning:
+ Naruto: Great Council of the Strongest Ninja 3 for DS) in Japan, is the third instalment in the
+Ninja Council
+ series and the first for the
+Nintendo DS
+.
+
+Gameplay
+
+The game features action/side-scrolling gameplay with touch-screen functionality. There are separate stages in the game much like the first two games in the series.
+
+While still reusing the sprite work from the prior
+Ninja Council
+ game as well as the main control scheme, there are several extra additions:
+
+Running no longer requires double tapping a left/right direction once, and must be done by holding down the B button while also creating afterimages.
+
+Neutral attacks are reduced to 3 total inputs instead 4 total, with the initial starting input only being done once instead of twice.
+
+Characters can now crouch attack once more with Down + Y unlike in the second game, and can move diagonally-down in a left/right direction to crouch-walk under tight spots akin to the first game's crawling. The character only gets back up from a crouch-walk if left/right is released even if the down direction is not being applied.
+
+HP and Chakra are now separate metres once more, functioning akin to the first
+Ninja Council
+ game with Chakra recovering overtime when techniques are used. The boss HP gauge appears in the upper right like in the said first
+Ninja Council
+ game as well.
+
+Jutsu/Secret Techniques are now done by flicking the stand-by partners beside the main leader acting as the on-point character, making it function akin to a tag-team format to emphasize the 3-man cell motif.
+
+The start of a mission allows you to select who to be as your on-point leader you will primarily play as (who cannot perform any secret techniques), while the other 2 are used solely for their secret techniques.
+
+Jutsu are now cinematics that are automatically triggered, attacking the nearest enemy target in vicinity. Some Jutsu however, may act as support skills or full-screen clear-outs. Such moves when used, use up only the assist characters' chakra gauges instead of the on-point leader's as theirs too can also regen over time.
+
+Wall-clinging can be done when jumping towards any vertical wall, where the player character will briefly stick to it before being forced to fall off. This allows usage of a wall-jump off of it, making some spots allow the user to scale upwards with wall-jumps.
+
+Specifically marked walls however, allow for usage of wall-running along them with ease. It gradually drains chakra as the user sticks to them.
+
+The L button can be used to perform a Body Replacement Technique at the cost of some chakra when under attack.
+
+The X button is a secondary attack button, which allows you to throw ninja tools that are picked up, unlike with the prior game that makes them temporary-use items that negates usage of normal attacks. Ninja tools cannot be thrown continuously and have very minor cooldown time between throws, but they can also be thrown while crouching.
+
+Ninja tools however, can be knocked away from the user if they are knocked down, losing usage of the ninja tool as it flickers away and cannot be picked-up again regardless. Picking up any other new ninja tools also automatically discards the current one the user is wielding and also makes it vanish on the spot.
+
+Attack damage is now generalised into 3 levels: green, orange and red. Green is the weakest, orange is medium, while red often involves a knockdown that can be recovered from if the victim is deft enough to react. Getting knocked down towards a wall however, causes the victim to be slammed into it, only to briefly drop vertically downwards to knocked-down state.
+
+Blocking is removed, as the R button does nothing. Teleports (up + A to teleport upwards or down + A to teleport forwards behind the closest enemy) are also removed.
+
+The storyline loosely follows the
+Sasuke Recovery Mission
+, minus the Naruto and Sasuke battle. However, various mini game segments can occur that are uniquely-specific for each character, even if they are not present in the player's currently selected 3-man cell. They involve use of the touch screen to fulfill their requirements, and win or fail, the story still plays out the same, only with succeeding in these mini games providing a benefit of sorts to the player (e.g. a boss has starts out with lower HP in a later boss battle, player recovers HP, etc).
+
+The
+Sound Four
+ are also present in the game, but
+Kimimaro
+ is only featured in a mid-mission mini game.
+
+The game does not show the Naruto vs Sasuke battle, it instead adds a final battle with
+Orochimaru
+. After Orochimaru is defeated, Kabuto appears and escapes with Orochimaru, Sasuke is then shown betraying Naruto and the Hidden Leaf Village at the end of the game.
+
+The game also features a drawing mode where the player can draw on the
+Hokage Rock
+, and later can unlock more pictures to doodle on.
+
+Playable Characters
+
+Naruto Uzumaki
+
+Sasuke Uchiha
+
+Sakura Haruno
+
+Rock Lee
+
+Neji Hyūga
+
+Support Characters
+
+Kakashi Hatake
+
+Shikamaru Nara
+
+Ino Yamanaka
+
+Tenten
+
+Might Guy
+
+Chōji Akimichi
+
+Hinata Hyūga
+
+Shino Aburame
+
+Kiba Inuzuka
+
+Gaara
+
+Temari
+
+Kankurō
+
+Trivia
+
+In this game and the next one, the Naruto Uzumaki Combo is instead performed with more than 4-to-5 shadow clones, with extra preluding punch attacks from at least 3 clones that bash the victim around before the launching kicks, and 3 consecutive spinning heel drops done by a clone each from differing midair angles.
+
+The localised version unlike the original Japanese version, is completely unvoiced.
+
+References

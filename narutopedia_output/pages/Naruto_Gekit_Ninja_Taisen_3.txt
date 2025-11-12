@@ -1,0 +1,134 @@
+Naruto: Gekitō Ninja Taisen! 3
+ is the third instalment of the
+Gekitō Ninja Taisen
+ series.
+
+Gameplay
+
+The game covers the events of the anime from the
+Konoha Crush
+ to the
+Search for Tsunade
+. This instalment introduces the ability to change forms during combat. In addition, players can now use a team of three characters against an opponent. This game keeps the shop feature from
+Naruto: Clash of Ninja 2
+.
+
+Also new are "Crisis Specials". Characters now receive an indicator for hitting 40% health, and in that mode can access certain new special attacks. For example, Naruto's
+Rasengan
+ replaces his
+Naruto Uzumaki Combo
+ neutral special upon hitting low health.
+
+Yet another new feature for characters with alternate forms are transformations via their down specials, making previous characters become a single one. For example, Naruto in his crisis mode can now transform into his Demon Fox Form in battle, while Sasuke and Kakashi can turn on and off their
+Sharingan
+ (though only turning it on has a chakra cost). Oddly enough, the counter hit mechanic no longer has an indicator on the HUD despite counter hits still existing.
+
+In the prequels of the series, the guard was infinite and couldn't be broken. Now in this game, as attacks are blocked, the guard colour will change from blue to yellow to red. If a player keeps blocking when their guard is red at a certain point, the guard can shatter via a guard crush which leaves the defender vulnerable and losing all of their chakra while suffering a small amount of damage upon the guard crush. The guard strength will immediately reset to full strength if it's broken. However, the guard metre itself is not visually shown in-game (not until
+Gekitō Ninja Taisen! 4
+).
+
+When suffering from a guard crush, the victim stumbles back, albeit even when suffering from an airborne guard crush causes them to land on the ground while nearly tumbling back (but are still considered to be in grounded-standing state).
+
+The content in this game would be reprised in America on the Wii in the form of
+Naruto: Clash of Ninja Revolution
+, only with alternate touches such as features from the
+EX
+ games and
+Gekitō Ninja Taisen! 4
+ (at the cost of a reduced roster and the removal of 3-man cell).
+
+Playable Characters
+
+Naruto Uzumaki
+ (
+Nine-Tails
+ form)
+
+Sasuke Uchiha
+ (
+Sharingan
+)
+
+Sakura Haruno
+
+Kakashi Hatake
+ (
+Sharingan
+)
+
+Iruka Umino
+
+Rock Lee
+
+Neji Hyūga
+
+Might Guy
+
+Shikamaru Nara
+
+Ino Yamanaka
+
+Kiba Inuzuka
+
+Hinata Hyūga
+
+Gaara
+
+Kankurō
+
+Orochimaru
+
+Haku
+
+Zabuza Momochi
+
+Mizuki
+
+Akamaru
+
+Karasu
+
+Tenten
+
+Chōji Akimichi
+
+Shino Aburame
+
+Temari
+
+Jiraiya
+
+Tsunade
+
+Third Hokage
+
+Anko Mitarashi
+
+Itachi Uchiha
+
+Trivia
+
+As of this game in the series, Kakashi will have his health slowly drain when his Sharingan is active.
+
+Likewise with both Sasuke and Kakashi, activating and deactivating their Sharingan alike (the latter which has no lag via 0 frames along with no chakra cost as there is literally no animation) will count as a super/special input, allowing them to super/ōgi-cancel one of their weak attack inputs with essentially a metreless-0-frame-cancel between in order to form unique pressure strings and combo extensions in comparison to the other characters.
+
+Anko fights with an alternate stance system in this game series where she lies down on her back in a relaxed state, giving her access to alternate combo strings. Pressing the grab button during this will return her to normal stance, akin to how Shikamaru's "thinking" stance works via the same exact mechanics. Tenten likewise, shares the exact same mechanic with a unique back-turned stance.
+
+Hayate Gekkō
+'s Japanese voice acts as the announcer. In the localised reprisal
+Clash of Ninja Revolution
+, his English voice follows suit by proxy. While barely audible, his Japanese voice when announcing in some of his voice lines, gives off a small cough.
+
+While Chōji normally makes a cameo with Asuma in the nighttime version of the Ramen Ichiraku stage, this will not be the case if he is selected on that very same stage as a playable character.
+
+Orochimaru's
+Five Elements Seal
+ in this game also allows for him to not only seal off Naruto's initial Jinchūriki state like in the source material (as mid-battle transformations are now a thing), but seal's disruptive nature also allows him to lock others out of their enhanced states as well (such as allowing him to deactivate Sasuke and Kakashi's Sharingan). However, at a cost, it has been nerfed to have its affects only last 10 seconds total instead of the entire round.
+
+Also in this game, the sounds made from users that perform the
+Hidden Shadow Snake Hands
+ now cause actual snake-hissing sounds to occur instead of a unique water-droplet sound effect (which of course, involves Orochimaru and Anko).
+
+Also as of this game, instead of using the sped-up generic
+Bloody Roar
+ dashing animations, a number of jōnin characters (e.g. Kakashi) now perform a ninja run for their dash animations instead.

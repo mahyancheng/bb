@@ -1,0 +1,3 @@
+The user communicates to another by using a
+scroll
+, on which writing appears and disappears.

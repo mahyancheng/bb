@@ -1,0 +1,15 @@
+A spy drone
+Shinobi-Ware
+, created by
+Amado Sanzu
+, and utilised by
+Delta
+.
+
+Usage
+
+This deployable drone is normally housed in Delta's back. Following her commands, it can be remotely controlled without using
+chakra
+, making it undetectable through
+sensing
+. The drone is equipped with a camera that is linked directly to Delta's artificial eyes, allowing her to expand her vision. It also has a radar feature that allows it to detect things invisible to the naked eye. This camera is also able to record what it sees. Should Delta's body be destroyed, the drone can be used to upload her consciousness into a new body.

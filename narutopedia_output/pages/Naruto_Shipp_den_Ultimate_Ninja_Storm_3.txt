@@ -1,0 +1,2003 @@
+Naruto Shippūden: Ultimate Ninja Storm 3
+ is a game developed by CyberConnect2 and published by Namco-Bandai games for the Xbox 360 and PlayStation 3. It was released on March 5, 2013 in North America, March 8 in Europe, and April 18 in Japan. An enhanced edition called "
+Full Burst
+" was released on October 24th 2013 for PC and Steam. The game starts with a flashback from the beginning of the
+Nine-Tailed Demon Fox's Attack
+ and then starts with the
+Five Kage Summit
+ arc, ending with an alternate turn of events in the
+Fourth Shinobi World War
+. In Europe, the game is available in a "
+Will of Fire Edition
+" and "
+True Despair Edition
+".
+
+An enhanced re-release was bundled in
+Naruto Shippūden: Ultimate Ninja Storm Trilogy/Legacy
+ for PlayStation 4, Xbox One, and Microsoft Windows. The game was once again re-released for the Nintendo Switch on April 26, 2018.
+
+Gameplay
+
+
+
+
+
+A limited time download was available for Naruto, which allowed players to use Goku's classic turtle gi from Dragon Ball Z.
+
+
+
+Namco Bandai stated that the game would feature a 'more profound' story and a combat system that is 'aimed to further evolution'. Other than the usual form of Awakening, renamed Adversity Awakening, the game introduces a new element called Instant Awakening where players can go into awakening mode at any point during the battle, even in the middle of a combo. The downside of being in an Instant Awakened state is that it depletes a player's max chakra amount. If a player depletes their chakra capacity completely while in an Instant Awakening, they will have to wait for a period before being able to charge their chakra (though in Guy and Lee's case, they have self-inflicted HP drain instead for their Instant Awakenings).
+
+Characters who are awakened can now be grabbed or hit by a U2/Ultimate Jutsu, whereas trying to do so in the prior games forces a clashing recoil for both characters akin to an actual clash.
+
+Similar to the
+Naruto: Gekitō Ninja Taisen/Clash of Ninja
+ Wii games akin to the stage transition mechanic, characters can now be knocked out of the ring, but in this game, unless a support character is sacrificed, this always results in an automatic loss of the match. Also, there is stage destruction in addition to ring outs. There is a new addition in the Team Attack System as the player can now use their support characters to get ready to charge and attack. Also, support characters now have health bars and once their health is depleted, the support player can no longer be used and their body remain on the stage lifeless for a few seconds. If the player has one support character, it has ten health bars. If the player has two support characters, each has five health bars.
+
+Boss battles also make their return to the game. The game also has the return of missions in Konoha during story mode. The story mode also features mob battles, similar to
+Naruto Shippūden: Ultimate Ninja Impact
+. There is a new system known as "The Ultimate Decision", where players are able to follow two different paths in the game which are the Legend and Hero paths. Legend path is mostly difficult in battles while Hero path is the opposite. Choosing a path gives a player good amount of points on the chosen path if the battle is completed.
+
+However, a majority of intricate mechanics that used to be in the games before this one have been somewhat nerfed and/or awkwardly balanced:
+
+Hitstun on all attacks are adjusted, including the air chakra dash which is made to be more angle-dependent.
+
+Thus, while it is still possible to loop a perfectly-performed downwards air chakra dash on an opponent endlessly provided if they cannot escape with a Body Replacement Technique (allowing for a large range of followups in all other cases), there are times the hitstun will fail to register and can cause the opposition to be able to block it far sooner than before if performed at an awkward angle.
+
+The original ninja dash also by this proxy no longer generates as much hitstun.
+
+A double jump is now added, which somewhat conflicts with the original ninja move input.
+
+A majority of chakra ninja tool throws that used to have knockdown, stunning and/or staggering hit effects have been severely nerfed, only inflicting the amount of hitstun akin to a standard ninja tool throw.
+
+Ninja item tags accessed with the D-Pad that inflict status effects no longer do so when blocked, unlike in
+Generations
+.
+
+Tilt/mid-ranged attacks can no longer cancel into a ninja move or a neutral jump, effectively nerfing some characters who relied on such moves.
+
+Both neutral jump and ninja move cancels (and likewise the Hollow Step) now occur immediately without buffering towards an animation's end.
+
+The Body Replacement metre now recharges slightly faster more.
+
+Characters can no longer customise their ninja item sets, and some ninja items have been removed.
+
+Some characters now have more notably-re-balanced frame data across their attacks, as well as questionable physics changes on attacks such as Pain's
+Shinra Tensei
+ or moves with newly-added invincibility frames in their startup or in unexpected animation frames.
+
+All in-game hitboxes are replaced with generic mesh colliders, causing many more back hits to be present.
+
+A new mechanic called a "Relay" is added. Upon holding the close-range/basic attack button akin to the first
+Storm
+ game's Ultimate Impact attack, the user jumps backward and flashes yellow (different from the Spark Cancel), spending chakra meter. Releasing the button from there causes them to break into a fast dash.
+
+Upon connecting with this dash, you are prompted to call one of your supports to trigger their close-range up string finisher (which skips over their intro-close-range/neutral string inputs entirely). Upon the said up string finisher being completed, you can then call the other support to trigger their air string to finish off the Relay.
+
+The said yellow spark during a Relay can be cancelled into a block/guard, as well as being able to cancel a close-range attack of any sort into a Relay itself.
+
+Development
+
+Naruto Shippūden: Ultimate Ninja Storm 3
+ was first announced by Namco Bandai Games in June 2012 in the manga magazine Weekly Shōnen Jump. With the official announcement, Yusuke Sasaki from Namco Bandai promised improvements regarding the fighting system and the story mode. CyberConnect2 CEO Hiroshi Matsuyama also promised the return of "epic boss battles" that were absent in
+Naruto Shippūden: Ultimate Ninja Storm Generations
+.
+
+In August 2012, CyberConnect2 started a new suggestion form in their official website, requesting players from all over the world their opinions regarding what they would like to see in Ultimate Ninja Storm 3 and upcoming Naruto games they would release. In July 2012, Comic-Con International, Namco Bandai Games America representatives confirmed plans for a Spring 2013 release in North America.
+
+In October 28, London MCM Expo, CyberConnect2 CEO Hiroshi Matsuyama announced a card edition, a poster, a Naruto DLC
+Goku
+ costume, the original Naruto Storm 3 soundtrack, the Naruto Storm 3 game, a figurine by Banpresto, and a Naruto edition and a Sasuke edition. They also stated that those who pre-order will get five free downloadable costumes, including Armoured Naruto. This game is rated T for Teen. There is a "violent imagery" filter that can be turned on or off, for people under 13.
+
+In January 4, 2013, Hiroshi Matsuyama announced that there will be over 80 playable characters.
+
+In July 4, 2013,
+Naruto Shippūden: Ultimate Ninja Storm 3 Full Burst
+ was announced by Namco Bandai Games Europe, containing material of the original with enhanced cinematics, all released DLC including the new "Final Episode of the Uchiha Brothers" DLC, which expands the game's story and adds
+Kabuto Yakushi
+'s
+Sage Mode
+ form to the character roster and 100 additional missions in the story. Owners of the console game will be able to download the new content as a DLC pack.
+
+On October 22, 2013,
+Naruto Shippūden: Ultimate Ninja Storm 3 Full Burst
+ was released.
+
+Non-Canon Game Ending
+
+As the war was still on-going at the time, a non-canon ending to the story was made.
+
+Defeated,
+Tobi
+,
+Madara
+ and
+Kabuto
+ fall back, thus giving victory to the
+Allied Shinobi Forces
+. The
+Five Great Shinobi Countries
+ shinobi return to their villages while
+Kage
+ discuss on preparing for a counter-attack against Madara's group along with bettering the peace between them and their countries. Naruto is congratulated for his victory upon awakening from his battle with Tobi in
+Konoha
+ and is spurred by the spirits of his parents to join his friends.
+
+Sasuke, however, leaves the Mountain's Graveyard to find Naruto.
+
+Playable Characters
+
+Character
+
+Awakening Mode(s)
+
+Additional Outfit(s)
+
+Naruto Uzumaki
+
+One-Tailed Form
+,
+Four-Tailed Form
+,
+Nine-Tails Chakra Mode
+
+Playable in Part I and Part II
+
+Sage
+
+Naruto
+
+Six-Tailed Form
+
+Hokage
+ Costume
+
+Sakura Haruno
+
+Allied Shinobi Forces
+,
+Maiden's Anger Mode
+,
+Herculean Mode
+
+Playable in Part I and Part II
+
+Sai
+
+Allied Shinobi Forces
+,
+Fast Writing Mode
+
+Sasuke Uchiha
+
+Sharingan
+,
+Curse Mark Mode
+,
+Susanoo Mode
+,
+Susanoo Eternal Mangekyō Sharingan Mode
+
+Playable in Part I and Part II
+
+Sasuke Uchiha
+
+Taka
+
+Mangekyō Sharingan Mode
+
+Karin
+
+Angry Mode
+,
+Attracted Mode
+ (against Sasuke)
+
+Suigetsu Hōzuki
+
+Water Arm Mode
+
+Jūgo
+
+Curse Mark Mode
+
+Shikamaru Nara
+
+Allied Shinobi Forces
+,
+Strategy Mode
+
+Ino Yamanaka
+
+Allied Shinobi Forces
+,
+Hundred Scattered Flowers Mode
+
+Chōji Akimichi
+
+Allied Shinobi Forces
+,
+Butterfly Mode
+
+Kiba Inuzuka
+
+Allied Shinobi Forces
+,
+Food Pills Mode
+
+Shino Aburame
+
+Allied Shinobi Forces
+,
+Beetle Mode
+
+Hinata Hyūga
+
+Allied Shinobi Forces
+,
+Byakugan Mode
+,
+Twin Lion Fists Mode
+
+Playable in Part I and Part II
+
+Gaara
+
+Allied Shinobi Forces
+,
+Brutal Sand Mode
+,
+Kazekage Mode
+
+Playable in Part I and Part II
+
+Temari
+
+Allied Shinobi Forces
+,
+Heavenly Fan Dance Mode
+
+Kankurō
+
+Allied Shinobi Forces
+,
+Salamander Mode
+
+Rock Lee
+
+Eight Gates Mode
+
+Playable in Part I and Part II
+
+Neji Hyūga
+
+Allied Shinobi Forces
+,
+Byakugan Mode
+
+Playable in Part I and Part II
+
+Tenten
+
+Allied Shinobi Forces
+,
+Bashōsen Mode
+
+Kakashi Hatake
+
+Allied Shinobi Forces
+,
+Sharingan Mode
+
+Young
+Kakashi
+
+White Light Blade Mode
+
+Obito Uchiha
+
+Sharingan Mode
+
+Yamato
+
+Wood Release Mode
+
+Might Guy
+
+Eight Gates Mode
+
+Asuma Sarutobi
+
+Flying Swallow Mode
+
+Reincarnated
+
+Hashirama Senju
+
+Wood Release Ninjutsu Mode
+
+Tobirama Senju
+
+Water Release Ninjutsu Mode
+
+Hiruzen Sarutobi
+
+Hokage Mode
+
+Minato Namikaze
+
+Yellow Flash Mode
+
+Jiraiya
+
+Sage Mode
+
+Orochimaru
+
+White Snake Mode
+
+Tsunade
+
+Herculean Mode
+
+Chiyo
+
+Chikamatsu Ten Puppets Mode
+
+A (Fourth Raikage)
+
+Raikage Mode
+
+Killer B
+
+Samehada
+,
+Gyūki
+
+Darui
+
+Black Lightning Mode
+
+Mei Terumī
+
+Mizukage Mode
+
+Ōnoki
+
+Tsuchikage Mode
+
+Mifune
+
+Samurai Mode
+
+Hanzō
+
+Salamander Mode
+
+Reincarnated
+
+Yugito Nii
+
+Reincarnated
+,
+Matatabi
+
+Yagura Karatachi
+
+Reincarnated
+,
+Isobu
+
+Rōshi
+
+Reincarnated
+,
+Son Gokū
+
+Han
+
+Reincarnated
+,
+Kokuō
+
+Utakata
+
+Reincarnated
+,
+Saiken
+
+Fū
+
+Reincarnated
+,
+Chōmei
+
+Madara Uchiha
+
+Rinnegan Mode
+
+Reincarnated
+
+Tobi
+
+Sharingan
+ and
+Rinnegan
+ Mode
+
+Masked Man
+,
+Fourth Shinobi World War
+
+Nagato
+
+Six Paths Mode
+
+Reincarnated
+
+Pain
+
+God Mode
+
+Konan
+
+Angel Mode
+
+Itachi Uchiha
+
+Susanoo Mode
+
+Reincarnated
+
+Kisame Hoshigaki
+
+Samehada Fusion Mode
+
+Hidan
+
+Jashin Ritual Mode
+
+Kakuzu
+
+Shinzo Mode
+
+Deidara
+
+C2 Dragon Mode
+
+Reincarnated
+
+Sasori
+
+Human Puppet Mode
+
+Kabuto Yakushi
+
+Chakra Scalpel Mode
+,
+Snake Mode
+
+Sage Kabuto
+ (DLC/Full Burst)
+
+Twin Demons Mode
+
+Kimimaro
+
+Curse Mark Mode
+
+Zabuza Momochi
+
+Demon Mode
+
+Reincarnated
+
+Haku
+
+Ice Mode
+
+Reincarnated
+
+Danzō Shimura
+
+Released Seal Mode
+
+Support-Only Characters
+
+Fū Yamanaka
+
+Torune Aburame
+
+C
+
+Chōjūrō
+
+Ao
+
+Kurotsuchi
+
+Akatsuchi
+
+Story Mode Support Characters
+
+In certain boss battles, there are support characters with special skills that assist the player in their battle:
+
+Konoha
+ shinobi (Third Hokage vs. the Nine-Tails/
+White Zetsu
+ mob battle; shooting
+fire balls
+ at the enemy)
+
+Karin
+ (
+Samurai
+ mob battle;
+restoring
+ Sasuke's health by a small amount)
+
+Kushina Uzumaki
+ (Naruto vs. the Nine-Tails;
+restraining
+ the Nine-Tails)
+
+Killer B
+/
+Eight-Tails
+ (Naruto vs. the Nine-Tails/Tailed Beasts; punches the enemy)
+
+Chōji
+ (Shikamaru vs. Asuma; refuses to fight)
+
+Kitsuchi
+ (Chōji vs. the Demonic Statue of the Outer Path; traps the statue with
+rock formations
+)
+
+A
+ (Tsunade vs. Madara; knocking down Madara to the ground)
+
+The
+Kage
+ (Tsunade vs. Madara; attacking Madara with their techniques)
+
+Kumo
+ shinobi (White Zetsu mob battle; firing
+lightning bolts
+ at the enemy)
+
+Chōjūrō
+ (Training Session mob battle;
+slashes
+ the enemies)
+
+Downloadable Content
+
+Costumes
+
+Pre-Order Costume
+
+Naruto Uzumaki (
+Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres
+) (Goku costume)
+
+North America/Europe Costume Pack
+
+In North America, the codes for this pack are given to those who are subscribing to Weekly Shonen Jump or Neon Alley. In Europe, those who pre-order the game receive all the costumes.
+
+Naruto Uzumaki (Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres) (
+Samurai
+ costume)
+
+Sasuke Uchiha (Five Kage Summit) (
+Kimono
+ costume)
+
+Sakura Haruno (
+School Uniform
+)
+
+Tsunade (
+Swimsuit
+ costume)
+
+Itachi Uchiha (
+Tsukuyomi
+) (
+Anbu
+ costume)
+
+School Uniform
+ Pack (North America and Europe Only)
+
+This pack can be purchased for $1.99 at the PlayStation Store and 160 Microsoft Points at the Xbox Marketplace.
+
+Naruto Uzumaki (
+Sage Mode
+)
+
+Ino Yamanaka
+
+Hinata Hyūga
+
+Kakashi Hatake (
+Fourth Shinobi World War
+)
+
+Sasuke Uchiha (
+Eternal Mangekyō Sharingan
+)
+
+Akatsuki
+ Hats Pack (North America and Europe Only)
+
+This pack can be purchased for $0.99 at the PlayStation Store and 80 Microsoft Points at the Xbox Marketplace.
+
+Deidara (Straw Hat)
+
+Itachi Uchiha (Tsukuyomi) (Straw Hat)
+
+Kisame Hoshigaki (Straw Hat)
+
+Pain (
+Torn Cloak
+)
+
+Special Costume Pack (North America and Europe Only)
+
+This pack can be purchased for $2.99 at the PlayStation Store and 240 Microsoft Points at the Xbox Marketplace.
+
+Naruto Uzumaki (
+Tailed Beast Ball
+)
+Cowboy
+, (
+Pirate, Matador
+,
+Gondolier
+,
+Kimono
+,
+Lederhosen
+ costumes)
+
+Sasuke Uchiha (Eternal Mangekyō Sharingan) (
+Napoleon
+ costume)
+
+Ninja Costumes +
+ROAD TO NINJA
+ Pack (North America and Europe Only)
+
+This pack can be purchased for $0.99 at the PlayStation Store and 80 Microsoft Points at the Xbox Marketplace.
+
+Kakashi Hatake (
+Lightning Cutter: Double Lightning Quake
+) (Anbu costume)
+
+Yamato (Anbu costume)
+
+Jiraiya (
+Sannin Era
+ costume)
+
+Tsunade (Sannin Era costume)
+
+Orochimaru (Sannin Era costume)
+
+Madara Uchiha (Before Death)
+
+Hinata Hyūga (Road to Ninja costume)
+
+Sasuke Uchiha (Five Kage Summit) (Road to Ninja costume)
+
+Swimsuit
+ Pack
+
+This pack can be purchased for $1.99 on the PlayStation Store and 160 Microsoft Points at the Xbox Marketplace.
+
+Sakura Haruno
+
+Ino Yamanaka
+
+Hinata Hyūga
+
+Temari
+
+Sakura (
+Hello Kitty
+)
+
+This costume can be purchased for $2.99 on the PlayStation Store and 240 Microsoft Points at the Xbox Marketplace.
+
+Sakura Haruno
+
+Kage
+ Hats Pack
+
+This pack can be purchased for $0.99 on the PlayStation Store and 80 Microsoft Points at the Xbox Marketplace.
+
+Gaara
+
+Danzō Shimura
+
+A
+
+Ōnoki
+
+Mei Terumī
+
+Individual Costumes (Japan Only)
+
+Most of the costumes that were released in bundles in North America and Europe are also available individually in Japan.
+
+Naruto Uzumaki (Sage Mode) (School Costume)
+
+Naruto Uzumaki (Tailed Beast Ball) (Cowboy, Pirate, Matador, Gondolier, Kimono, and Lederhosen)
+
+Sasuke Uchiha (Five Kage Summit) (Kimono)
+
+Sasuke Uchiha (Eternal Mangekyō Sharingan) (School Uniform, Napoleon Costume)
+
+Sakura Haruno (School Uniform, Hello Kitty)
+
+Kakashi Hatake (Fourth Great Shinobi War) (School Uniform)
+
+Tsunade (Swimsuit)
+
+Temari (Swimsuit)
+
+Ino Yamanaka (School Uniform, Swimsuit)
+
+Hinata Hyūga (School Uniform, Swimsuit)
+
+Full Burst
+
+The Full Burst content can also be downloaded on regular Storm 3 copies. The content contains all previous DLC, HD cinematics, 100 additional missions and the addition of Kabuto in Sage Mode to the character roster. The DLC was released with the physical game on October 22, 2013 in North America and Europe.
+
+Teams
+
+Parenthesis indicates what are the members of the teams:
+
+A–B Combo
+ –
+A
+ and
+Killer B
+
+Aburame clan
+ –
+Shino
+ and
+Torune
+
+Acknowledged Jinchūriki –
+Naruto
+ (
+Tailed Beast Ball
+) and Killer B (
+Samehada
+)
+
+Adamantine Power –
+Hashirama
+ and
+Tsunade
+
+Adorable Juniors –
+Kankurō
+ (Everyday Clothes) and
+Sasori
+
+Aiming for Sasuke –
+Sakura
+,
+Ino
+, and
+Karin
+
+Akatsuki
+ – any combination of
+Tobi
+,
+Kakuzu
+,
+Hidan
+, Sasori,
+Deidara
+ (Alive),
+Kisame
+,
+Itachi
+ (Alive),
+Konan
+, or
+Pain
+
+All Boys –
+Sai
+ and
+Sasuke
+
+Animal Lovers –
+Kiba
+ and
+Jūgo
+
+Apprenticeship Aspiration – Tsunade and Part I Sakura
+
+Artists – Sasori and Deidara
+
+A Battle With The Eyes – Sasuke (
+Five Kage Summit
+) and
+Danzō
+
+"Best Friends" – Naruto and Sasuke
+
+Blade Masters –
+Suigetsu
+ and
+Zabuza
+
+Boys on the Battlefield –
+Minato
+ (
+Jōnin
+),
+Kakashi
+ (
+Boyhood
+), and
+Obito
+
+Brotherly Love – Sasuke ("Taka", Five Kage Summit, Eternal Mangekyō Sharingan) and Itachi
+
+Byakugan
+ Users –
+Neji
+,
+Hinata
+, and
+Ao
+
+Camp Friends –
+Jūgo
+ and
+Kimimaro
+
+Captives –
+Yamato
+, Tobi (
+Fourth Shinobi World War
+), and
+Kabuto
+ (Snake Cape)
+
+Caterpillar to Butterfly –
+Chōji
+ (Fourth Shinobi World War) and
+Asuma
+ (
+Reanimation
+)
+
+Children of Prophecy – Naruto,
+Nagato
+, and Minato
+
+Chubby – Chōji and
+Akatsuchi
+
+Chūnin Exam Supervisors –
+Shikamaru
+ and
+Temari
+
+Commando Unit
+ –
+Sai
+ (Fourth Shinobi World War) and Kankurō (Fourth Shinobi World War)
+
+Common Interests – Tobi (Fourth Shinobi World War) and Kabuto (Snake Cape, Sage)
+
+Complete
+Ino–Shika–Chō
+ – Shikamaru (Fourth Shinobi World War), Chōji (Fourth Shinobi World War), and Ino (Fourth Shinobi World War)
+
+Contact – Naruto (
+Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres
+) and Tobi
+
+Crash – Naruto (Tailed Beast Ball) and Tobi (Fourth Shinobi Ninja War)
+
+Curse Mark – any combination of Jūgo, Sasuke (
+Kirin
+/
+Chidori True Spear
+), Part I Sasuke, or Kimimaro
+
+Dangerous Characters – Kisame and Itachi
+
+Duo of Fate –
+Masked Man
+ and Minato
+
+Eat or be Eaten – Kisame and Killer B
+
+Entrusted Conviction –
+Mifune
+ and
+Hanzō
+
+Eternal Friends – Shikamaru and Chōji
+
+Eternal Rivals – Kakashi and
+Guy
+
+Eternal Strife –
+Madara
+ and Hashirama
+
+Exclusive Mission – Kisame and
+Yagura
+
+Fastest in History – Minato and A
+
+Fence Sitter and Hardhead – A (Lightning Straight) and
+Ōnoki
+
+Fifth Company
+ – any combination of Ino (Fourth Shinobi World War),
+Kiba
+ (Fourth Shinobi World War), Shino (Fourth Shinobi World War), or Mifune
+
+First Company
+ –
+Tenten
+ (Fourth Shinobi World War) and
+Darui
+
+Five Kage Summit –
+Gaara
+ (Five Kage Summit) and/or Danzō with any combination of A, Ōnoki, or
+Mei
+
+Five Kage Team Combat – any combination of Gaara (Fourth Shinobi World War), Tsunade, A (
+Lightning Straight
+), Ōnoki, or Mei
+
+Former Mizukage – Yagura and Mei
+
+Former Jinchūriki – Gaara (Fourth Shinobi World War/Five Kage Summit) and any combination of
+Fū
+, Utakata,
+Han
+,
+Rōshi
+, Yagura, or
+Yugito
+
+Fourth Company
+ – any combination of Shikamaru (Fourth Shinobi World War), Chōji (Fourth Shinobi World War), Gaara (Fourth Shinobi World War), or Temari (Fourth Shinobi World War)
+
+From Anbu Black Ops – Kakashi, Yamato, and Itachi (Alive/Reanimation)
+
+Genes of the First Hokage – Yamato, Hashirama, and Danzō
+
+God and Angel – Konan and Pain
+
+Grandfather and Grandchild – Ōnoki and
+Kurotsuchi
+
+Grandmother and Grandchild –
+Chiyo
+ and Sasori
+
+Great Regiment Leader – any combination of Kakashi (Fourth Shinobi World War), Gaara (Fourth Shinobi World War), Mifune, or Darui
+
+Great War: Leaf Peers – any combination of Naruto (Tailed Beast Ball), Sakura (Fourth Shinobi World War), Sai (Fourth Shinobi World War), Neji (Fourth Shinobi World War),
+Lee
+ (Fourth Shinobi World War), Tenten (Fourth Shinobi World War), Shikamaru (Fourth Shinobi World War), Chōji (Fourth Shinobi World War), Ino (Fourth Shinobi World War), Sasuke (Eternal Mangekyō Sharingan), Kiba (Fourth Shinobi World War), Shino (Fourth Shinobi World War), or Hinata (Fourth Shinobi World War) without creating Team 7
+
+Foundation Members – any combination of Sai, Danzō,
+Fū
+, or Torune
+
+Heading: 2 o' Clock – Killer B and Guy
+
+Hebi
+ – Jūgo, Karin, Suigetsu, or Sasuke (Kirin/Chidori True Spear)
+
+Hidden Cloud Ninja – any combination of Yugito, A, Darui, Killer B, or
+C
+
+Hidden Mist Natives – any combination of Suigetsu, Kisame, Utakata, Yagura,
+Haku
+, Zabuza, Mei, Ao, or
+Chōjūrō
+ without creating Mist Ninja Swords
+
+Hidden Rain Master and Student –
+Jiraiya
+ and any combination of Nagato, Konan, or Pain
+
+Hidden Rock Natives – any combination of Deidara, Han, Rōshi, Ōnoki, Kurotsuchi, or Akatsuchi
+
+Hidden Sand Raid – Deidara (Alive) and Gaara (Everyday Clothes)
+
+Hot-Blooded Master and Student – Lee or Part I Lee, and Guy
+
+Immortal Duo – Kakuzu and Hidan
+
+Inherited Necklace – Naruto (
+Wind Release: Rasenshuriken
+/Nine-tailed Rasengan) or Part I Naruto, Hashirama, and Tsunade
+
+Inherited Will – Shikamaru and Asuma
+
+Ino–Shika–Chō
+ – Shikamaru (Everyday Clothes), Chōji (Everyday Clothes), and Ino (Everyday Clothes)
+
+Jinchūriki
+ – any combination of Naruto, Gaara (Everyday Clothes) or Part I Gaara, Fū, Utakata, Han, Rōshi, Yagura, Yugito, Yugito, or Killer B without creating Reanimated Jinchūriki
+
+Jiraiya's Apprentices – any combination of Naruto, Nagato, Konan, Pain, or Minato without creating Children of Prophecy
+
+Junior and Senior – Tobi and Deidara
+
+Kazekage's Group – Gaara (Five Kage Summit), Kankurō (Five Kage Summit), and Temari (Five Kage Summit)
+
+Kisame's Workload – Kisame, Itachi, Rōshi
+
+Leaf Chūnin – any combination of Sakura (Everyday Clothes), Lee (Everyday Clothes), Tenten (Everyday Clothes), Shikamaru (Everyday Clothes), Chōji (Everyday Clothes), Ino (Everyday Clothes), Kiba (Everyday Clothes) Shino (Everyday Clothes), Hinata (Everyday Clothes), or Obito
+
+Leaf Genin – Naruto or Part I Naruto, Part I Sasuke, Part I Sakura, Part I Neji, Part I Lee, or Part I Hinata without creating Nostalgic Team Kakashi
+
+Leaf Higher-Ups – any combination of Kakashi, Yamato, Guy, Asuma (Alive), Hashirama,
+Tobirama
+,
+Hiruzen
+, Minato, Tsunade, Danzō, or Jiraiya without creating Leaf Jōnin or Past Hokages
+
+Leaf Jōnin – any combination of Neji, Kakashi, Yamato, Guy, Asuma, or Minato (Jōnin)
+
+Leaf Peers – Naruto (Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres, Sage Mode, Wind Release: Rasenshuriken/Nine-tailed Rasengan), Sai (Everyday Clothes), Neji (Everyday Clothes), and/or Sasuke (Five Kage Summit/"
+Taka
+"/Kirin/Chidori True Spear), and any combination of Sakura (Everyday Clothes), Lee (Everyday Clothes), Tenten (Everyday Clothes), Shikamaru (Everyday Clothes), Chōji (Everyday Clothes), Ino (Everyday Clothes), Kiba (Everyday Clothes), Shino (Everyday Clothes), or Hinata (Everyday Clothes)
+
+Leaf Sensei – Kakashi, Guy, and Asuma
+
+Leaf's Light and Shadow – Hiruzen and Danzō
+
+Legendary Guts – Naruto, Minato, and Jiraiya
+
+Like Cats and Dogs – Karin and Suigetsu
+
+Make-Out Comrades – Kakashi and Jiraiya
+
+Mangekyō Sharingan
+ – any combination of Madara, Sasuke (Eternal Mangekyō Sharingan/Five Kage Summit/"Taka"), Kakashi, or Itachi (Alive/Reanimation)
+
+Masked Ninja – Tobi (Fourth Shinobi World War/Masked Man/Tobi), Kakuzu, and Haku (Mask)
+
+Mature Women – Konan, Tsunade, Yugito, or Mei
+
+Medical Specialists – Sakura, Tsunade, and Kabuto
+
+Mist Assassins – Haku and Zabuza
+
+Mist Ninja Swords – any combination of Suigetsu, Kisame, Zabuza, or Chōjūrō
+
+Mizukage's Group – Mei, Ao, and Chōjūrō
+
+Monster Strength – Sakura and Tsunade
+
+Mutual Respect – Minato and Jiraiya
+
+My Son's Enemy!? – Kakashi and Chiyo
+
+New Hokage's Group – Danzō, Fū, and Torune
+
+New Jutsu Development Team – Naruto (Wind Release: Rasenshuriken/Nine-tailed Rasengan), Kakashi (
+Kamui
+/
+Lightning Blade: Twin Lightning Shiver
+), and Yamato
+
+Nostalgic
+Team Kakashi
+ – Kakashi (Kamui/Lightning Blade: Twin Lightning Shiver), Part I Naruto, Part I Sasuke, or Part I Sakura
+
+Odd Beast and Scourge – Guy and Kisame
+
+Old Friends – Tsunade and Jiraiya
+
+One From Hidden Waterfall – Kakuzu and Fū
+
+Ones of Wind Nature – Naruto and Asuma
+
+Outstanding Blade – Suigetsu and Darui
+
+Parent & Child – Naruto and Minato
+
+Past Hokages
+ – any combination of Hashirama, Tobirama, Hiruzen, Minato (Hokage), Tsunade, or Danzō
+
+Pigs Have No Hands – Sakura (Fourth Shinobi World War) and Neji (Fourth Shinobi World War)
+
+Poison Expert – Chiyo and Hanzō
+
+Powerful Tag Team – Sakura (Everyday Clothes) and Chiyo
+
+Plot – Danzō and Hanzō
+
+Puppet Masters – Kankurō, Chiyo, and Sasori
+
+Raikage's Group – A, Darui, and C
+
+Reanimated Mist Assassins – Haku (Reanimation) and Zabuza (Reanimation)
+
+Reanimation's Vessel – Part I Sasuke and Kimimaro
+
+Reanimation – any combination of Nagato, Madara, Asuma (Reanimation), Deidara (Reanimation), Itachi (Reanimation), Hanzō, Fū, Utakata, Han, Rōshi, Yagura, Yugito, Haku (Reanimation), or Zabuza (Reanimation) that doesn't create Hidden Mist Natives
+
+Reanimated Akatsuki – Nagato, Deidara (Reanimation), and Itachi (Reanimation)
+
+Reanimated Jinchūriki – any combination of Fū, Utakata, Han, Rōshi, Yagura, or Yugito
+
+Rivals in Love – Sakura and Ino
+
+Sages
+ – Naruto (
+Sage Mode
+) and Jiraiya
+
+Sarutobi Clan – Asuma and Hiruzen
+
+Second Company
+ – Neji (Fourth Shinobi World War), Hinata (Fourth Shinobi World War), and Kurotsuchi
+
+Secret Lovers – any combination of Naruto and Hinata including PTS
+
+Senju Siblings – Hashirama and Tobirama
+
+Sexy Eyes – Karin and Mei
+
+Shadow Women – Tsunade and Mei
+
+Sharingan
+ – any combination of Madara, Tobi (Fourth Shinobi World War/Masked Man/Tobi), Sasuke, Kakashi, Itachi (Alive/Reanimation), Danzō, Obito, or Part I Sasuke without creating Uchiha Clan
+
+Siblings – Sasuke (Part I, Kirin/Chidori True Spear) and Itachi
+
+Snake and Tactician – Kabuto and
+Orochimaru
+
+Snake Cell – Sasuke (Kirin/Chidori True Spear), Kabuto (Snake Cape, Sage), and Orochimaru
+
+Snake Masters – Kabuto (Snake Cape) and Orochimaru
+
+Spectacle Ninja – any combination of Karin, Shino, Kabuto, Torune, Killer B, or Chōjūrō
+
+Stop Nagato!! – Naruto (Tailed Beast Ball), Itachi (Reanimation), and Killer B (Samehada)
+
+Sublime Art – Deidara and Itachi
+
+Successful Detox – Sakura (Everyday Clothes) and Kankurō (Everyday Clothes)
+
+Taka – Sasuke ("Taka", Five Kage Summit) and any combination of Jūgo, Karin, or Suigetsu
+
+Taka and Hebi – Sasuke (Kirin/Chidori True Spear) and Orochimaru
+
+Team Asuma
+ – any combination of Shikamaru, Chōji, or Ino, or Asuma
+
+Team Guy
+ – any combination of Neji, Lee, Tenten, or Guy
+
+Team Hiruzen
+ – Hiruzen and any combination of Tsunade, Jiraiya, or Orochimaru
+
+Team Kakashi
+ – any combination of Naruto, Sakura, Sai, or Kakashi
+
+Team New Kakashi
+ – any combination of Naruto, Sakura, Sai, or Yamato
+
+Team Kurenai
+ – Kiba, Shino, and Hinata
+
+Team Tobirama
+ – Tobirama, Hiruzen, and Danzō
+
+Team 7 – any combination of Naruto, Sakura, Sasuke, or Kakashi
+
+Team 7 Captains – Kakashi and Yamato
+
+Team 10, At The End – any combination of Shikamaru (Fourth Shinobi World War), Chōji (Fourth Shinobi World War), Ino (Fourth Shinobi World War), or Asuma (Reanimation)
+
+The Dog's The Smart One – Sai (Everday Clothes) and Kiba (Everyday Clothes)
+
+The Hidden Rain Link – Hanzō and any combination of Nagato, Konan, or Pain
+
+The
+Hyūga Clan
+ – any combination of Neji and Hinata including PTS
+
+The
+Legendary Sannin
+ – Tsunade, Jiraiya, and Orochimaru
+
+The Orochimaru Band – any combination of Jūgo, Karin, Suigetsu, Sasuke (Kirin/Chidori True Spear), Kabuto, Orochimaru, or Kimimaro without creating Curse Mark, Hebi, or Taka
+
+The Raikage's Aides – Darui and C
+
+The
+Three Sand Siblings
+ – Gaara, Kankurō, and Temari without creating Kazekage's Group
+
+They Who Knew Darkness – Sasuke (Five Kage Summit) and Gaara (Five Kage Summit)
+
+Those Steeped in Darkness – Sasuke (Kirin/Chidori True Spear) or Part I Sasuke, Kabuto, and Orochimaru
+
+Third Company
+ – any combination of Sakura (Fourth Shinobi World War), Lee (Fourth Shinobi World War), Kakashi (Fourth Shinobi World War), or Guy
+
+Those Who Know Loneliness – any combination of Naruto and Gaara including PTS
+
+Training in Paradise – any combination of Naruto (Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres), Yamato, Guy, or Killer B (Samehada)
+
+Trapped Rats – Kakuzu, Hidan, and Yugito
+
+Too Handsome By Half – Sasuke (Five Kage Summit) and Mei
+
+The Truth of the Uchiha – Tobi (Fourth Shinobi World War/Tobi) and Sasuke (Eternal Mangekyō Sharingan/Five Kage Summit/"Taka")
+
+Tsuchikage's Group – Ōnoki, Kurotsuchi, and Akatsuchi
+
+Turtle Island Assault – Deidara (Reanimation) and Kabuto (Snake Cape)
+
+Two Right Hands – A and Darui
+
+Uchiha Clan – any combination of Madara, Sasuke, Itachi (Alive/Reanimation), Obito, or Part I Sasuke without creating Mangekyō Sharingan or Sharingan
+
+Utterly Gutsy Master and Student – Naruto (Wind Release: Rasenshuriken/Nine-tailed Rasengan) or Part I Naruto, and Jiraiya
+
+War Orphans – Nagato, Konan, and Pain
+
+Whiskered Warriors – any combination of Asuma, Hiruzen, Mifune, Rōshi, A, Ōnoki, or Killer B
+
+Worthy Past Opponents – Kakashi (Boyhood) and Obito
+
+Yamanaka Clan – Ino and Fū
+
+Bosses
+
+Prologue
+
+Nine-Tails
+
+Masked Man
+
+Chapter 1
+
+Gaara
+
+Mei Terumī
+
+Chapter 2
+
+Sasuke Uchiha
+
+Chapter 4
+
+Nine-Tails
+
+Chapter 6
+
+Zabuza Momochi
+
+Chapter 7
+
+Kinkaku
+ and
+Ginkaku
+
+Asuma Sarutobi
+
+Demonic Statue of the Outer Path
+
+Chapter 8
+
+A
+
+Final Chapter
+
+Madara Uchiha
+
+Tobi's Six Paths of Pain
+
+Tobi
+ and the
+Tailed Beasts
+ (from the
+Two-Tails
+ to the
+Seven-Tails
+)
+
+Tobi
+
+Fragment: Eternal Mangekyō
+
+"Tobi"
+
+Fragment: True Legend: The Uchiha Brothers
+ (Full Burst/DLC)
+
+Sage Kabuto
+
+Enemies
+
+Aside from bosses in story mode, there are other enemies that can only be fought exclusively in the story.
+
+Mob Battle enemies
+
+Samurai
+ — Chapter 1 (
+Five Kage Summit Infiltration
+)
+
+Seven Ninja Swordsmen of the Mist
+ (minus Zabuza) — Chapter 6
+
+White Zetsu Army
+ — Chapter 6, Chapter 7, After Story (White Zetsu Subjugation)
+
+Allied Shinobi
+ Trainees — After Story (
+Hot-Blooded Chōjūrō
+)
+
+Kakuzu
+ (Reincarnated) — Chapter 7
+
+Free Battle enemies
+
+Dark Naruto
+
+Sasori
+ (Reincarnated) (Support only)
+
+Second Tsuchikage
+
+Second Mizukage
+
+Third Raikage
+
+Fourth Kazekage
+
+Playable Stages
+
+Konohagakure
+ (Part I, Part II, Destroyed, Ruined, Reconstruction)
+
+Training Field
+
+Forest of Quiet Movement (Evening)
+
+Grassy Waves Prairie (Night)
+
+Forest of Dead Trees
+
+Forest of Death
+
+Konohagakure Forest
+
+Chūnin Exams
+ Stadium
+
+Chūnin Exams
+ Preliminary Arena
+
+Lookout Tower
+
+Inn Town
+
+Orochimaru's Hideout (Destroyed)
+
+Five Kage Summit Venue
+
+Storm Cloud Ravine
+
+Samurai Bridge
+ (On, Under)
+
+Crashing Waves Coast
+
+The Wasteland at Dawn
+
+Great Snowfield of Iron
+
+Sunagakure
+
+Sunagakure Gate
+
+Lightning Desert
+
+The
+Waterfall of Truth
+ (Day, Evening)
+
+The
+Tailed Beast Ruins
+
+The
+Uchiha Hideout
+
+Akatsuki Hideout
+
+Five-Seal Barrier
+ Cliff
+
+Valley of the End
+
+Amegakure
+ (Upper, Lower)
+
+Mount Myōboku
+
+Mountains' Graveyard
+
+Site of
+Planetary Devastation
+
+Great Ninja War Battlefield
+
+Great Naruto Bridge
+
+Story Mode-Only Stages
+
+Forest of Quiet Movement (Day, Night)
+
+Land of Frost
+ Battlefield
+
+Lightning Desert (Ruined)
+
+Training Field (Evening)
+
+Grassy Waves Prairie (Day)
+
+Orochimaru's Hideout
+
+Madara Battlefield (Default, On Fire, Upraised)
+
+Stalagmite Cave (DLC/Full Burst)
+
+Trophies/Achievements
+
+Name
+
+Condition
+
+Trophy Type
+
+Gamerscore
+
+Consummate Storm Master
+
+You won all trophies./You released all achievements.
+
+Platinum
+
+10G
+
+Burning Hidden Leaf Village
+
+You've cleared the Prologue.
+
+Bronze
+
+5G
+
+Crash the Five Kage Summit
+
+You've cleared Chapter 1.
+
+Bronze
+
+5G
+
+Promise of a Rematch
+
+You've cleared Chapter 2.
+
+Bronze
+
+5G
+
+Dark Naruto Conquest
+
+You've cleared Chapter 3.
+
+Bronze
+
+5G
+
+With Love
+
+You've cleared Chapter 4.
+
+Bronze
+
+5G
+
+Approaching Ninja World War
+
+You've cleared Chapter 5.
+
+Bronze
+
+5G
+
+The Ninja Alliance Struggle
+
+You've cleared Chapter 6.
+
+Bronze
+
+5G
+
+End of the Coastline Battle
+
+You cleared Chapter 7.
+
+Bronze
+
+5G
+
+Gain the Raikage's Approval
+
+You cleared Chapter 8.
+
+Bronze
+
+5G
+
+Nearing the Climax
+
+You cleared Chapter 9.
+
+Bronze
+
+5G
+
+Beyond the Ninja World War
+
+You cleared the last chapter.
+
+Bronze
+
+10G
+
+Avenger on the Move
+
+You cleared the fragments.
+
+Silver
+
+60G
+
+Battle of Hidden Leaf
+
+Got A rank in The Nine Tails' Attack.
+
+Bronze
+
+10G
+
+The Almighty Leaf
+
+Got S rank in The Nine Tails' Attack.
+
+Bronze
+
+20G
+
+Five Kage Summit Interrupted
+
+Got A rank in The Agitated Five Kage Summit.
+
+Bronze
+
+10G
+
+We Are Unstoppable!
+
+Got S rank in The Agitated Five Kage Summit.
+
+Bronze
+
+20G
+
+His Answer
+
+Got A rank in Hero and Avenger.
+
+Bronze
+
+10G
+
+To Fight a Friend
+
+Got S rank in Hero and Avenger.
+
+Bronze
+
+20G
+
+Gaining Power
+
+Got A rank in Overcoming Hatred.
+
+Bronze
+
+10G
+
+Nine Tails Overwhelmed
+
+Got S rank in Overcoming Hatred.
+
+Bronze
+
+20G
+
+Vs. the Seven Swordsmen
+
+Got A rank in Threat of the Seven Swordsmen.
+
+Bronze
+
+10G
+
+3rd Unit Rules!
+
+Got S rank in Threat of the Seven Swordsmen.
+
+Bronze
+
+20G
+
+Gedo Statue, Vanished
+
+Got A rank in The Rumbling Coast.
+
+Bronze
+
+10G
+
+Fists of Determination
+
+Got S rank in The Rumbling Coasts.
+
+Bronze
+
+20G
+
+Five Kage at Full Power
+
+Got A rank in Bet the Future.
+
+Bronze
+
+10G
+
+Uchiha Against Five Kage
+
+Got S rank in Bet the Future.
+
+Bronze
+
+20G
+
+End of the War
+
+Got A rank in The Last Battle.
+
+Bronze
+
+10G
+
+Hero of the Ninja World
+
+Got S rank in The Last Battle.
+
+Bronze
+
+20G
+
+Defeated Formidables
+
+Got four S ranks in boss battles.
+
+Silver
+
+60G
+
+Conquered Formidables
+
+Got S rank in all boss battles.
+
+Gold
+
+100G
+
+A Hidden Memory
+
+Unlocked a Secret Factor.
+
+Bronze
+
+10G
+
+Collected Memories
+
+Unlocked four Secret Factors.
+
+Silver
+
+60G
+
+Memories in Your Heart
+
+Saw all Secret Factors.
+
+Gold
+
+100G
+
+Hidden Action
+
+Successfully performed a Secret Action.
+
+Bronze
+
+10G
+
+Tales That Live In An Instant
+
+Successfully performed all Secret Actions.
+
+Gold
+
+100G
+
+Ready to Roll
+
+You customised your ninja tools.
+
+Bronze
+
+10G
+
+New Products in Stock
+
+The Tool Shop added to its ninja tool lineup.
+
+Bronze
+
+10G
+
+Savvy Shopper
+
+Used a coupon.
+
+Bronze
+
+10G
+
+Gem of a Card
+
+Got a ★x5 Ninja Info Card.
+
+Bronze
+
+10G
+
+Team Ultimate Finisher
+
+Finished a match with Team Ultimate Jutsu.
+
+Bronze
+
+10G
+
+Take This!!!
+
+Performed an Ultimate Jutsu Finish.
+
+Bronze
+
+10G
+
+Taijutsu Master
+
+Performed a 50-hit combo.
+
+Bronze
+
+10G
+
+Magnificent Victory
+
+You won the battle with a full health bar.
+
+Bronze
+
+10G
+
+Blasting off
+
+Performed a Ring-Out KO.
+
+Bronze
+
+10G
+
+Creeping Shadow
+
+Used rear attack feature in a mob battle.
+
+Bronze
+
+10G
+
+Ruler of the Battlefield
+
+Triggered Burst Attack in a mob battle.
+
+Bronze
+
+10G
+
+Ninja World Traveller
+
+Visited all villages.
+
+Bronze
+
+10G
+
+First Championship
+
+You won your first tournament.
+
+Bronze
+
+20G
+
+Historian
+
+Completed the Ninja World Timeline.
+
+Silver
+
+60G
+
+Reception
+
+The game shipped over 2 million copies worldwide by August 2014, with over 1 million copies shipped in the Americas, 750,000 copies shipped in Europe and 250,000 copies shipped in Japan.
+
+Famitsu gave the game a score of 10/10/10/9 (39/40) while IGN gave it a 8.6 rating.
+
+Glitches
+
+There was a glitch during the Five Kage vs. Madara battle. Once A and Ōnoki use their
+combi
+nation
+ against Madara, the sound of electricity continues in the background for the rest of the battle. This has been fixed in the latest patch.
+
+There appears to be a glitch that occurs when the player has a
+Naruto Shippūden: Ultimate Ninja Storm Generations
+ save file before playing. Any character unlocked via the save file will not be able to unlock different support types such as attack, guard and balance. However, if the player downloads a DLC that contains a costume for a character without all 3 support types, they will get the 3 support types for that character. This has been fixed in the latest patch.
+
+Similar to
+Naruto Shippūden: Ultimate Ninja Storm Generations
+, non-playable characters can be made playable through manipulation of game data. In
+Naruto Shippūden: Ultimate Ninja Storm 3
+, the reincarnated Kage can be made playable through this method, but their movesets are incomplete and only available in the campaign.
+
+In Ultimate Adventure via Collections, if the player play A's
+ultimate technique
+ only his technique will be shown, but not himself executing the technique. This has been fixed in the latest patch.
+
+Sometimes, if Kurotsuchi and/or a puppet master is used, the player's opponent will be unable to move.
+
+There is another glitch that involves Kakuzu and Hidan. If the player select either Kakuzu or Hidan's "Attack" support type and in the match and cause a "Strike Back" with either character, their voices will be switched (Kakuzu having Hidan's voice and Hidan having Kakuzu's voice).
+
+When fighting as Kakuzu there is a slight glitch with his shadow where it doesn't update properly when the player reaches the end of an unconnected combo (his arm stays elongated).
+
+In story mode, when the player goes back and replays the fight "Tears in the Final Valley" or "Crimson Rampage", the item hotpad will still appear on screen even though the characters can't use them. An additional glitch is when the player tries to use any item that is thrown (ex. paper bomb) it will not display the animation however if the player jumps and tries to use the item the player will begin to fly (the character bobs up and down as long as the player is spamming the button).
+
+If a character receives damage at the same time as initiating their Ultimate Jutsu, the user's character will have its eyes closed and/or will be gritting his/her teeth (that is, if the animation shows the character's face).
+
+If Eternal Mangekyō Sasuke is hit with Itachi's Amaterasu attack while Sasuke is performing his Ultimate attack, Sasuke's character is coloured all black with only his Eternal Mangekyō visible, glowing in the dark.
+
+Some characters lose their downloadable content costumes during certain situations. Examples include Jiraiya in Sage Mode and Naruto in Chakra Mode, losing their costumes upon transformation and returning once the awakening ends. Danzō and A also lose their Kage hats when they activate their awakenings in addition to losing them during their ultimate techniques.
+
+During the Battle of the Five Kage, there is a glitch during the button mashing stage when
+Tsunade
+ is about to help the Raikage that does not allow you to complete the rest of the game on the PC only.
+
+Trivia
+
+Hiroshi Matsuyama, president of CyberConnect2, mentioned in an interview that, other than Hiruzen Sarutobi, there would be no characters from Part I. This is not true, due to the fact that Hashirama Senju, Tobirama Senju, and Kimimaro are playable, as well as the Part I iterations of Naruto, Sasuke, Sakura, Neji, Lee, Hinata and Gaara. However, it was revealed that what Matsuyama said was mistranslated, and that he meant that not all of the Part I characters would return in
+Storm 3
+.
+
+In the story mode when
+Naruto Uzumaki
+ meets the other
+jinchūriki
+ and
+tailed beasts
+,
+Utakata
+ asks if Naruto remembers him when introducing himself, referencing a
+filler arc
+ in the anime, where the two jinchūriki had previously met. This only happens in the English version however, as the Japanese audio makes no mention of a prior meeting.
+
+This is one of the first Naruto games to be in Stereoscopic Digital 3D next to
+Naruto SD Powerful Shippūden
+ and
+Naruto Shippūden 3D: The New Era
+.
+
+While wearing the Goku costume, Naruto's
+Rasengan
+ and
+Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres
+ techniques are used in a similar matter to the
+Kamehameha
+ and
+Father-Son Kamehameha
+ respectively, though the latter's Secret Action extends to "Armoured" Naruto as well.
+
+While wearing the School Uniform and Road to Ninja costumes, Sasuke's sword is not shown. Instead, whenever he uses his sword in his attacks, it appears through a summoning and will disappear after his attack ends.
+
+While wearing the Anbu and School Uniform costumes, Kakashi doesn't have his Konoha forehead protector to cover his Sharingan. Whenever he activates his awakening, it's shown that he pulls nothing.
+
+At the start and end of Naruto's fight with the Tailed Beasts in Tailed Beast Mode,
+Tobi
+ is not seen with his
+gunbai
+.
+
+Certain characters had their movesets changed from previous games, with changes such as having faster combos (e.g Part I Naruto), decreasing the number of hits in a combo (e.g Part I Sasuke and Part I Neji), and combining combos from previous games, due to the
+side
+ combo being removed (e.g Minato).
+
+Despite fighting against Sasuke, A doesn't get his left forearm burned by the latter's
+Amaterasu: Flame Wrapping Fire
+ let alone chop it off to save himself from getting burned. As a result, A still has both arms when he appears later on.
+
+When Ōnoki flew high in the sky to stop Madara's Tengai Shinsei meteorites, and took damage from stopping them, his outfit wasn't damaged.
+
+In the game, Sakura was on the front lines as a member of the
+Third Division
+ with Might Guy, Rock Lee, and Kakashi, while in both the manga and anime, she is with the medical team.
+
+In the game, Sai, Omoi, and Zaji are absent in fighting alongside the
+Third Division
+. Whereas in both the manga and anime, he is present.
+
+The Portuguese translation of the game is infamous for having a considerable number of grammatical errors and sentences that do not make sense.
+
+References
+
+External Links
+
+Official Japanese Website

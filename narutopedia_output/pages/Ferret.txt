@@ -1,0 +1,5 @@
+Wikipedia:Ferret
+
+This page is a
+soft redirect
+.

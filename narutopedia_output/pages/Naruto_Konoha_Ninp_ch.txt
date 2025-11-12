@@ -1,0 +1,676 @@
+Naruto: Konoha Ninpōchō
+ is a video game, released in 2003 exclusively in Japan. It is the first ever video game based on
+Naruto
+. It was the first and only Naruto game to appear on the Bandai WonderSwan Colour.
+
+Gameplay
+
+The game is a RPG where the player selects
+Seals
+ in a
+Scroll
+ to use as commands. There is a total of 32 seals (96 counting the three playable character) in the story and 14 exclusive to multiplayer matches, but each character can have only 12 seals on their scroll at a time, having to select which one is to be used in the pause menu when it becomes full. In battles, five of these seals appear randomly, being replaced by other seal from the scroll after usage.
+
+Seals and techniques are divided in four categories:
+Ninjutsu
+,
+Genjutsu
+,
+Taijutsu
+ and Others. When defending, a Ninjutsu seal can avoid a Genjutsu technique, Genjutsu avoids Taijutsu, and Taijutsu avoids Ninjutsu. The character's level depends of the level of each of his seals. The more a seal is used, the better the character will be with it, levelling it up. By charging chakra with the 印 or 練 seals or skipping a turn, two or more seals can be combined to form stronger techniques. For example, combining 火 with 強 will result in the
+Fire Release: Dragon Fire Technique
+, a stronger fire technique. 火 and 数 results in
+Fire Release: Phoenix Sage Fire Technique
+, which hits all opponents. 火, 強, and 数 results in
+Fire Release: Great Fireball Technique
+, which is both powerful and hits all opponents. Some combinations are exclusive to specific characters, like Naruto being the only one able to use
+Sexy Technique
+ with 疲 and 変.
+
+Seal
+
+Technique
+
+Type
+
+Details
+
+火
+
+火遁の術
+(
+Fire Release
+ Technique)
+
+Ninjutsu
+
+Basic fire attack. When it reaches level 10, it is upgraded into a level 1 炎 seal.
+
+水
+
+水遁の術
+(
+Water Release
+ Technique)
+
+Ninjutsu
+
+Basic water attack. When it reaches level 10, it is upgraded into a level 1 渦 seal.
+
+土
+
+土遁の術
+(
+Earth Release
+ Technique)
+
+Ninjutsu
+
+Basic earth attack. When it reaches level 10, it is upgraded into a level 1 地 seal.
+
+風
+
+風遁の術
+(
+Wind Release
+ Technique)
+
+Ninjutsu
+
+Basic wind attack. When it reaches level 10, it is upgraded into a level 1 嵐 seal.
+
+雷
+
+雷遁の術
+(
+Lightning Release
+ Technique)
+
+Ninjutsu
+
+Basic lightning attack. When it reaches level 10, it is upgraded into a level 1 轟 seal.
+
+変
+
+変わり身の術
+(
+Body Replacement Technique
+)
+
+Ninjutsu
+
+Can only be used to avoid attacks or in combinations. Is able to avoid Ninjutsu and Taijutsu.
+
+分
+
+影分身の術
+(
+Shadow Clone Technique
+)
+
+Ninjutsu
+
+Creates a clone of the user to help in the battle, giving a numeric advantage. The clone vanishes when hit.
+
+治
+
+?
+
+Ninjutsu
+
+Big Stamina recovery
+
+色
+
+おいろけの術
+(
+Sexy Technique
+)
+
+Ninjutsu
+
+Multiplayer only.
+
+寄
+
+口寄せの術
+(
+Summoning Technique
+)
+
+Ninjutsu
+
+Multiplayer only. Summons a
+toad
+ to attack.
+
+掌
+
+掌仙術
+(
+Mystical Palm Technique
+)
+
+Ninjutsu
+
+Multiplayer only. Recovers Stamina.
+
+鳥
+
+千鳥
+(
+Chidori
+)
+
+Ninjutsu
+
+Multiplayer only.
+
+乱
+
+魔幻・乱映眼の術
+
+Genjutsu
+
+Temporarily makes the opponent see the own seals as "
+?
+" seals, being unable to know what each does.
+
+読
+
+魔幻・読破印の術
+(
+Demonic Illusion
+: Read Through Seal Technique)
+
+Genjutsu
+
+Temporarily makes the seals in the target's scroll visible.
+
+疲
+
+魔幻・疲弊魂の術
+(Demonic Illusion: Battered Soul Technique)
+
+Genjutsu
+
+The target loses accumulated chakra.
+
+時
+
+魔幻・時粘幕の術
+
+Genjutsu
+
+Temporarily reduces the target's speed.
+
+忘
+
+魔幻・忘却印の術
+(Demonic Illusion: Forgetting Seal Technique)
+
+Genjutsu
+
+In the target's next turn, one seal is randomly removed from the scroll.
+
+単
+
+魔幻・単結印の術
+(Demonic Illusion: Single Seal Bind Technique)
+
+Genjutsu
+
+The target is temporarily unable to use one random seal.
+
+縛
+
+魔幻・縛鎖の術
+(Demonic Illusion: Binding Chain Technique)
+
+Genjutsu
+
+The target is temporarily unable to do any action.
+
+再
+
+再降印の術
+
+Genjutsu
+
+Shuffles the user's seals.
+
+呪
+
+呪印術
+(
+Juinjutsu
+)
+
+Genjutsu
+
+Multiplayer only.
+
+解
+
+解印の術
+
+Genjutsu
+
+Multiplayer only.
+
+拳
+
+拳攻撃
+(Fist Attack)
+
+Taijutsu
+
+A simple punch attack.
+
+蹴
+
+蹴攻撃
+(Kick Attack)
+
+Taijutsu
+
+A kick attack.
+
+剣
+
+手裏剣攻撃
+(
+Shuriken Attack
+)
+
+Taijutsu
+
+Attacks by throwing
+shurikens
+.
+
+攻
+
+?
+
+Taijutsu
+
+Increases the user's attack power.
+
+防
+
+?
+
+Taijutsu
+
+Increases the user's defence.
+
+瞑
+
+?
+
+Taijutsu
+
+?
+
+速
+
+?
+
+Taijutsu
+
+Increases the user's agility.
+
+隠
+
+隠れ身の術
+(Hiding Oneself Technique)
+
+Taijutsu
+
+The user
+hides
+, becoming immune to damage for a few turns.
+
+千
+
+千年殺し
+(
+One Thousand Years of Death
+)
+
+Taijutsu
+
+Multiplayer only.
+
+烈
+
+木ノ葉烈風
+(
+Leaf Gale
+)
+
+Taijutsu
+
+Multiplayer only.
+
+華
+
+表蓮華
+(
+Front Lotus
+)
+
+Taijutsu
+
+Multiplayer only.
+
+?
+
+?
+
+Taijutsu
+
+Multiplayer only.
+
+印
+
+錬活胆の印
+
+Others
+
+Charges one point of Chakra.
+
+練
+
+練 (Knead)
+
+Others
+
+Charges Chakra, the amount depending on the level.
+
+連
+
+連携の印
+(Seal of Cooperation)
+
+Others
+
+?
+
+強
+
+強属性付加
+(Strength Attribute Addition)
+
+Others
+
+Can only be used in combinations. Makes the combined seals stronger.
+
+数
+
+複数属性付加
+(Multiple Attribute Addition)
+
+Others
+
+Can only be used in combinations. Makes the combined seals hit multiple targets.
+
+癒
+
+回復・癒
+(Recovery: Healing)
+
+Others
+
+Big Stamina recovery.
+
+薬
+
+回復・薬
+(Recovery: Medicine)
+
+Others
+
+Medium Stamina recovery.
+
+草
+
+回復・草
+(Recovery: Herb)
+
+Others
+
+Small Stamina recovery.
+
+下
+
+?
+
+Others
+
+Multiplayer only.
+
+中
+
+?
+
+Others
+
+Multiplayer only.
+
+上
+
+?
+
+Others
+
+Multiplayer only.
+
+影
+
+?
+
+Others
+
+Multiplayer only.
+
+Plot Overview
+
+The game follows the
+Prologue — Land of Waves
+ arc, but with extra
+missions
+ taken by
+Team 7
+. After
+Kakashi
+'s training, the player must select what missions Team 7 will take. It is possible to fail in some of the missions, including the mission to find
+Tora
+.
+
+During the extra missions,
+Konohamaru
+ will cause trouble and it is believed
+Naruto
+ is the culprit. After catching Konohamaru, it is discovered that
+Mizuki
+ escaped and, alongside some
+Missing-nins
+, attempt a theft, but are stopped by Teams 7,
+8
+ and
+10
+.
+
+After completing most missions, Teams 7, 8, 10 and
+Team Guy
+ go to the beach to train their students, having them fight each other. After the last mission, Team 7 is given the mission to escort
+Tazuna
+ to the
+Land of Waves
+.
+
+Characters
+
+Playable Characters
+
+Naruto Uzumaki
+
+Sasuke Uchiha
+
+Sakura Haruno
+
+Other Characters
+
+Iruka Umino
+ (opponent and temporary playable character)
+
+Mizuki
+ (opponent)
+
+Third Hokage
+ (opponent)
+
+Ebisu
+ (opponent)
+
+Konohamaru Sarutobi
+  (opponent and temporary playable character)
+
+Moegi
+ (opponent)
+
+Udon
+ (opponent)
+
+Kakashi Hatake
+ (opponent and temporary playable character)
+
+Kurenai Yūhi
+
+Kiba Inuzuka
+ (opponent and temporary playable character)
+
+Akamaru
+
+Hinata Hyūga
+ (opponent and temporary playable character)
+
+Shino Aburame
+ (opponent and temporary playable character)
+
+Asuma Sarutobi
+
+Ino Yamanaka
+ (opponent and temporary playable character)
+
+Shikamaru Nara
+ (opponent and temporary playable character)
+
+Chōji Akimichi
+ (opponent and temporary playable character)
+
+Might Guy
+
+Rock Lee
+ (opponent)
+
+Neji Hyūga
+ (opponent)
+
+Tenten
+ (opponent)
+
+Nine-Tails
+
+Fourth Hokage
+ (prologue only)
+
+Gamabunta
+
+Madam Shijimi
+
+Tora
+ (opponent)
+
+Ayame
+
+Teuchi
+
+Tazuna
+
+Gōzu
+ (opponent)
+
+Meizu
+ (opponent)
+
+Ferryman
+
+Gatō
+
+Waraji
+ (opponent)
+
+Zōri
+ (opponent)
+
+Zabuza Momochi
+ (opponent)
+
+Haku
+ (opponent)
+
+Tsunami
+
+Inari
+
+Giichi
+
+Teguse
+ (opponent)
+
+Ageha
+
+Kaiza
+ (flashbacks only)
+
+Agari
+
+Game Exclusive Characters
+
+Hashira (ハシラ) - A councillor that gives a mission to Team 7.
+
+Himuro (ヒムロ) - A young man that Sakura finds pretty.
+
+Princess Hotaru (ホタル姫) - Under the name Kisago (キサゴ), the young princess requested to be taken around Konoha, Team 7 taking the mission to escort her.
+
+Old Man (爺) - Hotaru's grandfather. Is fought by Sakura.
+
+Kawara (カワラ) - An important young boy that Team 7 must entertain.
+
+Shikii (シキイ) - Kawara's protector. Is fought twice during the mission.
+
+Kizuchi (キヅチ) and Yasuri (ヤスリ) - Two elders that train Teams 7 and 8 in the Konoha forest.
+
+Shizuku (シズク) - A person fought in the last mission before escorting Tazuna.
+
+Nanpa
+ Men (ナンパ男) and Henchmen (手下) - Several bald men resembling one of the members from the
+Gatō Company
+ that appear as common enemies. Nanpa Men attempt to flirt with Kisago and later attack Team 7. Henchmen are Gatō's thugs. They appear with yellow (weaker), blue, and red (stronger) clothes.
+
+Konoha Missing-nins (木ノ葉抜忍) -
+Missing-nins
+ from Konoha that appear as stronger common enemies. They work with Mizuki and Gatō.
+
+Wild Cats (山猫) - Two cats resembling
+Tora
+ that attacked Naruto in one mission. They also appear as random enemies alongside White Rabbits in the mission to find Tora.
+
+Pond Carps (池の鯉) - Several fishes fought by Team 7 to entertain Kawara. They can use the Clone Technique and recover their health. The player must defeat all of them in a certain amount of turns.
+
+External links
+
+Official page

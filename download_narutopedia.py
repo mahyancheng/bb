@@ -13,10 +13,12 @@ import html
 import logging
 import re
 import sys
+import threading
 import time
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, List
+from typing import Dict, List, Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -30,11 +32,22 @@ USER_AGENT = (
     "(https://github.com/openai/cursor, contact: support@openai.com)"
 )
 
+_thread_local = threading.local()
+
 
 @dataclass
 class PageContent:
     title: str
     text: str
+
+
+def _get_thread_session() -> requests.Session:
+    session = getattr(_thread_local, "session", None)
+    if session is None:
+        session = requests.Session()
+        session.headers.update({"User-Agent": USER_AGENT})
+        _thread_local.session = session
+    return session
 
 
 def fetch_all_page_titles(session: requests.Session) -> List[str]:
@@ -96,7 +109,7 @@ def extract_clean_text(html_fragment: str) -> str:
     return text
 
 
-def fetch_page_content(session: requests.Session, title: str) -> PageContent:
+def fetch_page_content(title: str, session: Optional[requests.Session] = None) -> PageContent:
     params = {
         "action": "parse",
         "page": title,
@@ -104,6 +117,7 @@ def fetch_page_content(session: requests.Session, title: str) -> PageContent:
         "format": "json",
         "formatversion": 2,
     }
+    session = session or _get_thread_session()
     response = session.get(API_URL, params=params, timeout=60)
     response.raise_for_status()
     data = response.json()
@@ -113,64 +127,8 @@ def fetch_page_content(session: requests.Session, title: str) -> PageContent:
     return PageContent(title=title, text=clean_text)
 
 
-def save_individual_texts(pages: Iterable[PageContent], directory: Path) -> None:
-    directory.mkdir(parents=True, exist_ok=True)
-    for page in pages:
-        if not page.text:
-            continue
-        safe_title = re.sub(r"[^0-9A-Za-z._-]+", "_", page.title).strip("_")
-        file_path = directory / f"{safe_title or 'untitled'}.txt"
-        file_path.write_text(page.text, encoding="utf-8")
-
-
-def save_combined_text(pages: Iterable[PageContent], file_path: Path) -> None:
-    file_path.parent.mkdir(parents=True, exist_ok=True)
-    lines: List[str] = []
-    for page in pages:
-        if not page.text:
-            continue
-        lines.append(page.title)
-        lines.append("=" * len(page.title))
-        lines.append("")
-        lines.append(page.text)
-        lines.append("")
-    file_path.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
-
-
 def _latin1(text: str) -> str:
     return text.encode("latin-1", "replace").decode("latin-1")
-
-
-def build_pdf(pages: Iterable[PageContent], file_path: Path) -> None:
-    pdf = FPDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
-
-    has_content = False
-    for page in pages:
-        if not page.text:
-            continue
-
-        pdf.add_page()
-        has_content = True
-        pdf.set_font("Helvetica", "B", 16)
-        pdf.multi_cell(0, 10, _latin1(page.title))
-        pdf.ln(4)
-
-        pdf.set_font("Helvetica", size=11)
-        for paragraph in page.text.split("\n"):
-            paragraph = paragraph.strip()
-            if not paragraph:
-                pdf.ln(5)
-                continue
-            pdf.multi_cell(0, 6, _latin1(paragraph))
-            pdf.ln(1)
-
-    if not has_content:
-        logging.warning("No page content found; skipping PDF generation.")
-        return
-
-    file_path.parent.mkdir(parents=True, exist_ok=True)
-    pdf.output(str(file_path))
 
 
 def parse_args(argv: List[str]) -> argparse.Namespace:
@@ -194,6 +152,12 @@ def parse_args(argv: List[str]) -> argparse.Namespace:
         help="Optional limit on the number of pages to download (for testing).",
     )
     parser.add_argument(
+        "--workers",
+        type=int,
+        default=4,
+        help="Number of concurrent download workers (1 for sequential).",
+    )
+    parser.add_argument(
         "--log-level",
         default="INFO",
         choices=["DEBUG", "INFO", "WARNING", "ERROR"],
@@ -214,27 +178,141 @@ def main(argv: List[str]) -> int:
     combined_text_path = output_dir / "narutopedia_wiki.txt"
     pdf_path = output_dir / "narutopedia_wiki.pdf"
 
-    session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT})
+    text_dir.mkdir(parents=True, exist_ok=True)
+    combined_text_path.parent.mkdir(parents=True, exist_ok=True)
 
-    titles = fetch_all_page_titles(session)
+    pdf = FPDF()
+    pdf.set_auto_page_break(auto=True, margin=15)
+
+    delay = max(args.delay, 0.0)
+    workers = max(args.workers, 1)
+
+    listing_session = requests.Session()
+    listing_session.headers.update({"User-Agent": USER_AGENT})
+    try:
+        titles = fetch_all_page_titles(listing_session)
+    finally:
+        listing_session.close()
+
     if args.max_pages:
         titles = titles[: args.max_pages]
-    logging.info("Found %d pages to download", len(titles))
+    total_titles = len(titles)
+    logging.info("Found %d pages to download", total_titles)
 
-    pages: List[PageContent] = []
-    for title in tqdm(titles, desc="Downloading pages", unit="page"):
-        try:
-            page = fetch_page_content(session, title)
-            pages.append(page)
-        except Exception as exc:  # pylint: disable=broad-except
-            logging.error("Failed to fetch '%s': %s", title, exc)
-        time.sleep(args.delay)
+    if total_titles == 0:
+        logging.warning("No page titles retrieved; nothing to download.")
+        return 0
 
-    save_individual_texts(pages, text_dir)
-    save_combined_text(pages, combined_text_path)
-    build_pdf(pages, pdf_path)
+    successful_pages = 0
+    next_index_to_write = 0
+    pending_results: Dict[int, Optional[PageContent]] = {}
 
+    with combined_text_path.open("w", encoding="utf-8") as combined_file:
+        first_combined_entry = True
+
+        def write_page(page: PageContent) -> None:
+            nonlocal first_combined_entry, successful_pages
+            safe_title = re.sub(r"[^0-9A-Za-z._-]+", "_", page.title).strip("_")
+            file_path = text_dir / f"{safe_title or 'untitled'}.txt"
+            file_path.write_text(page.text, encoding="utf-8")
+
+            if not first_combined_entry:
+                combined_file.write("\n")
+            else:
+                first_combined_entry = False
+            combined_file.write(f"{page.title}\n")
+            combined_file.write(f"{'=' * len(page.title)}\n\n")
+            combined_file.write(f"{page.text}\n")
+            combined_file.flush()
+
+            pdf.add_page()
+            pdf.set_font("Helvetica", "B", 16)
+            pdf.multi_cell(0, 10, _latin1(page.title))
+            pdf.ln(4)
+
+            pdf.set_font("Helvetica", size=11)
+            for paragraph in page.text.split("\n"):
+                paragraph = paragraph.strip()
+                if not paragraph:
+                    pdf.ln(5)
+                    continue
+                pdf.multi_cell(0, 6, _latin1(paragraph))
+                pdf.ln(1)
+
+            successful_pages += 1
+
+        def process_ready_results() -> None:
+            nonlocal next_index_to_write
+            while next_index_to_write in pending_results:
+                page = pending_results.pop(next_index_to_write)
+                if page and page.text:
+                    write_page(page)
+                next_index_to_write += 1
+
+        progress = tqdm(total=total_titles, desc="Downloading pages", unit="page")
+
+        if workers == 1:
+            session = requests.Session()
+            session.headers.update({"User-Agent": USER_AGENT})
+            try:
+                for idx, title in enumerate(titles):
+                    try:
+                        page = fetch_page_content(title, session)
+                    except Exception as exc:  # pylint: disable=broad-except
+                        logging.error("Failed to fetch '%s': %s", title, exc)
+                        pending_results[idx] = None
+                    else:
+                        pending_results[idx] = page
+                    process_ready_results()
+                    progress.update(1)
+                    if delay:
+                        time.sleep(delay)
+            finally:
+                session.close()
+        else:
+            with ThreadPoolExecutor(max_workers=workers) as executor:
+                futures: Dict[object, tuple[int, str]] = {}
+                next_submit = 0
+
+                def submit_task(index: int) -> None:
+                    title = titles[index]
+                    future = executor.submit(fetch_page_content, title)
+                    futures[future] = (index, title)
+
+                initial = min(workers, total_titles)
+                while next_submit < initial:
+                    submit_task(next_submit)
+                    next_submit += 1
+
+                while futures:
+                    done, _ = wait(list(futures.keys()), return_when=FIRST_COMPLETED)
+                    for future in done:
+                        idx, title = futures.pop(future)
+                        try:
+                            page = future.result()
+                        except Exception as exc:  # pylint: disable=broad-except
+                            logging.error("Failed to fetch '%s': %s", title, exc)
+                            pending_results[idx] = None
+                        else:
+                            pending_results[idx] = page
+                        process_ready_results()
+                        progress.update(1)
+                        if next_submit < total_titles:
+                            submit_task(next_submit)
+                            next_submit += 1
+                        if delay:
+                            time.sleep(delay)
+
+        progress.close()
+        process_ready_results()
+
+    if successful_pages == 0:
+        logging.warning("No page content found; skipping PDF generation.")
+        return 0
+
+    pdf.output(str(pdf_path))
+
+    logging.info("Saved %d pages", successful_pages)
     logging.info("Saved combined text to %s", combined_text_path)
     logging.info("Saved PDF to %s", pdf_path)
     return 0

@@ -1,0 +1,2903 @@
+Naruto Shippūden: Ultimate Ninja Storm Revolution
+ is a game developed by CyberConnect2 and published by Namco-Bandai games for the PlayStation 3, Xbox 360, and PC. The North American
+ and Japanese releases were scheduled for September 2014. The demo was presented on July 2, 2014 in Japanese and English for PlayStation 3 and Xbox 360.
+
+Gameplay
+
+
+
+
+
+
+Naruto performs an aerial attack during the Ninja World Tournament.
+
+
+
+Summing up playable and support, there are 118 characters in the game,
+ including a new addition to the roster drawn by
+Masashi Kishimoto
+. The new character designed by Kishimoto is a mecha version of Naruto, which has a two-stage awakening: a three-tails transformation and a Mecha-Kurama transformation. Other characters may also have two-stage awakenings.
+
+The game features separate original stories involving Mecha-Naruto,
+Shisui Uchiha, Team Minato and Kushina, and the creation of the Akatsuki
+. Additionally, the game features a revamped support system. There is also a "Ninja World Tournament" (
+忍界武闘祭
+,
+Ninkai Butōsai
+,
+literally meaning:
+ Ninja World Fighting Festival) mode, that places the player in a battle against three CPUs, in an all-out battle royale; the goal is to collect as many orbs battle during combat, as well as new environment interactions. Another new feature, is a brand new storyline which encompasses the past of the
+Akatsuki
+ and will allow the player to recruit (and even fight) the known members into the Akatsuki, with several new designs exclusively created for the game by Masashi Kishimoto, as well as 46
+ minutes of newly animated footage to go along with the storyline.
+
+Another novelty is that there is an anime cutscene entitled The Far Reaches of Hope, which shows Kushina Uzumaki interacting with
+Team Minato
+.
+Naruto Shippūden: Ultimate Ninja Storm Revolution
+ has a new battle system where players can select different types — Ultimate Jutsu, Awakening and Drive. Each character has the option for all three types. The Storm Gauge also makes a return, and now recovers upon executing any action in the fight. Some actions will increase it more than others. Once it is at 100%, all of the player's chakra is recovered.
+
+The three battle-types are:
+
+The Ultimate Type:
+
+Allows you to perform a standard Ultimate Jutsu/U2 when the user has enough chakra.
+
+Allows you to perform a U3/Team Attack or Team Ultimate Jutsu (depending on who is in the team) when the Storm Gauge is maxed, and successfully performing one will reduce it to 0.
+
+Awakening Type:
+
+Allows the user to perform an Instant Awakening with the right thumbstick.
+
+Allows you to perform a "True Awakening" (hold down Chakra Load button to awaken) when the Storm Gauge is maxed, where the Storm Gauge for that duration becomes the timer for the mode.
+
+Drive Type (which has the most complex amount of options):
+
+Allows you to have support drive actions, via the right thumbstick as with Instant Awakening.
+
+When in "Attack" mode, your supports will do the equivalent to the "Attack" support types from previous
+Storm
+ games, with the addition of the Balance Type's "Cover Fire" action (supports perform a joint air chakra tool throw).
+
+When in "Defense" mode, your assists will do the equivalent to the "Guard" support types from previous
+Storm
+ games, with the addition of Balance Type's "Ultimate Jutsu Substitution" action (chosen support sacrifices themselves to take on an Ultimate Jutsu/U2 in the user's place).
+
+Performing a U2/Ultimate Jutsu input (Chakra Load x2>Close-Range Attack) will activate "Auto Mode", which will allow supports to be of both types above at the same time for a limited time. It also grants access to a Team Seal Barrier Technique through performing a U3/Team Attack input (Chakra Load x3>Close-Range Attack) when the Storm Gauge is full, inflicting a launch that works as a viable combo starter, while also having various debuffing effects on the victim depending on their type:
+
+If the victim is Ultimate Type, they are sealed from using their U2/U3/Team Ultimate Jutsu.
+
+If the victim is Awakening Type, they cannot use either version of their Awakening.
+
+If the victim is Drive Type, they cannot use Support Drives, nor can they use their own Team Seal Barrier Technique.
+
+Awakenings have been modified from previous
+Storm
+ games in the fact that all characters now have an Instant Awakening in addition to an even more powerful True Awakening, activated when the Storm Gauge is full. Another new feature is called "Shinobi Customise" which allows players to customise their fighters with accessories that can change the player's appearance. The feature is available only to those who have saved data from
+Storm 3
+ on in their console.
+
+However, several mechanics have been removed and/or tweaked:
+
+A double/extra midair jump is now added for all characters.
+
+Ninja moves can no longer be cancelled into tilts/mid-ranged attacks, as well as no longer being cancel-able into grabs.
+
+Ninja moves however can now also be done by holding the block/guard button and pressing a direction while doing so, but block/guard-based ninja moves are slower than the original versions.
+
+It is now possible to Spark Cancel specific U1s/Jutsu with the block/guard button at the cost of extra chakra.
+
+Close-range/basic attack inputs can now be cancelled into a U2/Ultimate Jutsu, at the cost of halving its damage output.
+
+All D-Pad ninja items in the up slot are now replaced with a Guard Break, which makes the user perform a faster version of the Relay dashing animation introduced in
+Storm 3
+, only it inflicts a guard break state on either hit or block once it connects.
+
+However, the original Relay mechanic itself has been removed.
+
+Air chakra dashes are now faster versions of the original Ninja Dash animation (double tap jump quickly in midair), overall making it slower than the prior air chakra dash animations.
+
+A new mechanic known as a Counterattack is added when both the guard and ninja tool throw buttons are combined. At the cost of reducing your max chakra threshold around 1/5th or 1/4th of the original amount (disregarding the current blue chakra gauge amount), can counter these attacks while flashing white as the user performs their chakra charging animation (and forces a guard break state on the attacker who triggered it):
+
+Close-Range/Basic Attacks
+
+Non-Projectile Mid-Range/Tilt Attacks
+
+All Chakra Dashes
+
+Guard Break attack
+
+However, these attacks can break through the counter as normal:
+
+Grab.
+
+Support/U1/U2/U3.
+
+Any projectile move.
+
+Any puppet-based close-range/basic attack input when the puppet master is at long-range distances.
+
+Even then, the max chakra threshold will gradually restore back to its original length if the Counterattack is not performed for a while. If another counter is performed however, the regeneration rate will reset. Even then, the max amount will be restored up to full upon the Storm Gauge being maxed out.
+
+The U3/Team Attack introduced in
+Storm 2
+ is notably nerfed, making it so that instead all team members rush at the foe to circle around them somewhat, only one member on the team rushes towards the opponent first to attempt to trigger the first portion.
+
+Likewise, "Combination Ultimate Techniques" (
+合体奥義
+,
+Gattai Ōgi
+) between two or three characters is available; also dubbed as a Team Ultimate Jutsu (abbreviated as a TUJ to differ from a U3/Team Attack) is added where it is a unique cinematic Jutsu between various specific team members, replacing the base U2/U3 input of the user.
+
+The Body Replacement metre now recharges slightly faster than in
+3
+.
+
+Playable Characters
+
+Naruto Uzumaki
+
+Part I (
+One-Tailed Form
+)
+
+Part II (
+Four-Tailed Form
+)
+
+Sage Mode
+ (
+Six-Tailed Form
+)
+
+Five Kage Summit
+ (
+Nine-Tails Chakra Mode
+)
+
+Shinobi World War
+ (Nine-Tails Chakra Mode)
+
+Kurama Link Mode
+ (
+Kurama
+)
+
+Sasuke Uchiha
+
+Part I (
+Sharingan Mode
+)
+
+Sasuke Recovery Mission
+ (
+Curse Mark Mode
+)
+
+Part II (Cursed Seal of Heaven)
+
+Taka
+ (
+Mangekyō Sharingan
+)
+
+Mangekyō Sharingan (
+Susanoo Mode
+)
+
+Eternal Mangekyō Sharingan
+ (
+Susanoo Eternal Mangekyō Sharingan Version
+)
+
+Sakura Haruno
+
+Part I (
+Maiden's Anger Mode
+)
+
+Part II (
+Herculean Mode
+)
+
+Allied Shinobi Forces
+ (
+Strength of a Hundred Seal
+)
+
+Sai
+ (
+Fast Writing Mode
+)
+
+Shikamaru Nara
+
+Part I (
+Shadow Imitation Mode
+)
+
+Part II (
+Strategy Mode
+)
+
+Ino Yamanaka
+
+Part I (
+Covered with Flowers Mode
+)
+
+Part II (
+Hundred Scattered Flowers Mode
+)
+
+Chōji Akimichi
+
+Part I (
+Berserker Rage Mode
+)
+
+Part II (
+Expansion Mode
+)
+
+Allied Shinobi Forces (
+Butterfly Mode
+)
+
+Kiba Inuzuka
+
+Part I (
+Fang Mode
+)
+
+Part II (
+Food Pills Mode
+)
+
+Shino Aburame
+
+Part I (
+Beetle Mode
+)
+
+Part II (Beetle Mode)
+
+Hinata Hyūga
+
+Part I (
+Byakugan Mode
+)
+
+Part II (
+Twin Lion Fists Mode
+)
+
+Gaara
+
+Part I (
+Brutal Sand Mode
+)
+
+Part II (
+Shukaku
+,
+Kazekage Mode
+)
+
+Allied Shinobi Forces (Kazekage Mode)
+
+Temari
+
+Part I (
+Wind Covered Mode
+)
+
+Part II (
+Heavenly Fan Dance Mode
+)
+
+Kankurō
+
+Part I (
+Puppet Dance Mode
+)
+
+Part II (
+Salamander Mode
+)
+
+Allied Shinobi Forces (
+Scorpion Mode
+)
+
+Rock Lee
+
+Part I (
+Eight Gates Mode
+)
+
+Part II (Eight Gates Mode)
+
+Neji Hyūga
+
+Part I (
+Byakugan Mode
+)
+
+Part II (Byakugan Mode)
+
+Tenten
+
+Part I (
+Ninja Tool Summon Mode
+)
+
+Part II (Ninja Tool Summon Mode)
+
+Allied Shinobi Forces (
+Bashōsen Mode
+)
+
+Karin
+ (
+Angry Mode
+,
+Attracted Mode
+ (against Sasuke))
+
+Suigetsu Hōzuki
+ (
+Water Arm Mode
+)
+
+Jūgo
+ (
+Curse Mark Mode
+)
+
+Konohamaru Sarutobi
+ (
+Determination Mode
+)
+
+Kakashi Hatake
+
+Young Kakashi (
+White Light Blade Mode
+)
+
+Part I (Sharingan)
+
+Part II (
+Mangekyō Sharingan
+)
+
+Allied Shinobi Forces (Mangekyō Sharingan)
+
+Obito Uchiha
+
+Young Obito (Sharingan Mode)
+
+Masked Man (Sharingan Mode)
+
+Tobi (Sharingan Mode)
+
+Shinobi World War (
+Sharingan
+ and
+Rinnegan
+ Mode)
+
+Unmasked (
+Ten-Tails
+ Summoning)
+
+Yamato
+ (
+Wood Release Mode
+)
+
+Might Guy
+
+Part I (
+Eight Gates Mode
+)
+
+Part II (Eight Gates Mode)
+
+Asuma Sarutobi
+ (
+Flying Swallow Mode
+)
+
+Iruka Umino
+ (
+Strict Sensei Mode
+)
+
+Shisui Uchiha
+ (
+Susanoo Mode
+)
+
+Hashirama Senju
+
+Alive (Wood Release Mode)
+
+Sage Mode (
+Sage Art Wood Release: True Several Thousand Hands
+)
+
+Tobirama Senju
+ (
+Water Release Mode
+)
+
+Hiruzen Sarutobi
+ (Hokage Mode)
+
+Minato Namikaze
+
+Flak Jacket (
+Yellow Flash Mode
+)
+
+Hokage Cloak (Yellow Flash Mode)
+
+Reanimation (Nine-Tails Chakra Mode)
+
+Kushina Uzumaki
+ (
+Red Habenero Mode
+)
+
+Jiraiya
+ (
+Sage Mode
+)
+
+Orochimaru
+
+Part I (
+White Snake Mode
+)
+
+Part II (White Snake Mode)
+
+Tsunade
+
+Part I (
+Herculean Mode
+)
+
+Allied Shinobi Forces (
+Creation Rebirth
+)
+
+Chiyo
+ (
+Chikamatsu Ten Puppets Mode
+)
+
+A
+ (
+Raikage Mode
+)
+
+Killer B
+
+Part II (
+Gyūki
+)
+
+Samehada
+ (Gyūki)
+
+Darui
+ (
+Black Lightning Mode
+)
+
+Mei Terumī
+ (
+Mizukage Mode
+)
+
+Ōnoki
+ (
+Tsuchikage Mode
+)
+
+Mifune
+ (
+Samurai Mode
+)
+
+Hanzō
+ (
+Salamander Mode
+)
+
+Fourth Kazekage
+ (Kazekage Mode)
+
+Third Raikage
+ (
+Raikage Mode
+)
+
+Second Mizukage
+ (
+Mizukage Mode
+)
+
+Mū
+ (
+Tsuchikage Mode
+)
+
+Yugito Nii
+ (
+Matatabi
+)
+
+Yagura
+ (
+Isobu
+)
+
+Rōshi
+ (
+Son Gokū
+)
+
+Han
+ (
+Kokuō
+)
+
+Utakata
+ (
+Saiken
+)
+
+Fū
+ (
+Chōmei
+)
+
+Madara Uchiha
+
+Reanimation
+ (
+Rinnegan Mode
+)
+
+Reanimation Resolved (
+Susanoo Stabilised Eternal Mangekyō Sharingan Version
+)
+
+Nagato
+
+Pain (
+God Mode
+)
+
+Reanimation (
+Six Paths Mode
+)
+
+Konan
+ (
+Angel Mode
+)
+
+Itachi Uchiha
+
+Part I (
+Tsukuyomi Mode
+)
+
+Part II (
+Susanoo Mode
+)
+
+Kisame Hoshigaki
+ (
+Samehada Fusion Mode
+)
+
+Hidan
+ (
+Jashin Ritual Mode
+)
+
+Kakuzu
+ (
+Shinzo Mode
+)
+
+Deidara
+ (
+C2 Dragon Mode
+)
+
+Sasori
+ (
+Human Puppet Mode
+)
+
+Kabuto Yakushi
+
+Part I (
+Chakra Scalpel Mode
+)
+
+Snake Cloak (
+Snake Mode
+)
+
+Sage Mode (
+Twin Demons Mode
+)
+
+Kimimaro
+ (
+Curse Mark Mode
+)
+
+Zabuza Momochi
+ (
+Demon Mode
+)
+
+Haku
+ (
+Ice Mode
+)
+
+Danzō Shimura
+ (
+Izanagi
+)
+
+Mecha-Naruto
+ (Three-Tail Form,
+Mecha-Kurama
+ Form)
+
+Support-Only Characters
+
+Kurenai Yūhi
+
+Shizune
+
+Anko Mitarashi
+
+C
+
+Chōjūrō
+
+Ao
+
+Kurotsuchi
+
+Akatsuchi
+
+Sakon and Ukon
+
+Tayuya
+
+Kidōmaru
+
+Jirōbō
+
+Fū Yamanaka
+
+Torune Aburame
+
+Teams
+
+Parenthesis indicates what are the members of the teams:
+
+"Best Friends" (
+Naruto Uzumaki
+ and
+Sasuke Uchiha
+)
+
+A Battle With the Eyes (
+Sasuke Uchiha
+ and
+Danzō Shimura
+)
+
+Acknowledged Jinchūriki (
+Naruto Uzumaki
+ and
+Killer B
+)
+
+Adamantine Power (
+Hashirama Senju
+ and
+Tsunade
+)
+
+Aiming for Sasuke (
+Sakura Haruno
+,
+Ino Yamanaka
+, and
+Karin
+)
+
+Akatsuki (
+Pain
+,
+Konan
+,
+Itachi Uchiha
+,
+Kisame Hoshigaki
+,
+Deidara
+,
+Sasori
+,
+Hidan
+,
+Kakuzu
+,
+Tobi
+, and
+Orochimaru
+(w/ Akatsuki cloak))
+
+All Boys (
+Sasuke Uchiha
+ and
+Sai
+)
+
+Apprentice Appreciation (
+Tsunade
+ and
+Sakura Haruno
+ (Part I))
+
+Artists (
+Deidara
+ and
+Sasori
+)
+
+Battle for Nine Tails (Minato Namikaze, Kushina Uzumaki, and Masked Man)
+
+Blademasters (Suigetsu Hozuki and Zabuza Momochi)
+
+Bonded Spirit (Naruto Uzumaki (Tailed Beast Bomb) and Iruka Umino)
+
+Bonds of Love (
+Asuma Sarutobi
+ and
+Kurenai Yūhi
+)
+
+Boys on the Battlefield
+ (
+Minato Namikaze
+,
+Young Kakashi
+, and
+Young Obito
+)
+
+Brotherly Love (
+Sasuke Uchiha
+ and
+Itachi Uchiha
+)
+
+Brow-less Charisma (Gaara and Second Mizukage)
+
+Camp Friends (
+Jūgo
+ and
+Kimimaro
+)
+
+Children of the Prophecy (
+Naruto Uzumaki
+,
+Minato Namikaze
+, and
+Nagato
+)
+
+Chūnin Exams Supervisors (
+Shikamaru Nara
+ and
+Temari
+)
+
+Commando Unit
+ (
+Kankurō
+ (4th Shinobi War) Sai (4th Shinobi War))
+
+Common Interests (
+Tobi
+ (Forth Shinobi War) and
+Kabuto Yakushi
+ (Snake Cloak))
+
+Curse Mark
+ (
+Sasuke Uchiha
+,
+Jūgo
+,
+Kimimaro
+,
+Kidōmaru
+,
+Sakon and Ukon
+,
+Jirōbō
+,
+Tayuya
+, and
+Anko Mitarashi
+)
+
+Dangerous Characters (
+Itachi Uchiha
+ and
+Kisame Hoshigaki
+)
+
+Duo of Fate (
+Masked Man
+ and
+Minato Namikaze
+)
+
+Entrusted Conviction (
+Mifune
+ and
+Hanzō
+)
+
+Eternal Friends (
+Shikamaru Nara
+ and
+Chōji Akimichi
+)
+
+Eternal Rivals (
+Kakashi Hatake
+ and
+Might Guy
+)
+
+Eternal Strife (
+Madara Uchiha
+ and
+Hashirama Senju
+)
+
+Fastest in History (
+Minato Namikaze
+ and
+A
+)
+
+Fence-Sitter and Hardhead (
+Ōnoki
+ and
+A
+)
+
+First Believer (Naruto Uzumaki (Part I) and Iruka Umino)
+
+First Company (
+Tenten
+ (Great Ninja War) and
+Darui
+)
+
+Five Kage Team Combat (
+Tsunade
+,
+A
+,
+Gaara
+,
+Ōnoki
+, and
+Mei Terumī
+)
+
+Former
+Jinchūriki
+ (
+Gaara
+,
+Yugito Nii
+,
+Yagura
+,
+Rōshi
+,
+Han
+,
+Utakata
+, and
+Fū
+)
+
+Former Mizukages
+ (
+Second Mizukage
+,
+Yagura
+, and
+Mei Terumī
+)
+
+Foundation Members (
+Danzō Shimura
+,
+Sai
+,
+Fū
+ and
+Torune
+)
+
+Fourth Company (
+Gaara
+,
+Temari
+,
+Shikamaru Nara
+,
+Chōji Akimichi
+ (Great Ninja War))
+
+God and Angel (
+Pain
+ and
+Konan
+)
+
+Grandfather and Grandchild (
+Ōnoki
+ and
+Kurotsuchi
+)
+
+Grandmother and Grandson (
+Chiyo
+ and
+Sasori
+)
+
+Great Regiment Leader (
+Kakashi Hatake
+,
+Gaara
+,
+Darui
+, and
+Mifune
+)
+
+Hero and Saviour (Naruto and Minato)
+
+Hidden Cloud Ninja (
+Third Raikage
+ and
+A
+)
+
+Hidden Mist Assassins (
+Zabuza Momochi
+ and
+Haku
+)
+
+Hidden Mist Blade Ninjas (
+Zabuza Momochi
+,
+Kisame Hoshigaki
+,
+Suigetsu Hōzuki
+, and
+Chōjūrō
+)
+
+Hidden Mist Natives (
+Mei Terumī
+,
+Ao
+,
+Chōjūrō
+,
+Zabuza Momochi
+,
+Haku
+,
+Suigetsu Hōzuki
+,
+Kisame Hoshigaki
+,
+Yagura
+,
+Utakata
+, and
+Second Mizukage
+)
+
+Hidden Rain Master and Student (
+Jiraiya
+,
+Pain
+, and
+Konan
+)
+
+Hidden Rock Natives (
+Ōnoki
+,
+Kurotsuchi
+,
+Akatsuchi
+,
+Deidara
+,
+Rōshi
+, and
+Han
+)
+
+Hidden Sand Natives (registers as Originals due to bug (also present in
+Ultimate Ninja Storm 3
+) but present in data)
+
+Hot-blooded Master and Student (
+Might Guy
+ and
+Rock Lee
+)
+
+Immortal Duo (
+Kakuzu
+ and
+Hidan
+)
+
+Inherited Will (
+Asuma Sarutobi
+ and
+Shikamaru Nara
+)
+
+Ino–Shika–Chō
+ (
+Ino Yamanaka
+,
+Shikamaru Nara
+, and
+Chōji Akimichi
+)
+
+Ironic Answer (Naruto Uzumaki (Tailed Beast Bomb) and Third Raikage)
+
+Jiraiya's Apprentices (
+Naruto Uzumaki
+,
+Minato Namikaze
+,
+Pain
+,
+Konan
+, and
+Nagato
+(without forming Children of Fate or War Orphans))
+
+Junior and Senior (
+Deidara
+ and
+Tobi
+)
+
+Kage Summit (
+Danzō Shimura
+,
+A
+,
+Gaara
+,
+Ōnoki
+, and
+Mei Terumī
+)
+
+Kazekage Bloodline (Fourth Kazekage, Gaara, Temari, and Kankurō)
+
+Kazekage's Group (
+Gaara
+,
+Temari
+, and
+Kankurō
+)
+
+Leaf Chūnin (
+Sakura Haruno
+,
+Rock Lee
+,
+Tenten
+,
+Shikamaru Nara
+,
+Chōji Akimichi
+,
+Ino Yamanaka
+,
+Kiba Inuzuka
+,
+Shino Aburame
+, and
+Hinata Hyūga
+)
+
+Leaf Genin (
+Naruto Uzumaki
+ (Part I and II),
+Sasuke Uchiha
+ (Part I),
+Sakura Haruno
+ (Part I),
+Shikamaru Nara
+ (Part I),
+Ino Yamanaka
+ (Part I),
+Chōji Akimichi
+ (Part I),
+Kiba Inuzuka
+ (Part I),
+Shino Aburame
+ (Part I),
+Hinata Hyūga
+ (Part I),
+Neji Hyūga
+ (Part I),
+Rock Lee
+ (Part I), and
+Tenten
+ (Part I)
+
+Leaf Jōnin (
+Kakashi Hatake
+,
+Yamato
+,
+Might Guy
+,
+Asuma Sarutobi
+,
+Kurenai Yūhi
+,
+Shizune
+,
+Anko Mitarashi
+, and
+Neji Hyūga
+)
+
+Leaf Medic Team (Sakura Haruno, Tsunade, and Shizune)
+
+Leaf Peers (
+Naruto Uzumaki
+,
+Sasuke Uchiha
+,
+Sakura Haruno
+,
+Sai
+,
+Neji Hyūga
+,
+Rock Lee
+,
+Tenten
+,
+Shikamaru Nara
+,
+Chōji Akimichi
+,
+Ino Yamanaka
+,
+Kiba Inuzuka
+,
+Shino Aburame
+, and
+Hinata Hyūga
+)
+
+Leaf Sensei (
+Kakashi Hatake
+,
+Might Guy
+,
+Asuma Sarutobi
+, and
+Kurenai Yūhi
+)
+
+Leaf's Light and Shadow (
+Hiruzen Sarutobi
+ and
+Danzō Shimura
+)
+
+Legendary Guts (
+Naruto Uzumaki
+,
+Minato Namikaze
+, and
+Jiraiya
+)
+
+Like Cats and Dogs (
+Suigetsu Hōzuki
+ and
+Karin
+)
+
+Love Relayed (
+Fourth Kazekage
+ and
+Gaara
+)
+
+Love Triangle (
+Sasuke Uchiha (Part I)
+,
+Sakura Haruno
+ (Part I), and
+Ino Yamanaka
+ (Part I))
+
+Madara and Kids (
+Madara
+ and
+Ōnoki
+)
+
+Make-out Comrades (
+Jiraiya
+ and
+Kakashi Hatake
+)
+
+Masked Ninjas (
+Masked Man
+,
+Tobi
+,
+Haku
+, and
+Kakuzu
+)
+
+Mature Women (
+Tsunade
+,
+Mei Terumī
+,
+Kurenai Yūhi
+,
+Shizune
+,
+Anko Mitarashi
+,
+Konan
+,
+Yugito
+ and
+Kushina Uzumaki
+)
+
+Mecha In Love (
+Mecha-Naruto
+ and
+Hinata
+)
+
+Mizukage's Group (
+Mei Terumī
+,
+Ao
+, and
+Chōjūrō
+)
+
+Mist Assassins (
+Zabuza Momochi
+ &
+Haku
+)
+
+Mist Ninja Swords
+ (
+Zabuza Momochi
+,
+Kisame Hoshigaki
+,
+Chōjūrō
+,
+Suigetsu Hōzuki
+)
+
+Monster Strength (
+Sakura Haruno
+ and
+Tsunade
+)
+
+Mother and Child (
+Kushina Uzumaki
+ and
+Naruto Uzumaki
+)
+
+Mutual Respect (
+Jiraiya
+ and
+Minato Namikaze
+)
+
+My Favourite (Kushina Uzumaki and Obito Uchiha (Young))
+
+My Son's Enemy!? (Kakashi Hatake and Chiyo)
+
+Naruto in Hand (
+Mecha-Naruto
+,
+Hinata Hyūga
+, and
+Naruto Uzumaki
+)
+
+New Hokage's Group (
+Danzō Shimura
+,
+Fū
+ and
+Torune
+)
+
+New Jutsu Development (
+Naruto Uzumaki
+,
+Kakashi Hatake
+, and
+Yamato
+)
+
+New
+Team Kakashi
+ (
+Naruto Uzumaki
+,
+Sakura Haruno
+,
+Sai
+, and
+Yamato
+)
+
+Nostalgic
+Team Kakashi
+ (
+Naruto Uzumaki
+ (Part I),
+Sasuke Uchiha
+ (Part I),
+Sakura Haruno
+ (Part I), and
+Kakashi Hatake
+)
+
+Odd Beasts (
+Might Guy
+ and
+Kisame Hoshigaki
+)
+
+Old Friends (
+Tsunade
+ and
+Jiraiya
+)
+
+Ones of Wind Nature (
+Asuma Sarutobi
+ and
+Naruto Uzumaki
+)
+
+Orange-Coloured Brilliance (
+Naruto Uzumaki
+,
+Kushina Uzumaki
+, and
+Minato Namikaze
+)
+
+Outstanding Blade (Suigetsu Hōzuki and Darui)
+
+Parent and Child (
+Minato Namikaze
+ and
+Naruto Uzumaki
+)
+
+Past Friends (
+Kakashi Hatake
+ and
+Obito Uchiha
+)
+
+Past Hokage (
+Hashirama Senju
+,
+Tobirama Senju
+,
+Hiruzen Sarutobi
+,
+Minato Namikaze
+,
+Tsunade
+, and
+Danzō Shimura
+)
+
+Past Mizukage (
+Second Mizukage
+ and
+Mei Terumī
+)
+
+Pigs Don't Have Hands (Sakura Haruno and Neji Hyūga)
+
+Plot (
+Danzō Shimura
+ and
+Hanzō
+)
+
+Poison Expert (Hanzō and Chiyo)
+
+Powerful Tag Team (
+Sakura Haruno
+ and
+Chiyo
+)
+
+Project Tsuki no Me (
+Madara Uchiha
+ and
+Obito Uchiha
+)
+
+Puppet Masters (
+Chiyo
+,
+Kankurō
+, and
+Sasori
+)
+
+Raikage's Group (
+A
+,
+Darui
+, and
+C
+)
+
+Reanimation's Vessel (
+Kimimaro
+ and
+Sasuke Uchiha
+)
+
+Revived Hokages (Hashirama Senju (Reanimation), Tobirama Senju (Reanimation), Hiruzen Sarutobi (Reanimation), Minato Namikaze (Reanimation))
+
+Rivalled Second (Mu and Second Mizukage)
+
+Rivals (Naruto Uzumaki and Konohamaru Sarutobi)
+
+Rivals in Love (
+Sakura Haruno
+ and
+Ino Yamanaka
+)
+
+Sages (
+Naruto Uzumaki
+ (Sage),
+Jiraiya
+, Kabuto Yakushi (Sage Mode), and Hashirama Senju (Sage Mode))
+
+Sarutobi Clan
+ (
+Asuma Sarutobi
+,
+Hiruzen Sarutobi
+, &
+Konohamaru Sarutobi
+)
+
+Sasuke Retrieval Mission (
+Naruto Uzumaki
+ (Part I),
+Shikamaru Nara
+ (Part I),
+Chōji Akimichi
+ (Part I),
+Neji Hyūga
+ (Part I), and
+Kiba Inuzuka
+ (Part I))
+
+Secret Lovers/Joined Hands (
+Naruto Uzumaki
+ and
+Hinata Hyūga
+)
+
+Senju Siblings (
+Hashirama Senju
+ and
+Tobirama Senju
+)
+
+Shadow Women (
+Tsunade
+ and
+Mei Terumī
+)
+
+Siblings (
+Sasuke Uchiha
+ and
+Itachi Uchiha
+)
+
+Similar Attraction (Naruto Uzumaki and Mecha-Naruto)
+
+Snake Masters (
+Orochimaru
+,
+Kabuto Yakushi
+ (Snake Cloak), and
+Anko Mitarashi
+)
+
+Snake and Tactician (
+Orochimaru
+ and
+Kabuto Yakushi
+)
+
+Sound Five
+ (
+Kimimaro
+,
+Kidōmaru
+,
+Sakon and Ukon
+,
+Jirōbō
+, and
+Tayuya
+)
+
+Spiral of Fate (Minato Namikaze and Kushina Uzumaki)
+
+Stop Nagato!! (
+Naruto Uzumaki
+,
+Killer B
+ (With Samehada), and
+Itachi Uchiha
+ (Reanimated))
+
+Sublime Art (
+Itachi Uchiha
+ and
+Deidara
+)
+
+Taka
+ and
+Hebi
+ (
+Sasuke Uchiha
+ and
+Orochimaru
+)
+
+Teacher (Naruto Uzumaki (Massive Rasengan Mega Barrage/Wind Style: Rasen Shuriken) and Iruka Umino)
+
+The Hidden Rain Link (
+Hanzō
+,
+Nagato
+,
+Konan
+, and
+Pain
+)
+
+The Orochimaru Band (
+Orochimaru
+,
+Kabuto Yakushi
+,
+Sasuke Uchiha
+,
+Suigetsu Hōzuki
+,
+Karin
+,
+Jūgo
+,
+Kidōmaru
+,
+Sakon and Ukon
+,
+Jirōbō
+,
+Tayuya
+, and
+Kimimaro
+)
+
+The
+Revived Team Seven
+ (
+Naruto Uzumaki
+ (
+Kurama Link Mode
+),
+Sasuke Uchiha
+, and
+Sakura Haruno
+)
+
+The
+Three Sand Siblings
+ (
+Gaara
+,
+Temari
+, and
+Kankurō
+)
+
+The Truth of The Uchiha (
+Sasuke Uchiha
+ and
+Tobi
+)
+
+Those Steeped in Darkness (
+Sasuke Uchiha
+,
+Orochimaru
+, and
+Kabuto Yakushi
+)
+
+Those Who Know Loneliness (
+Naruto Uzumaki
+ and
+Gaara
+)
+
+Torn Friendship (Kakashi Hatake (Fourth Shinobi World War) and Obito Uchiha)
+
+Tsuchikage's Group (
+Ōnoki
+,
+Kurotsuchi
+, and
+Akatsuchi
+)
+
+Turtle Island Assault (Deidara (Reanimation) and Kabuto Yakushi (Snake Cape))
+
+Two-Right Arms (
+A
+ and
+Darui
+)
+
+Uchiha Brothers (Sasuke Uchiha (First Outfit/Kirin/Part I) and Itachi Uchiha)
+
+Uchiha Clan
+ (
+Sasuke Uchiha
+(First Outfit)/(Kirin),
+Itachi Uchiha
+,
+Shisui Uchiha
+, Madara, Obito(young), Obito)
+
+User and Risk (Itachi Uchiha (Reanimation) and Kabuto Yakushi (Sage Mode))
+
+Utterly Gutsy Master and Student (
+Naruto Uzumaki
+ and
+Jiraiya
+)
+
+Uzumaki Clan
+ (
+Kushina Uzumaki
+,
+Naruto Uzumaki
+,
+Nagato
+, and
+Karin
+)
+
+War Orphans
+ (
+Nagato
+,
+Pain
+, and
+Konan
+)
+
+Worthy Past Opponents (
+Young Kakashi
+ and
+Young Obito
+)
+
+Aburame Clan
+ (
+Shino Aburame
+ and
+Torune
+)
+
+A–B Combo
+ (
+A
+ and
+Killer B
+)
+
+Byakugan
+ Users (
+Neji Hyūga
+,
+Hinata Hyūga
+, and
+Ao
+)
+
+Hebi
+ (
+Sasuke Uchiha
+,
+Suigetsu Hōzuki
+,
+Karin
+, and
+Jūgo
+)
+
+Hyūga Clan
+ (
+Neji Hyūga
+ and
+Hinata Hyūga
+)
+
+Jinchūriki
+ (
+Naruto Uzumaki
+,
+Killer B
+,
+Gaara
+,
+Yugito Nii
+,
+Yagura
+,
+Rōshi
+,
+Han
+,
+Utakata
+, and
+Fū
+)
+
+Kekkei Tōta
+ (
+Mū
+ and
+Ōnoki
+)
+
+Mangekyō Sharingan
+ (
+Kakashi Hatake
+,
+Sasuke Uchiha
+,
+Itachi Uchiha
+,
+Shisui Uchiha
+,
+Danzō Shimura
+, and
+Madara Uchiha
+)
+
+Rinnegan
+ (
+Nagato
+,
+Pain
+,
+Madara Uchiha
+, and
+Obito Uchiha
+)
+
+Sarutobi Clan
+ (
+Hiruzen Sarutobi
+,
+Asuma Sarutobi
+, and/or
+Konohamaru Sarutobi
+)
+
+Sharingan
+ and
+Rinnegan
+ (
+Itachi Uchiha
+ and
+Nagato
+)
+
+Taka
+ (
+Sasuke Uchiha
+ (Taka),
+Suigetsu Hōzuki
+,
+Karin
+, and
+Jūgo
+)
+
+Team Asuma
+ (
+Asuma Sarutobi
+,
+Shikamaru Nara
+,
+Ino Yamanaka
+, and
+Chōji Akimichi
+)
+
+Team Guy
+ (
+Might Guy
+,
+Rock Lee
+,
+Neji Hyūga
+, and
+Tenten
+)
+
+Team Hiruzen
+ (
+Hiruzen Sarutobi
+,
+Jiraiya
+,
+Tsunade
+, and
+Orochimaru
+)
+
+Team Kakashi
+ (
+Naruto Uzumaki
+,
+Sakura Haruno
+,
+Sai
+, and
+Kakashi Hatake
+)
+
+Team Kurenai
+ (
+Kiba Inuzuka
+,
+Shino Aburame
+, and
+Hinata Hyūga
+)
+
+Team Minato's Reunion
+ (Minato (Reanimation),
+Kakashi Hatake
+ (Lightning Blade: Speed), and
+Obito Uchiha
+)
+
+Team Seven
+ (
+Naruto Uzumaki
+,
+Sasuke Uchiha
+,
+Sakura Haruno
+, and
+Kakashi Hatake
+)
+
+Team Seven
+ Captains (
+Kakashi Hatake
+ and
+Yamato
+)
+
+Team Tobirama
+ (
+Tobirama Senju
+,
+Hiruzen Sarutobi
+, and
+Danzō Shimura
+)
+
+The Legendary Sannin
+ (
+Jiraiya
+,
+Tsunade
+, and
+Orochimaru
+)
+
+Yamanaka Clan
+ (
+Ino Yamanaka
+ and
+Fū
+)
+
+Combination Ultimate Jutsu
+
+This is the list of select teams of characters that have a Combination Ultimate Jutsu when paired with each other:
+
+Naruto Uzumaki
+ and
+Sasuke Uchiha
+ (
+Wind and Lightning Release: Typhoon Lightning Spiral
+)
+
+Naruto Uzumaki
+,
+Sasuke Uchiha
+ and
+Sakura Haruno
+ (
+New: Summoning Three-Way Deadlock‎
+)
+
+Naruto Uzumaki
+ (Part I),
+Sasuke Uchiha
+ (Part I) and
+Sakura Haruno
+ (Part I) (
+Teamwork is Outstanding
+)
+
+Hashirama Senju
+ and
+Madara Uchiha
+ (
+Rivalling Wills
+)
+
+Jiraiya
+,
+Orochimaru
+ and
+Tsunade
+ (
+Fire Leaping Windhole
+)
+
+Shisui Uchiha
+ and
+Itachi Uchiha
+ (
+Turbulent Four Seasons
+)
+
+Minato Namikaze
+,
+Young Kakashi
+ and
+Young Obito
+ (
+Trinity
+)
+
+Hashirama Senju
+,
+Tobirama Senju
+ and
+Hiruzen Sarutobi
+ (
+The Inheritance of the Will of Fire
+)
+
+Naruto Uzumaki
+ and
+Minato Namikaze
+ (
+Tailed Beast Combo
+)
+
+Naruto Uzumaki
+,
+Minato Namikaze
+ and
+Kushina Uzumaki
+ (
+True: Supreme Ultimate Rasengan
+)
+
+Naruto Uzumaki
+ and
+Hinata Hyūga
+ (
+Gentle Phoenix Spiralling Twin Lion Fists
+)
+
+Shikamaru Nara
+,
+Ino Yamanaka
+ and
+Chōji Akimichi
+ (
+Human Bullet Yo-Yo
+)
+
+Gaara
+,
+Temari
+ and
+Kankurō
+ (
+Scorching Heat Sand Binding Coffin
+)
+
+Kakashi Hatake
+ and
+Might Guy
+ (
+Eternal Rival
+)
+
+Killer B
+ and
+A
+ (
+Liger Two Platoons Bomb
+)
+
+Naruto Uzumaki
+,
+Konohamaru Sarutobi
+ and
+Iruka Umino
+ (
+Problem Children of the Academy
+)
+
+Sasuke Uchiha
+ and
+Itachi Uchiha
+ (Reanimation) (
+Amaterasu: Dual Layer
+)
+
+Madara Uchiha
+ and
+Obito Uchiha
+ (
+Heavenly Insertion Hammering Star
+)
+
+Pain
+ and
+Konan
+ (
+Fiery Paper Star of God
+)
+
+Hidan
+ and
+Kakuzu
+ (
+Ultimate Death Beyond Terror
+)
+
+Deidara
+ and
+Sasori
+ (
+Collaboration: Ultimate Art
+)
+
+Playable Stages
+
+Awakening Stage (accessible via True Awakenings)
+
+Crashing Waves Coast
+
+Deidara's Hideout
+
+Forest of Dead Trees
+
+Forest of Quiet Movement (Day, Evening, Night)
+
+Grassy Waves Prairie (Day)
+
+Great Ninja War Battlefield
+
+Konohagakure Forest (Day)
+
+Lookout Tower
+
+Shinobi World Tournament
+
+Site of
+Planetary Devastation
+
+Amegakure
+ (Lower, Upper)
+
+Chūnin Exams
+ Preliminary Arena
+
+Chūnin Exams
+ Stadium
+
+Waterfall of Truth
+ (Day)
+
+Five-Seal Barrier
+ Cliff
+
+Forest of Death
+
+Great Naruto Bridge
+
+Five Kage Summit Venue
+
+Konohagakure
+ (Part II,
+Destroyed
+, Reconstruction)
+
+Orochimaru's Hideout
+ (Normal, Destroyed)
+
+Great Snowfield of Iron
+
+Lightning
+ Desert
+
+Mount Myōboku
+
+Mountains' Graveyard
+
+Samurai Bridge
+ (On)
+
+Sunagakure
+
+Sunagakure
+ Gate
+
+Tailed Beast Ruins
+
+Training Field
+ (Day)
+
+Uchiha Hideout
+ (Normal)
+
+Storm Cloud Ravine
+
+Valley of the End
+ (Clear Sky, Rainy)
+
+Customisation Items
+
+Players are able to customise their characters with various items unlocked throughout the game.
+
+Mental Stone
+
+Butterfly Net
+
+Butterfly Hair Ornament
+
+Insect Cage
+
+Demon's Horn
+
+Demon's Wing
+
+Demon's Tail
+
+White Cat Ears
+
+Black Cat Ears
+
+White Cat Tail
+
+Black Cat Tail
+
+White Rabbit Ears
+
+Black Rabbit Ears
+
+White Rabbit Tail
+
+Black Rabbit Tail
+
+Fox Ears
+
+Candy Apple
+
+Festival Fan
+
+Uchiha Fan
+
+Uzumaki Fan
+
+Ogre's Horn
+
+Thunder God's Drums
+
+Metal Rod
+
+Kabuki Piece
+
+Naruto's Scroll
+
+Gama-chan
+
+Memory Bell
+
+Stuffed Pakkun
+
+Stuffed Eagle
+
+Demon Wind Shuriken
+
+Shoulder Strapped Sheath
+
+Konan's Hair Ornament
+
+Paper Flower Bouquet
+
+Paper Shuriken
+
+One-Tail (Young)
+
+Two-Tails (Young)
+
+Three-Tails (Young)
+
+Four-Tails (Young)
+
+Five-Tails (Young)
+
+Six-Tails (Young)
+
+Seven-Tails (Young)
+
+Eight-Tails (Young)
+
+Nine-Tails (Young)
+
+Red Lantern
+
+Feather Fan
+
+Seal
+
+Six-Layered Scroll
+
+Nunchucks
+
+Jiraiya's Scroll
+
+Contract Scroll
+
+Wooden Tag
+
+Bag
+
+Sakura's War Axe
+
+Three-Layered Scroll
+
+Stuffed Tonton
+
+Stuffed Gamakichi
+
+Stuffed Gamatatsu
+
+Stuffed Gerotora
+
+Stuffed Toad
+
+Stuffed Ninja Tortoise
+
+Mini-Katsuyu
+
+Training-kun
+
+Immobile Kakashi Doll
+
+Ichiraku Noodle Carrier
+
+Stuffed Deer
+
+Stuffed Ibuse
+
+Model Golem
+
+Shichiseiken
+
+Benihisago
+
+Bashōsen
+
+Cursed Doll
+
+Bank Attach
+
+A's Case
+
+Hokage Hat
+
+Raikage Hat
+
+Mizukage Hat
+
+Tsuchikage Hat
+
+Kazekage Hat
+
+Ichiraku Ramen Banner
+
+Secret Scroll
+
+Storage Battery
+
+Backpack 1
+
+Backpack 2
+
+Water Canister
+
+First Aid Kit
+
+Collapsible Umbrella
+
+1000 Ryō Box
+
+3-Stringed Lute
+
+Large Sword
+
+War Axe
+
+Executioner's Blade
+
+Katana
+
+Giant Shuriken
+
+Stuffed Denka
+
+Stuffed Hina
+
+Stuffed Kamatari
+
+Sakura's Hair Ornament
+
+Red Hair Ornament
+
+Blue Hair Ornament
+
+Yellow Hair Ornament
+
+Green Hair Ornament
+
+Black Rimmed Eyeglasses
+
+Red Rimmed Eyeglasses
+
+Spiral Eyeglasses
+
+Sunglasses
+
+Party Sunglasses
+
+Eye Patch
+
+Tengu Mask
+
+One-Tail's Tail
+
+Two-Tails' Tail
+
+Three-Tails' Tail
+
+Four-Tails' Tail
+
+Five-Tails' Tail
+
+Six-Tails' Tail
+
+Seven-Tails' Tail
+
+Eight-Tails' Tail
+
+Nine-Tails' Tail
+
+Stuffed Sharingan Crow
+
+Grim Reaper's Mask
+
+Bug Pot
+
+Tazuna's Hat
+
+Hiruko's Mask
+
+Hiruko's Tail
+
+Akatsuki's Red Cloud
+
+Naruto Roll
+
+Radio Cassette Recorder
+
+Spider War Bow
+
+Firewood
+
+Hard Candy
+
+Tsuru-Kame
+
+Short Sword
+
+Adamantine Nyoi
+
+Bee's Sword Sheath
+
+Butterfly Wings
+
+Funny Mask
+
+Scorching Style: Dehydrating Death
+
+Fireball
+
+Paper Slapper
+
+Fan
+
+Snake's Tail
+
+Two-Tails' Tail (ver. 2)
+
+Three-Tails' Tail (ver. 2)
+
+Four-Tails' Tail (ver. 2)
+
+Five-Tails' Tail (ver. 2)
+
+Six-Tails' Tail (ver. 2)
+
+Seven-Tails' Tail (ver. 2)
+
+Eight-Tails' Tail (ver. 2)
+
+Nine-Tails' Tail (ver. 2)
+
+Mysterious Man's Mask
+
+Nine-Tails' (6 Tails) Mask
+
+White Lantern
+
+Way of Jashin Pendant
+
+Tri-colour Dumplings
+
+Nine-Tails' Seal Tag
+
+Paper Bomb
+
+Seal Tag
+
+Paper Balloon
+
+Paper Crane
+
+Windmill
+
+Make-Out Tactics
+
+Sai's Drawing Book
+
+Stuffed Fukasaku
+
+Stuffed Shima
+
+Anbu Mask 1
+
+Anbu Mask 2
+
+Anbu Mask 3
+
+Anbu Mask 4
+
+Anbu Mask 5
+
+Anbu Mask 6
+
+Anbu Mask 7
+
+Anbu Mask 8
+
+Yamato's Anbu Mask
+
+Kakashi's Anbu Mask
+
+Hidden Mist Ninja Mask 1
+
+Hidden Mist Ninja Mask 2
+
+Hidden Mist Ninja Mask 3
+
+Haku's Mask
+
+Kakuzu's Water Style Mask
+
+Kakuzu's Lightning Style Mask
+
+Kakuzu's Fire Style Mask
+
+Kakuzu's Wind Style Mask
+
+Toy Mask 1
+
+Toy Mask 2
+
+Toy Mask 3
+
+Toy Mask 4
+
+Toy Mask 5
+
+Stuffed Manda
+
+Stuffed Aoda
+
+Stuffed Six Paths Panda
+
+Stuffed Six Paths Dog
+
+Stuffed Six Paths Rhino
+
+Stuffed Six Paths Bird
+
+Stuffed Six Paths Chameleon
+
+Samurai Doll
+
+Gedō Statue Doll
+
+Stuffed Failed Tailed Beast Form
+
+Kakashi Doll
+
+Naruto Doll
+
+Sasuke Doll
+
+Sakura Doll
+
+Ino Doll
+
+Shikamaru Doll
+
+Chōji Doll
+
+Neji Doll
+
+Lee Doll
+
+Tenten Doll
+
+Kiba Doll
+
+Shino Doll
+
+Hinata Doll
+
+Mecha-Naruto Doll
+
+Downloadable Content
+
+Costumes
+
+Pre-Order Costumes
+
+Naruto Uzumaki
+ (
+Samurai Warrior costume
+) (Sasuke outfit)
+
+Sasuke Uchiha
+ (Samurai Warrior costume) (Naruto outfit)
+
+Sakura Haruno
+ (Samurai Warrior costume)
+
+Itachi Uchiha
+ (
+Apron
+)
+
+Summer Clothes
+
+Sakura Haruno
+
+Hinata Hyūga
+
+Ino Yamanaka
+
+Tenten
+
+White Robe  Jinchuriki Costumes
+
+Gaara
+
+Yugito Nii
+
+Yagura
+
+Rōshi
+
+Han
+
+Utakata
+
+Fū
+
+Killer B
+
+Naruto Uzumaki
+
+Business Suit Pack
+
+Naruto Uzumaki
+
+Sasuke Uchiha
+
+Shikamaru Nara
+
+Minato Namikaze
+
+Sai
+
+Gaara
+
+Variety Pack 1
+
+Hashirama Senju
+ (
+Hokage
+ Outfit)
+
+Hiruzen Sarutobi
+ (Hokage Outfit)
+
+Zabuza Momochi
+ (
+Flak Jacket
+)
+
+Kakashi Hatake
+ (
+Kakuzu Fight
+)
+
+Itachi Uchiha
+ (
+w/o cloak
+)
+
+Variety Pack 2
+
+Suigetsu Hōzuki
+ (Taka)
+
+Karin
+ (Taka)
+
+Jūgo
+ (Taka)
+
+Madara Uchiha
+ (Black Robe)
+
+Mifune
+ (
+Five Kage Summit
+)
+
+Naruto Uzumaki
+ (Part I) (Pyjama costume)
+
+Variety Pack 3
+
+Nagato
+ (First
+Akatsuki
+ Outfit)
+
+Yahiko
+/
+Pain
+ (First
+Akatsuki
+ Outfit)
+
+Konan
+ (First
+Akatsuki
+ Outfit)
+
+Kushina Uzumaki
+ (
+Road to Ninja
+ Outfit)
+
+Reanimation
+-Before Death Pack
+
+Second Mizukage
+ (Before Death)
+
+Third Raikage
+ (Before Death)
+
+Fourth Kazekage
+ (Before Death)
+
+Hanzō
+ (Before Death)
+
+Mū
+ (Before Death)
+
+Sasori
+ (Reanimated)
+
+Kakuzu
+ (Reanimated)
+
+Chiyo
+ (Reanimated)
+
+Kimimaro
+ (Reanimated)
+
+Glitches
+
+When Obito (Unmasked) summons the Ten-Tails during his Awakening sequence while battling against Rock Lee (Part II) in his Eight Gates state, the latter's head momentarily disappears.
+
+When Rōshi uses his neutral combo and delivers the last punch, he opens his mouth which shows his teeth. However, if he uses it while wearing his DLC costume, his teeth are not there. The same disappearing teeth glitch can happen to the Susanoo Eternal Mangekyō Sharingan Version of Sasuke if he uses his grab while wearing his Warrior DLC costume.
+
+When Naruto (Part I) in his DLC Pyjama costume uses his grab, right before the opponent lands on the ground, it can be seen when the tip of the clone's sleep cap sticking out of the ground before disappearing.
+
+This glitch doesn't happen too often. When you are playing a Challenge in the Ninja World Tournament, sometimes when it loads the contestants icons disappear then the screen goes completely white.
+
+There is a rare glitch that happens when one team attempts to use a Team Ultimate Jutsu. If the second support member is damaged during the beginning animation (for example, is hit by a support attack or paper bomb), there is a chance the first support will continue to try and hit the opponent multiple times, even if the defending player guards multiple times. The way to break this glitch is to jump over the first support and let him/her run, then the second support will get up and will finish the Team Ultimate Jutsu attempt with the opposing player.
+
+This rare glitch can only happen if one of the players has the Drive System. Depending on what kind of attack the opponent is using at the time and how close they are, even if the player successfully hits the Seal Barrier, the opponent will not enter the animation and thus the seal will not work, wasting the drive bar completely.
+
+Trivia
+
+Team Ultimate Jutsus for Naruto and Konohamaru, Neji and Hinata, as well as Guy and Lee (Part I) were found in the coding of the demo. They were, however, ultimately cut from the full release.
+
+Some of the Ultimate Jutsu Finish's subtitles have improper grammar or misspell some of the character's names. An example is one of Fū's (No. 379) where it says, "There's no word for defeat in
+Foo's
+ dictionary."
+
+A poster that depicts Mecha-Naruto and its other two forms alongside a Mecha-Naruto trading card were given to buyers of the game.
+
+If the player uses Sasuke in his kimono outfit and does his combination ultimate jutsu with Naruto, just as they are about to strike the opponent, you can see Sasuke's cursed seal on his body, even though the version of Sasuke that the costume is for had his cursed seal removed long ago by Itachi.
+
+When Rock Lee (Part I) finishes a Team Ultimate Jutsu and thanks his team members, he only shouts "Tenten!", even if neither versions of Tenten are on his team. The same is true with Shikamaru (Part I) as he yells "Choji!".
+
+In one of the trailers, it showed combat between Mecha-Naruto and Shisui on the Uchiha Hideout (Destroyed) stage, yet that stage is not available to play on in the game.
+
+When fighting against an opponent that starts in True Awakening, with a Titan Awakening Character (Madara Reanimation Resolved, Obito Uchiha, and Hashirama Sage Mode) if you perform True Awakening, the field won't change to the True Awakening field and the Titan awakening will just move through the stage background.
+
+See Also
+
+The Directive to Take the Nine-Tails
+ (Tie-in episode)
+
+Naruto vs. Mecha-Naruto
+ (Tie-in episode)
+
+Gallery
+
+Playable Characters with Costumes
+
+Kakuzu
+Hidan
+Deidara
+Sasori
+
+External Link
+
+Official Japanese Website
+
+References

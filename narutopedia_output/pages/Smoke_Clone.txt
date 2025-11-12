@@ -1,0 +1,1 @@
+This technique allows the user to create a clone made out of smoke. When it is hit, it reverts back into smoke.

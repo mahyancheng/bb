@@ -1,0 +1,5 @@
+Wikipedia:Cat
+
+This page is a
+soft redirect
+.

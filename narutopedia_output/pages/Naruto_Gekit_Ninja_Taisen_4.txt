@@ -1,0 +1,332 @@
+Naruto: Gekitō Ninja Taisen! 4
+ is the fourth instalment of the
+Gekitō Ninja Taisen
+ series.
+
+Gameplay
+
+The game's story and roster covers the events from the
+Sasuke Recovery Mission
+. However, extra liberties are taken such as the Sound 4 tempting Sasuke's leave whilst Naruto and Sakura are within presence (prompting Naruto to try and stop Sasuke earlier) and Itachi and Kisame getting into scuffles with the Sound 4 beforehand.
+
+The game fleshes out the tag team mode from the
+last game
+, referred to as 3-man cell, which allows groups of characters to fight each other in turn. Most of it remains the same, only
+Gekitō Ninja Taisen! 4
+ enables certain combinations of team members having special attack combinations (done with forward+special). The 3-man cell mode also enables either 1 on 1, 2 on 2, 3 on 3, 3 on 1, 3 on 2 and 2 on 1, all in one tag mode. The Crisis Special system is also less apparent, as characters' health bars no longer glow or show any indication of some sort when Crisis mode is in play.
+
+The Crisis Specials themselves are also remapped (mainly to down+special button), which however causes them to instead have slightly more startup in trade of being easier to access (if they have the same startup initial blow animation as neutral specials). This is the first
+Gekitō Ninja Taisen
+/
+Clash of Ninja
+ game to feature backward specials with the input "back+special button" (
+Naruto Shippūden: Clash of Ninja Revolution 3
+ reuses this concept). However, all possible transformation-based specials/secret techniques are now all mapped to back+special, regardless of the availability of a down+special input for certain characters.
+
+Running dodges have also been added, allowing for an extra mobility option which prevents running from being a 100%-committal option (either they can safely stop running after the dodge, or they can continue running just after inputting it if they are still holding a forward direction). If done up-close underneath an airborne opponent, running dodges can be done to slip quickly under them with the same recovery time as a far-away dodge (sooner action frames).
+
+Also in this game is the ability to perform a
+Body Replacement Technique
+ with the "dodge left" button to instead teleport out of harm's way back on the ground in neutral state without perform an automatic counterattack, allowing the user to setup their own offence and/or maintain neutral. Using the "dodge right" button instead performs the original counterattack function (which during midair hitstun, can either be tapped alone to perform the standard falling counterattack, or a running attack grounded counter with down + dodge right like normal).
+
+Another step-up from the prior game is the inclusion of a guard metre, shown as a bar with five dots that represents the strength of the character's guard. If a character is not guarding, their guard metre will regain dots/strength over time. Each character in the game's data has their own varying value of guard metre units, with some characters being easier to guard crush than others (normally correlated to their HP amount).
+
+Another new feature to the gameplay of this game is the use of the Chakra Cancel (also dubbed as "Y-Cancel"); a type of anywhere-metre-costing cancel that instantly returns the attacker to neutral state upon any attack landed only on an airborne. This normally costs 25% chakra and is done with the throw button in the middle of a connecting attack; however, any attack that inflicts a sweep knockdown effect, is coded with a mid-airborne state (including ones that can also crush low attacks), an attack that is whiffed, landed on a grounded opponent, or blocked, or any projectile attack cannot be chakra-cancelled like so.
+
+However, upon executing a Chakra Cancel successfully, the user will enter a stance for a few seconds which can be freely cancelled by anything else. Another caveat to Chakra Cancels are that they scale down combos heavier on top of the natural 5%-across-the-board damage scaling for combos in general. The window to execute a Chakra Cancel is when an attack's hitbox is no longer active, which is separate from the ending animation of the cancel-able attack itself.
+
+However, any slight movement used to break the Chakra Cancel-stance will reset its damage scaling for any incoming attack input (holding down the desired direction when chakra-cancelling to achieve this works as well), making this specific stance-cancelling-mechanic especially vital for back-to-back Chakra Cancels in the same juggle combo for higher damage where natural scaling still applies. Thus, this advanced technique is often dubbed as "stance breaking". Regardless, using back-to-back stance-breaks in a single combo will still not mitigate the standardized damage scaling as stressed once more.
+
+Most noticeably, the game does away with the shop feature, and unlockables are now acquired by simply meeting certain criteria in the game's new Mission mode. Mission mode forces the player to fight increasingly stronger opponents under specific circumstances and with different methods of winning in order to complete each mission. Another removed feature is the ability to use the directional pad for movement, with it now only being limited to the left analogue/thumbstick.
+
+This was the last
+Naruto
+ game for the Gamecube.
+
+Playable Characters
+
+Naruto Uzumaki
+ (Playable in a
+One-Tailed
+ form)
+(
+Nine-Tails
+ form)
+
+Sasuke Uchiha
+ (Playable in a
+Level 2 Cursed
+ form)
+(
+Sharingan
+)
+
+Sakura Haruno
+
+Kakashi Hatake
+ (
+Sharingan
+)
+
+Hinata Hyūga
+ (Playable in an
+Awakened
+ form)
+
+Kiba Inuzuka
+
+Shino Aburame
+
+Ino Yamanaka
+
+Shikamaru Nara
+
+Chōji Akimichi
+
+Rock Lee
+
+Neji Hyūga
+
+Tenten
+
+Might Guy
+
+Tsunade
+
+Jiraiya
+
+Orochimaru
+
+Third Hokage
+
+Anko Mitarashi
+
+Iruka Umino
+
+Mizuki
+
+Akamaru
+
+Gaara
+
+Temari
+
+Kankurō
+
+Karasu
+
+Haku
+
+Zabuza
+
+Itachi Uchiha
+
+Kisame Hoshigaki
+
+Jirōbō
+ (only playable in
+Curse Mark Mode Stage 2
+)
+
+Kidōmaru
+ (only playable in
+Curse Mark Mode Stage 2
+)
+
+Tayuya
+ (only playable in
+Curse Mark Mode Stage 2
+)
+
+Sakon
+ (only playable in
+Curse Mark Mode Stage 2
+)
+
+Kimimaro
+ (only playable in
+Curse Mark Mode Stage 2
+)
+
+Kabuto Yakushi
+
+Stages
+
+Gamabunta Bath
+
+Academy - Schoolyard
+
+Hokage's Monument
+
+Ramen Ichiraku
+
+Konohagakure Village Gate
+
+Forest of Death
+
+Great Naruto Bridge
+
+Chūnin Exams - Qualifiers
+
+Chūnin Exams - Finals
+
+Chūnin Exams - Finals (Rooftop)
+
+Rooftop Castle/Enclosed Upheaval/
+Nativity of a World of Trees
+
+Hot Springs
+
+Tanzaku Castle
+
+3-Way Deadlock
+
+Hidden Sand Village/Sunagakure
+
+Nine-Tail Fox Gates
+
+Konoha Hospital Rooftops
+
+Konoha Village Temple
+
+Konoha Police Department
+
+Abandoned Uchiha District
+
+Orochimaru's Lair
+
+Snow Valley
+
+Sand Shambled Plains
+
+The Valley of the End
+
+Trivia
+
+A
+Pakkun
+-shaped controller case was given away as the bonus to those who pre-ordered the game.
+
+Similar to
+Naruto: Gekitō Ninja Taisen! 3
+, it would receive a Wii reprisal in America as part of the
+Revolution
+ sub series, known as
+Naruto: Clash of Ninja Revolution 2
+. Like with
+Gekitō Ninja Taisen! 3
+ to
+Revolution
+, the roster is somewhat watered down, but more touches and changes have been added compared to the first
+Revolution
+ game. 7 new characters have also been added in the place of the Third Hokage and the Sound Five as well, though it does way with the three member squad function and uses two-squad functions instead.
+
+Both games involve
+Genma Shiranui
+ acting as the referee's voice (with their respective Japanese and English voices).
+
+Despite the fact it is there in the previous instalments and it's also shown on his character selection screen portrait, Iruka's model in the game does not have the scar across his nose.
+
+Out of all the characters, Kabuto is the only one without a handicap equipped that can regenerate some of the damage he's taken, however it is not as fast as his regeneration in
+Naruto: Clash of Ninja Revolution 2
+.
+
+Kabuto also has his own version of the
+Earth Release: Double Suicide Decapitation Technique
+, where instead of pulling his target all the way into the ground like with Kakashi's version he instead sticks both hands (infused with the
+Chakra Scalpel
+) to disable his foe's legs and crumple them (this very method is used again for his team special with Orochimaru in
+Clash of Ninja Revolution 2
+).
+
+Kabuto also in this game, had many programming oddities on his moves which had various functions in their code that did not directly contribute to his moveset's properties. One primary example is that despite his down weak attack being a standard sweep kick, it is coded in-game as a punch-based attack which prevents it from having a proper high-crushing property despite its animation.
+
+Another Kabuto oddity is in his aforementioned down strong attack, where if he is controlled by player 1, the attack will not possess any damage scaling.
+
+Naruto's first Jinchūriki form and his One-Tailed (AKA Ultimate Nine-Tailed) Form differ in that not only the latter form makes use of the
+Tailed Beast Chakra Arms
+ (especially for some combo finishers and for his forward strong), but most of the first form's strong attacks are remapped to some of the One-Tailed Form's weak attacks (and as a result,all of his default basic weak attack inputs can inflict chip damage unlike all other characters). One-Tailed Naruto also possess a different upward and midair strong attack as well; the former being a type of throw akin to Sasuke's
+Peregrine Falcon Drop
+ (his upward weak attack), and the latter being a
+Great Roar
+ (used later as a midair special in
+Revolution 3
+ and
+Special
+). His running strong attack is also a
+Body Flicker Technique
+ attack instead.
+
+To balance the fact that Crisis Specials/Jutsu are removed and with Naruto's first Jinchūriki form being accessible outside of low HP, activating it now slowly drains his health upon doing so. The mode also causes Naruto to have an increased 1.5x damage multiplier for any damage he takes in the said mode.
+
+Likewise, Ultimate Nine-Tailed Naruto within the competitive scene is considered to be overpowered with his only even/bad matchup being against himself. Among notable oddities with him is that his idle stance has him crouching low enough to avoid a large majority of high-hitting attacks (as programmed by the game's flags) to miss him by default, on top of having high damage output and having the same amount of health as regular Naruto.
+
+Cursed Seal State 2 Sasuke mainly possesses his Sharingan form's moves as a base, while adding in extra touches such as slashing with his claws instead of with a kunai (for his neutral strong, and replaces his ability to throw shuriken), and also adds in some flight-based moves; he also possesses the same type of "chakra burst" akin to Naruto's Jinchūriki forms, only his is not a counter and can be charged up (this acts as his down strong). He also uses a non-special/midair strong attack version of his
+Fire Release: Phoenix Sage Fire Technique
+ that homes in on targets (which has the same programmed flags as normal Sasuke's version which cause it to be inescapable with the
+Body Replacement Technique
+, only the homing properties are rather brokenly-inconsistent at best).
+
+Like in
+Naruto: Ultimate Ninja 3
+, he can also perform the normal version and Cursed Seal State 2 version of his Chidori; the former is performed as his running weak attack (the same type of punch used with his default versions and now instantly guard breaks), while the latter is used as his special; unlike his Sharingan form, his version acts as a typical initial blow-based special.
+
+Cursed Seal State 2 Sasuke's down special (his alternate variation of the
+Fire Release: Great Fireball Technique
+) has an odd interaction with itself; if two of the same fireballs collide, they will stay in place against each other and the game will heavily lag to the point of nearly freezing (especially if they are stacked). The way to fix this is to have either Sasuke connect with their Flapping Chidori to have one of the fireballs reach the ground first so the other can pass through smoothly.
+
+Both Ultimate Nine-Tailed Naruto and Sasuke State 2 perform their forward weak attacks as the initial blows for their neutral specials; the poses used in which they generate their techniques is directly ripped from their fight in the original manga/anime.
+
+Sasuke State 2 is also the only character in the game with no autoguard on his back weak attack (which reuses his Sharingan form's teleporting-upward strong attack), giving him a weak anti-pressure presence.
+
+Oddly enough, this game series is the only form of
+Naruto
+ media where all Second State Curse Mark characters (save for Jirōbō and Tayuya) make use of their claws in their attacks.
+
+Sasuke in his normal state has three different costumes in this game: his normal version with the forehead protector and arm-warmers on, normal version with no forehead protector and/or arm-warmers and his Chūnin exams outfit.
+
+The game also features a number of interesting glitches:
+
+Cursed Seal State 2 Sasuke has a distortion glitch with his
+Flapping Chidori
+ done by moving the c-stick (to reset everything to neutral position in training mode) upon the actual Chidori connecting. The result would either be the screen turning completely blank or the screen producing negative colour effects from the Chidori itself (where it will return to normal only during set intervals). The latter effect is arguably harder to achieve and is possibly easier upon the Flapping Chidori being a killing blow; to recover from both glitches, a neutral special of any sort must connect and the screen will return to normal.
+
+Tsunade, Neji and Awakened Hinata possess invincibility glitches where upon performing specific actions with them (Tsunade must connect her forward strong on a falling target without triggering the cinematic, Neji and Awakened Hinata must use their back strong Revolving Heaven on certain attacks or must connect with their neutral special through a single hit on an airborne target only), then they must not move afterward. From there, Tsunade, Neji and/or Awakened Hinata will have their hitboxes (or to be more specific, "hurtboxes") disappear until they move again.
+
+In 3-man squad/cell mode, when Chōji connects with his neutral strong attack on Karasu (only when controlled by Kankurō) as soon as one of Kankurō's team members tag in, Karasu will be flung by Chōji's throw as usual, but will remain on the field as it will move in accordance to the tagged-in character (the only thing it can do is imitate normal movements and retaining its original function to perform a throw attack in unison with its wielder). However, Karasu can only follow the character until a set-distance around where Kankurō was tagged out. Mistiming Chōji's neutral strong on Karasu will cause him to grab-and-throw nothing and the glitch to fail.
+
+If Ultimate-Nine-Tailed Naruto connects with his upward strong attack on Kisame just as he unleashes his
+Water Release: Water Shark Bullet Technique
+, the special water ripple effects will remain on the field without the actual water shark coming out. This can be stacked multiple times on the screen.
+
+A similar Ultimate-Nine-Tailed Naruto glitch can also occur with Tsunade; when
+Tsunade
+'s midair strong attack nearly reaches Ultimate-Nine-Tailed Naruto just when he unleashes his
+Nine-Tails Surge
+, the wave will stay on screen after being sent out and will not move anywhere when Tsunade connects with it. Like the above Kisame glitch, this glitch-interaction can be stacked up on the screen.
+
+If Kakashi lands
+Lightning Cutter Combo
+ as a finishing blow on someone on the Enclosed Upheaval/Nativity of a World of Trees stage in a 3-man squad/cell battle, it will cause him to enter a jump-landing state when the cinematic finishes on the said stage while all other stages have him animate back into his neutral stance as normal. This in turn, causes an error in the game's processing to occur that causes the next character to be tagged-in to not appear, and will be considered "invisible" while stalling out the time unless the match ends through time-out or is reset. However, while it is difficult to find a fix for this through most mods and hacks, the primary issue is mainly in the spawning code for the new stand-by character.
+
+Both Zabuza and Kisame possess a glitch dubbed within the competitive community as the "Phantom Sword Glitch", involving their jumping strong attacks. When either one is controlled by player 1, performing their jumping strong attacks frame-perfect near the ground allows such a move to become unblockable, which gives them free combo setups in the hands of expert players.
+
+Whenever a charka cancel is used on certain moves, a glitch will occur that causes any subsequent attack within the combo off of it to be flagged as damage that cannot be escaped with a
+Body Replacement Technique
+. Kakashi is one example out of many where he if uses a chakra cancel on his down strong attack (the
+Earth Release: Double Suicide Decapitation Technique
+) just before pulling his target into the ground.
+
+Chōji and Jirōbō have a glitch that during their super-armoured throws, will cause them to instantly be K.O.ed upon suffering damage (through their said super armour) during them with very specific characters/attacks at the proper timing which cause their victim to fall out of their grabbing-intervals. A popular example can be done with Kankurō using his upward strong attack against them, which causes Karasu to follow through with attacking them while Chōji and Jirōbō suffer the K.O.-flagged damage (while Kankurō falls back and gets knocked down).
+
+Guy's ground throw has a random chance to inflict exactly 21 points of damage, yet it normally inflicts 19 points compared to all other throws that inflict 20 instead.
+
+In this game via possible coding errors, Ultimate Nine-Tailed Naruto, Jirōbō, and Kimimaro had complete invincibility frames throughout the animations of their
+Body Replacement Technique
+ attacks.
+
+Another programming error exists on Tayuya's back weak attack, where the low-crushing invincibility frames persist even at the end of its animation as opposed to during it.
+
+This is also the only
+Gekitō Ninja Taisen
+ game that has had a full year of development time compared to all other titles, which each had only 6 months (likely due to the hiatus between Part 1 and Part 2).

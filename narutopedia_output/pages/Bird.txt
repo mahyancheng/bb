@@ -1,0 +1,5 @@
+Wikipedia:Bird
+
+This page is a
+soft redirect
+.

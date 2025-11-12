@@ -1,0 +1,43 @@
+This technique requires a
+scroll
+ on which a blueprint of a particular area will be mapped. When activated, it causes four giant gates to emerge north, east, south, and west of the targeted area. Afterwards, the gates form a barrier around the area. This barrier has a very high durability, and anything that makes contact with it is immediately engulfed in flames. The only way to pass through the barrier unharmed is with a special seal. Upon the death of the caster, the barrier will be dispelled.
+
+Trivia
+
+The gates are based on the
+Four Symbols
+ of Chinese, Japanese, and Korean mythology. The northern gate is based on the
+Black Tortoise
+ (
+玄武
+,
+Genbu
+), the eastern gate is based on the
+Azure Dragon
+ (
+青龍
+,
+Seiryū
+), the southern gate is based on the
+Vermilion Bird
+ (
+朱雀
+,
+Suzaku
+), and the western gate is based on the
+White Tiger
+ (
+白虎
+,
+Byakko
+).
+
+See Also
+
+Four Violet Flames Formation
+
+Four Red Yang Formation
+
+Six Red Yang Formation
+
+Uchiha Flame Formation

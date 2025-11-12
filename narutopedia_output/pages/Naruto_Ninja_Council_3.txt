@@ -1,0 +1,217 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 217183081
+ of
+Wikipedia
+'s
+Naruto: Ninja Council (series)
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+Naruto: Ninja Council 3
+ is the third instalment in the
+Ninja Council
+ series for the
+Nintendo DS
+. The game is essentially
+Naruto: Saikyō Ninja Daikesshū 4 DS
+, though its character-related content such as
+Kimimaro
+, the Final Valley stage, Naruto and Sasuke's transformed forms, Gaara, Temari, Kankurō, and Shikamaru's outfits, the
+Sound Four
+'s special attacks and their alternate forms themselves are changed or removed. The game comes with the
+Naruto CCG
+ card "Proof of Existence" as an added bonus.
+
+It was released in Europe as
+Naruto: Ninja Council European Version
+ but with major cuts, several characters removed, some techniques of certain characters removed (most notably Naruto's
+Rasengan
+) and a quarter of the missions cut out. However, unlike in the American version, difficulty was not changed (e.g. one mission requiring the player to kill 15 bats in the Japanese and European version was changed to only 10 bats in American one).
+
+Gameplay
+
+Naruto: Ninja Council 3
+ has similar gameplay to the last two games in the series. The
+missions
+ take place on a small map. The game has these specific changes different from
+Daikesshū 3
+:
+
+Crouch-walking and crouch attacking are both removed.
+
+Characters' jump attacks are changed to involve a basic forward jump attack with tapping Y in midair, while their prior knockdown jump attacks are changed to being down + Y in midair; some characters however do not reuse their old knockdown ump attacks and have newly animated ones instead.
+
+The X button not only throws ninja tools like before, but also now acts as a universal unblockable-throw button where the user automatically slings the victim towards the opposite horizontal-direction they were currently facing. It can also be done in midair with no change in animation.
+
+To use ninja tools without performing the throw however, X must be tapped with no direction involved. Ninja tools however can no longer be used in midair.
+
+Getting knocked down can be recovered from quickly upon tapping the A (jump) button during it at the right timing (can be mashed). Getting up also has mercy invincibility frames akin to the first game, but it also applies to enemy bosses. It is also possible to perform a get-up attack to knock any enemies away for some damage.
+
+Up + A no longer teleports the user upwards, but is instead a super jump with afterimages trailing. Super jumps can also allow for a double jump.
+
+The touch screen serves as both a map and as a place to perform different jutsu/techniques. Techniques now have various requirements as an action prompt to then trigger their cinematic scenes. This can include tapping the touch screen to trigger hand seals, blowing into the mic, spinning the chakra wheel to gather power, etc.
+
+Some Jutsu require an initial running dash to connect first, while others may instead be full-screen clear-outs or give other forms of passive effects (instead of being direct attacks).
+
+Starts of some missions allow on-point characters to be tagged out, or have their own current secret techniques/jutsu replaced with ones from another character as an assist only, depending on how the team layout is customised beforehand.
+
+The Chakra gauge is now reworked into being a universal 3-level gauge, and like before slowly recovers on its own. Secret techniques/jutsu each have their own varying level cost.
+
+L can also be used to teleport to the nearest enemy boss/main character, which does not work if too far away or against generic enemies (user teleports in place instead).
+
+Blocking with R returns, and it is possible to perform a parry by blocking a physical attack at the right timing, deflecting it and inflicting damage to the attacker. However, attackers who get deflected by parries are granted brief mercy invincibility frames, and can only be damaged by another parry until the said mercy invincibility runs its course.
+
+Animals and
+ninja
+ are your typical opponents in the game. On certain missions, you have to fight bosses, which are usually the antagonists from the series. During missions, the player has to defeat the opponent under various conditions (e.g. having your health cut in half, protecting an ally, use a certain move to K.O., etc).
+
+Playable Characters
+
+Naruto Uzumaki
+ (also playable in
+Nine-Tails
+ form)
+(Japan only)
+
+Sasuke Uchiha
+ (also playable in
+Level 2 Cursed
+ form)
+(Japan only)
+
+Sakura Haruno
+
+Kakashi Hatake
+
+Shino Aburame
+
+Kiba Inuzuka
+ (assisted by
+Akamaru
+)
+
+Hinata Hyūga
+
+Shikamaru Nara
+
+Ino Yamanaka
+
+Chōji Akimichi
+
+Rock Lee
+
+Tenten
+
+Neji Hyūga
+
+Might Guy
+
+Gaara
+
+Temari
+
+Kankurō
+
+Hiruzen Sarutobi
+ (playable only as a support character)
+
+Jiraiya
+
+Tsunade
+
+Orochimaru
+
+Kabuto Yakushi
+
+Sakon
+ (also playable in
+Level 2 Cursed form
+)
+(Japan only)
+
+Jirōbō
+ (also playable in
+Level 2 Cursed form
+)
+(Japan only)
+
+Kidōmaru
+ (also playable in
+Level 2 Cursed form
+)
+(Japan only)
+
+Tayuya
+ (also playable in
+Level 2 Cursed form
+)
+(Japan only)
+
+Itachi Uchiha
+
+Kisame Hoshigaki
+
+Kimimaro
+ (also playable in
+Level 2 Cursed form
+)
+(Japan only)
+
+Stages
+
+Hidden Leaf Village
+
+Ninja Academy
+
+Ichiraku Ramen
+
+Kikyo Castle
+
+Hidden Sand Village
+
+Uchiha district
+
+Chunin Exams arena
+
+Hot Springs
+
+Forest Of Death
+
+Railway
+
+Snowy mountain
+
+Coal complex
+
+Lava mountain
+
+Leaf forest
+
+The Final Valley (Japan only)
+
+Trivia
+
+This is one of the few video games where blocking attacks properly can inflict damage to the attacker, which is not a normal case in other video games with a blocking mechanic.
+
+When Naruto performs his
+Naruto Uzumaki Combo
+ in both this game and its other
+counterpart
+, more than one clone of his performs the spinning heel drop finisher from various angles.
+
+The endings are different in both versions. In the Japanese version, the game ends after the Naruto vs Sasuke fight, while in the American version, the game ends after the final Sasuke vs Itachi fight. The Naruto vs Sasuke fight in the American version was replaced with a gallery.
+
+External Links
+
+Naruto: Saikyō Ninja Daikesshū 4 DS
+ official site
+ (archive)
+
+Naruto: Ninja Council 3
+ official page
+ (archive)

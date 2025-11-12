@@ -1,0 +1,4 @@
+The user strikes with lightning bolts. The bolts can be produced either from storm clouds
+ or the user themselves. Additionally, the bolts can be channelled through structures so as to strike at targets from multiple sources.
+
+References
