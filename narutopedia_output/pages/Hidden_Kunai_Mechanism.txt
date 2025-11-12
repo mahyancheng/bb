@@ -1,0 +1,5 @@
+This item allows the user to instantly extend and retract
+kunai
+ from their sleeve using a spring-loaded wire.
+
+References

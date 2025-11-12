@@ -1,0 +1,3 @@
+The user is able to heal three characters at a time, or only the fourth, substitute character. It is a basic healing move and is known by almost all
+medical-nin
+ and others.

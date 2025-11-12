@@ -1,0 +1,2 @@
+Gengetsu
+ jumps and creates a few water bullets, shooting the opponent with them in quick succession.

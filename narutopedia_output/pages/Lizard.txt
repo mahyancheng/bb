@@ -1,0 +1,5 @@
+Wikipedia:Lizard
+
+This page is a
+soft redirect
+.

@@ -1,0 +1,1 @@
+A technique that makes use of the rock terrain by creating multiple rock pillars that emerge from beneath the target and trap them.

@@ -1,0 +1,5 @@
+Wikipedia:Lion
+
+This page is a
+soft redirect
+.

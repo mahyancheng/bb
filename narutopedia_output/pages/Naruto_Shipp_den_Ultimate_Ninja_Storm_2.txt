@@ -1,0 +1,1249 @@
+Naruto Shippūden: Ultimate Ninja Storm 2
+ is the sequel to
+Naruto: Ultimate Ninja Storm
+. It was released for the
+PlayStation 3
+ and
+Xbox 360
+.
+
+An enhanced re-release was bundled in
+Naruto Shippūden: Ultimate Ninja Storm Trilogy/Legacy
+ for PlayStation 4, Xbox One, and Microsoft Windows. The game was once again rereleased for the Nintendo Switch in 2018.
+
+Gameplay
+
+
+
+
+
+Naruto
+ with the
+Wind Release: Rasenshuriken
+ as depicted in the game.
+
+
+
+The gameplay retains many of the elements from the
+previous game
+. The game features 23 stages and 42 playable characters, two of which are secret characters. Some characters can also gain new combos and techniques by activating the Awakening Mode.
+Lars Alexandersson
+, a character from
+Tekken 6
+ whose third costume was designed by Masashi Kishimoto, is also playable in the game. There are now "single" matches, which lets players play one on one matches in Vs mode, without the use of support characters.
+
+Support characters make a return. This time around, there are three types of support characters: attack type, defence type and balance type. There is also a new feature, named "Drive Gauge", that replaces the Storm Gauge. Depending on the Drive Gauge, players will be able to unleash devastating team Jutsu with the support characters. For example, if the player has the drive gauge half full, then if the player does certain actions, the support characters will do a special action depending on the type chosen:
+
+Attack types will perform a close-range attack string during your own and strike back the opponent when they are sent flying.
+
+Guard/Defence types will the user when they are charging chakra or if the opposition chakra dashes at them.
+
+Balance types types will perform a joint chakra tool throw with the user's and can defend against an Ultimate Jutsu/U2 at the cost of losing the chosen support for the entire round.
+
+However, you can no longer select which type of Jutsu/U1 a support uses.
+
+Additionally, choosing certain support characters with a chosen character can strengthen attack and defence, and give the player's team a name. For example, choosing any combination between Naruto, Sasuke, Sakura and Kakashi will be called 'Team 7'.   An exclusive "Shuriken Clash" is available in the "Sasuke vs. Itachi" boss battle, where the tool throw button must be pressed repeatedly to give or receive damage.
+
+Free roaming also makes a return. The game features a 1:1 recreation of
+Konohagakure
+. In addition to the village, players are able to roam outside the village, ranging from forests to deserts, and
+Amegakure
+ to
+Sunagakure
+. Instead of being sandbox-style free roaming, the game is more RPG-like when it comes to exploration. Boss battles return, with quick-time events and cutscenes. Boss battles are divided into 2 or more parts, depending on the boss fight. For example, the Naruto vs. Kakashi boss fight (which is held at the
+Training Field
+) contains 2 parts: one of them is normal fighting; in the other part, after Sakura
+smashes her fist into the ground
+, the scene is changed into a new stage with water and rocks; in this part of the battle, Kakashi attacks with long-range techniques that the player must avoid.
+
+In the quick-time event portions of boss battles, pressing the buttons quickly enough earns "Stars". Earning 80% of the stars by the end a battle activates "Secret Factors" which drive away from the main story to show what a character is thinking or flashbacks to
+Part I
+ of the series; the Secret Factors further flesh out the story that is occurring at the current time.
+
+Players can access multiple online features: quick matches, ranked matches, match customisation, as well as the availability to host matches.
+
+Other notable mechanical changes include:
+
+Backwards Chakra Dashing being added.
+
+Most of the prior close-range/neutral string cancels are somehow less smooth than in the previous game.
+
+Ultimate Jutsu have been shortened to real time (removing button prompts to increase damage or to escape) while also stopping time during their startup animations.
+
+Health bars now have shrunken to only 2 bars length, though the overall HP values still remain the same.
+
+D-Pad ninja tools have also had many changes:
+
+The Bomb Ball ninja tool now instantly explodes when contacting water, but still has questionable physics at best.
+
+Cloud Kunai now spread-out less with nerfed tracking.
+
+Some characters now have more unique chakra tool throws.
+
+Increased leniency of the Body Replacement Technique mechanic, allowing escapes to be more frequent than before and effectively at high-level play which effectively neuters most forms of committal offence.
+
+Grabs now show an orange circle effect to indicate themselves as such.
+
+Wall combat has now been entirely removed, along with the removal of the Ultimate Impact.
+
+The OTG attack is also removed, though all forms of ninja tool throws can still hit downed foes as before.
+
+Fall damage from being knocked down/away is removed.
+
+Side finishers to close-range attack strings no longer have the button prompt to call one's support, and now they only occur during a support drive (where they are now inescapable).
+
+For some characters, there are two usable Jutsu in a single command: one basic Jutsu and an enhanced version. When using the Jutsu for the character, if the attack button is held, the Jutsu will be enhanced (e.g. Naruto using
+Rasengan
+ as his normal technique, then turning into
+Big Ball Rasengan
+ by holding the attack button). Some characters can now use their jutsu/U1 in midair.
+
+On that note, chargeable Jutsu/U1s added in since
+Ultimate Ninja 2
+ and
+Storm 1
+ and their charge meters no longer exist, as well as lack of a partial-charged version.
+
+Jutsu/U1 clashes are also removed, and only reset the characters back to neutral via a recoiling slide like in the classic
+Ultimate Ninja
+ 2D-plane games.
+
+Characters under Awakening no longer have grab attacks, but can no longer be hit by either U1s or U2s/Ultimate Jutsu, causing the same clashing recoil to occur.
+
+Likewise, Awakening characters no longer have cinematic grabs and/or U1s, and for the most part overall reduced movesets including having no U2s/Ultimate Jutsu.
+
+Very few characters can naturally cancel some of their tilt-attacks/mid-range attacks into a neutral close-range string input upon their finishing portions, but it heavily depends on the character.
+
+New Team Attacks (dubbed as a U3 by the community) can be performed via tapping the Chakra Load button thrice (three times) into the basic/close-range button input, where the whole team rushes at the opposition. Upon connecting, one support uses their close-range up string, second support uses their air string inputs, while the on-point character upon the victim being ground bounced in front of them, finishes with their U2/Ultimate Jutsu.
+
+Development
+
+Naruto Shippūden: Ultimate Ninja Storm 2
+ was officially announced on December 21, 2009 by Namco Bandai Games at a Jump Festa event. V Jump magazine revealed the game a few days beforehand. As CyberConnect2's first multi-platform project, they worked closely with Microsoft. On July 16, the demo release date was announced in the official website. It was officially released July 29, 2010 on the Japanese PlayStation Network and
+Xbox Live
+ (The Latter requires a gold membership). The European release date for the demo is August 25 2010. It contains the Naruto vs. Kakashi boss battle. Its North American release date is October 19, and its European release date is October 15. On September, 27th it was announced that Naruto Shippūden: Ultimate Ninja Storm 2 is past the development stage and is in publishing as of the finished date.
+
+Story
+
+The story of
+Naruto Shippūden: Ultimate Ninja Storm 2
+ begins from the very
+first
+Naruto: Shippūden
+ episode
+ (even containing the preview of the future Naruto vs. Sasuke clash, although the preview is of Pain destroying Konohagakure) to the end of
+Pain's Assault
+, a content of 3 years of anime broadcasting. The game features a deep three-part story from the point of view of
+Naruto Uzumaki
+,
+Sasuke Uchiha
+ and
+Jiraiya
+.
+
+In Free Roam mode you can go through the
+Konohagakure
+, forests, deserts, and
+Sunagakure
+. The game lets you play through the "Rescue Gaara Arc" as Naruto, "The Hunt for Itachi Arc" (as
+Sasuke Uchiha
+), "The Amegakure Infiltration Arc" (as
+Jiraiya
+) and "The Pain Invasion Arc" (as
+Naruto
+). In addition, there are certain times where you can control others in the overworld, such as
+Shikamaru
+ and
+Asuma
+. The story mode is no longer played by doing missions, but is now an RPG with no connection to unrelated story parts. You'll be able, as always, to play side-story missions, from the easiest to the harder ones. You'll collect cursed dolls, memories, messenger birds, and items (battle items, collection items). You will also, at some points of the story, be accompanied by team-mates and friends. Scroll collection is here to stay; you will collect different types of scrolls: blue, yellow, green, and red scrolls. Each scroll will have to do with the things you did before collecting them. If you had fought a major battle before, and you go to the same spot, you will find Red Scrolls signifying Major Battles or Blue Scrolls which signify an Important Memory. There are also Memory Crystals that you can use in The Hokage's Mansion, to see memories of before the time skip.
+
+The missions include Correspondence Events, Friendship Events, Tests, and battles. You'll earn money and items that will be needed to unlock and complete other challenges when you successfully complete the mission. The stores that are spread in the World will have different types of products eg. ninja info cards, figures, music, dioramas, movies, additional Ulimate Jutsu, and special items that help you continue the story. You will find missions by talking with people in bars, talking with Tsunade, with your friends and by people in the street.
+
+The trophy system is very linked with the storyline and the Free Roam Mode, such as getting a gold result (S-rank) when you win a boss battle, getting a lot of money and collecting special items that are important for missions.
+
+Thanks to a new technology developed by Studio Hero outside Japan, the scenery in the Free Roam is the same as the anime, it's basically putting the computerised character in the landscape. It will incorporate all the known Konoha spots such as Yamanaka's Flower Shop, the Hokage office (the room and the rooftop)
+Ramen Ichiraku
+ and some bars, such as the dumpling bar and some leisure bars.
+
+Playable Characters
+
+Parenthesis indicate character's Awakening Modes.
+
+Naruto Uzumaki
+ (
+Four-Tailed Fox Mode
+)
+
+Sage Naruto
+ (
+Six-Tailed Fox Mode
+)
+
+Sakura Haruno
+ (
+Herculean Mode
+)
+
+Sai
+ (
+Fast Writing Mode
+)
+
+Sasuke Uchiha
+ (
+Curse Mark Stage 2
+)
+
+Sasuke Uchiha
+ (
+Mangekyō Sharingan
+)
+
+Karin
+ (Woman's Anger Mode, Attraction Mode against
+Sasuke
+)
+
+Suigetsu Hōzuki
+ (
+Water Arm Mode
+)
+
+Jūgo
+ (
+Curse Mark Mode
+)
+
+Shikamaru Nara
+ (
+Shadow Imitation Mode
+)
+
+Ino Yamanaka
+ (
+Covered with Flowers Mode
+)
+
+Chōji Akimichi
+ (
+Super Expansion Mode
+)
+
+Kiba Inuzuka
+ (
+Fang Mode
+)
+
+Shino Aburame
+ (
+Beetle Mode
+)
+
+Hinata Hyūga
+ (
+Twin Lion Fist Mode
+)
+
+Gaara
+ (
+Kazekage Mode
+)
+
+Temari
+ (
+Wind Covered Mode
+)
+
+Kankurō
+ (
+Salamander Mode
+)
+
+Rock Lee
+ (
+Eight Gates Mode
+)
+
+Neji Hyūga
+ (
+Byakugan Mode
+)
+
+Tenten
+ (
+Ninja Tool Summon Mode
+)
+
+Kakashi Hatake
+ (
+Sharingan Mode
+)
+
+Yamato
+ (
+Wood Style Mode
+)
+
+Might Guy
+ (
+Eight Gates Mode
+)
+
+Asuma Sarutobi
+ (
+Flying Swallow Mode
+)
+
+Minato Namikaze
+ (
+Yellow Flash Mode
+)
+
+Jiraiya
+ (
+Sage Mode
+)
+
+Orochimaru
+ (
+White Snake Mode
+)
+
+Tsunade
+ (
+Herculean Mode
+)
+
+Chiyo
+ (With
+Mother and Father
+;
+Ten Puppet Collection Mode
+)
+
+Killer B
+ (
+Full Eight-Tails Mode
+)
+
+Pain
+ (
+Six Paths Mode
+)
+
+Konan
+ (
+Angel Mode
+)
+
+Itachi Uchiha
+ (
+Mangekyō Sharingan
++
+Susanoo
+)
+
+Kisame Hoshigaki
+ (
+Samehada Mode
+)
+
+Hidan
+ (
+Jashin Ritual Mode
+)
+
+Kakuzu
+ (
+Earth Grudge Fear
+)
+
+Deidara
+ (
+C2 Dragon Mode
+)
+
+Sasori
+ (With
+Third Kazekage
+;
+True Form Mode
+)
+
+Tobi
+ (
+Sharingan Mode
+)
+
+Kabuto Yakushi
+ (
+Chakra Scalpel Mode
+)
+
+Lars Alexandersson
+ (
+Lightning Mode
+)
+
+Bosses
+
+Kakashi Hatake
+
+Deidara
+
+Sasori
+
+Orochimaru
+
+Sasuke Uchiha
+
+Kakuzu
+
+Itachi Uchiha
+
+Pain
+ (
+First Animal Path
+)
+
+Pain
+ (
+Deva Path
+)
+
+Story Mode Support Characters
+
+Shima
+
+Fukasaku
+
+Teams
+
+Parenthesis indicates what are the members of the teams:
+
+Aiming for Sasuke (
+Sakura
+,
+Ino
+, and
+Karin
+)
+
+Akatsuki
+ (three Akatsuki members)
+
+All Boys (
+Sai
+ and
+Sasuke
+)
+
+Artists (
+Deidara
+ and
+Sasori
+)
+
+"Best Friends" (
+Naruto
+ and Sasuke)
+
+Brotherly Love (Taka Sasuke and
+Itachi
+)
+
+Children of Prophecy (Naruto and
+Pain
+)
+
+Chūnin Exam Supervisors (
+Shikamaru
+ and
+Temari
+)
+
+Curse Mark
+ (Sasuke and
+Jūgo
+)
+
+Dangerous Characters (Itachi and
+Kisame
+)
+
+Eternal Rivals (
+Guy
+ and
+Kakashi
+)
+
+From Anbu Black Ops (Kakashi,
+Yamato
+, and Itachi)
+
+God and Angel (Pain and
+Konan
+)
+
+Grandmother and Grandchild (Sasori and
+Chiyo
+)
+
+Great Snake and Tactician (
+Orochimaru
+ and
+Kabuto
+)
+
+Hebi
+ (Sasuke and/or other Hebi members)
+
+Hidden Rain Master and Student (
+Jiraiya
+, Pain, and Konan)
+
+Hot-Blooded Master and Student (
+Lee
+ and Guy)
+
+The Hyūga Clan (
+Neji
+ and
+Hinata
+)
+
+Immortal Duo (
+Kakuzu
+ and
+Hidan
+)
+
+Inherited Will (Shikamaru and
+Asuma
+)
+
+Ino–Shika–Chō (Team Asuma members other than Asuma)
+
+Jinchūriki (Naruto,
+Gaara
+ and
+Killer B
+)
+
+Jiraiya's Apprentices (any combination involving Naruto,
+Minato
+, Pain, and Konan)
+
+Junior and Senior (
+Tobi
+ and Deidara)
+
+Kannabi Bridge Engineers (Kakashi and Minato)
+
+Leaf Chūnin (three of the
+Konoha 11
+ other than Naruto and Neji)
+
+Leaf Higher-Ups (any combination involving
+Tsunade
+ or Jiraiya with Kakashi, Yamato, and Guy)
+
+Leaf Jōnin (any combination involving Neji, Asuma, Kakashi, Yamato and Guy)
+
+Leaf Peers (Naruto and two of the Konoha 11)
+
+Legendary Guts (Naruto, Jiraiya, and
+Minato
+)
+
+The
+Legendary Sannin
+ (all three Sannin)
+
+Like Cats and Dogs (Karin and
+Suigetsu
+)
+
+Make-Out Comrades (Kakashi and Jiraiya)
+
+Mangekyō Sharingan
+ (Taka Sasuke, Itachi, and Kakashi)
+
+Monster Strength (Sakura and Tsunade)
+
+My Son's Enemy!? (Kakashi and Chiyo)
+
+Mutual Respect (Jiraiya and Minato)
+
+New Jutsu Development Team (Naruto, Kakashi, and Yamato)
+
+New Team Kakashi (Naruto, Sakura, Yamato and Sai)
+
+Odd Beast and Scourge (Guy and Kisame)
+
+Old Friends (Jiraiya and Tsunade)
+
+Ones of Wind Nature (Naruto and Asuma)
+
+Orochimaru's Gang (any combination involving Orochimaru or Kabuto with Sasuke, Karin, Jūgo, and Suigetsu)
+
+Past Hokages (Tsunade and Minato)
+
+Parent and Child (Naruto and Minato)
+
+Powerful Tag Team (Sakura and Chiyo)
+
+Puppet Masters (Sasori,
+Kankurō
+, and Chiyo)
+
+Rivals in Love (Sakura and Ino)
+
+Sages
+ (
+Sage Naruto
+ and Jiraiya)
+
+The
+Three Sand Siblings
+ (all three members)
+
+Seven Blades of The Mist (Kisame and Suigetsu)
+
+Siblings (Sasuke and Itachi)
+
+Sublime Art (Itachi and Deidara)
+
+Secret Lovers (Naruto and Hinata)
+
+Taka
+ (Taka Sasuke and other Taka members)
+
+Team Asuma
+ (Team Asuma members)
+
+Team Guy
+ (Team Guy members)
+
+Team Kurenai
+ (Team Kurenai members)
+
+Team New Kakashi
+ (three Team Kakashi members)
+
+Team Seven
+ (three Team Seven members)
+
+Team 7 Captains (Kakashi and Yamato)
+
+The Two, Grown up (Sage Naruto and Taka Sasuke)
+
+Those Who Know Loneliness (Naruto and Gaara)
+
+Those Steeped in Darkness (Orochimaru, Sasuke, and Kabuto)
+
+The Truth of the Uchiha (Taka Sasuke and Tobi)
+
+Utterly Gusty Master and Student (Naruto and Jiraiya)
+
+Playable Stages
+
+Training Field
+
+Konohagakure
+
+Part II
+
+Destroyed
+
+Ruined
+
+Konohagakure Forest
+
+Day
+
+Evening
+
+Forest of Death
+
+Sunagakure Gate
+
+Sunagakure
+
+Five-Seal Barrier
+ Cliff
+
+Forest of Dead Trees
+
+Forest of Quiet Movement
+
+Day
+
+Evening
+
+Night
+
+Amegakure
+
+Upper
+
+Lower
+
+Uchiha Hideout
+
+Orochimaru's Hideout
+
+Mount Myōboku
+
+Battle Arenas
+
+These areas are only accessible during a battle and cannot be accessed outside of battles.
+
+Grassy Waves Prairie
+
+Akatsuki Hideout
+
+Site of
+Planetary Devastation
+
+Valley of the End
+
+Trophies/Achievements
+
+Trophy/Achievements
+
+Condition
+
+Trophy Type
+
+Gamerscore
+
+Clear Prologue
+
+You've cleared the Prologue.
+
+Bronze
+
+5G
+
+Clear Chapter 1
+
+You've cleared Chapter 1.
+
+Bronze
+
+5G
+
+Clear Chapter 2
+
+You've cleared Chapter 2.
+
+Bronze
+
+5G
+
+Clear Chapter 3
+
+You've cleared Chapter 3.
+
+Bronze
+
+5G
+
+Clear Chapter 4
+
+You've cleared Chapter 4.
+
+Bronze
+
+5G
+
+Clear Chapter 5
+
+You've cleared Chapter 5.
+
+Bronze
+
+5G
+
+Clear Chapter 6
+
+You've cleared Chapter 6.
+
+Bronze
+
+5G
+
+Clear Final Chapter
+
+You've cleared the Final Chapter.
+
+Bronze
+
+10G
+
+Clear Fragment
+
+You've cleared Fragment.
+
+Silver
+
+10G
+
+Naruto's Friends
+
+You can now use members of
+Naruto's generation
+.
+
+Bronze
+
+5G
+
+Naruto's Teachers
+
+You can now use
+Kakashi
+,
+Yamato
+,
+Guy
+ and
+Asuma
+.
+
+Bronze
+
+5G
+
+Sand Village Friends
+
+You can now use
+Gaara
+,
+Kankurō
+,
+Temari
+ and
+Chiyo
+.
+
+Bronze
+
+5G
+
+The Legendary Sannin
+
+You can now use
+Jiraiya
+,
+Tsunade
+ and
+Orochimaru
+.
+
+Bronze
+
+5G
+
+Stealthy Akatsuki
+
+You can now use all members of the
+Akatsuki
+.
+
+Bronze
+
+5G
+
+Hebi on the Move
+
+You can now use
+Sasuke
+,
+Suigetsu
+,
+Karin
+ and
+Jūgo
+.
+
+Bronze
+
+5G
+
+Assassin from Tekken 6
+
+You can now use
+Lars
+.
+
+Bronze
+
+10G
+
+All ninja assemble!
+
+You can now use all characters.
+
+Silver
+
+30G
+
+Bell-Stealing Expert
+
+You've acquired
+S-Rank
+ in 'The Bell-Stealing Drill'.
+
+Bronze
+
+20G
+
+Village Guardian
+
+You've acquired S-Rank in 'Sand and Art Blast'.
+
+Bronze
+
+20G
+
+At the mercy of Puppet Jutsu
+
+You've acquired S-Rank in 'Sakura Dances'.
+
+Bronze
+
+20G
+
+Unstoppable Rampage
+
+You've acquired S-Rank in 'Forbidden Fury'.
+
+Bronze
+
+20G
+
+Difference in Growth
+
+You've acquired S-Rank in 'Showdown Between Best Friends'.
+
+Bronze
+
+20G
+
+Fourth Hokage's Back
+
+You've acquired S-Rank in 'Sturm and Drang'.
+
+Bronze
+
+20G
+
+Overflowing Hatred
+
+You've acquired S-Rank in 'The Two Uchiha'.
+
+Bronze
+
+20G
+
+Overwhelming Sage
+
+You've acquired S-Rank in 'Battle Between the Sage God'.
+
+Bronze
+
+20G
+
+Vision of a New Wind
+
+You've acquired S-Rank in 'Earth Shatter'.
+
+Bronze
+
+20G
+
+The Unknowable Moment
+
+You've seen all secret factors.
+
+Silver
+
+100G
+
+Cursed dolls exterminated!
+
+You've retrieved all cursed dolls.
+
+Bronze
+
+10G
+
+Oink!
+
+You've retrieved all
+Tonton
+'s Pearls.
+
+Bronze
+
+10G
+
+Trial accomplished!
+
+You've cleared the 10 trials.
+
+Bronze
+
+10G
+
+Request Master
+
+You've cleared all requests.
+
+Bronze
+
+10G
+
+Ninja of Letters
+
+You've cleared all correspondence events.
+
+Bronze
+
+10G
+
+All Friends Here!
+
+You've seen friendship events for everyone.
+
+Bronze
+
+10G
+
+Conquered all events!
+
+You've cleared all events.
+
+Gold
+
+50G
+
+Nothing escapes you
+
+You've picked up 500 items.
+
+Bronze
+
+20G
+
+Wealth to move nations!
+
+Saved up 999,999
+Ryō
+.
+
+Bronze
+
+30G
+
+Points Tycoon
+
+You've saved up 999,999 Storm Points.
+
+Bronze
+
+30G
+
+I Love Ninja Tools!
+
+You've acquired all battle items.
+
+Bronze
+
+50G
+
+General Store Booming!
+
+You've acquired all collection items.
+
+Bronze
+
+50G
+
+The First Edit
+
+Edited a Ninja Info Card.
+
+Bronze
+
+5G
+
+Card Collector
+
+You've acquired all Ninja Info Cards.
+
+Gold
+
+50G
+
+Also Known As…
+
+You've gained 50 titles.
+
+Silver
+
+20G
+
+Which name shall I use?
+
+You've acquired all titles.
+
+Gold
+
+60G
+
+Messenger Ninja shocked!
+
+You've collected all messenger birds.
+
+Bronze
+
+10G
+
+Review Complete!
+
+You've seen all memories.
+
+Bronze
+
+20G
+
+Story Assembler
+
+Collected 100% of the stories.
+
+Bronze
+
+30G
+
+Thanks for all your time!
+
+Your total play time is over 30 hours.
+
+Bronze
+
+20G
+
+On the Path to Ninja!
+
+You've won 1 time in online Ranked Match battles.
+
+Bronze
+
+30G
+
+Dexterous Ninja
+
+You've won 10 times in online Ranked Match battles.
+
+Bronze
+
+60G
+
+A perfect Storm Master.
+
+You've acquired all trophies./You've unlocked all achievements.
+
+Platinum
+
+0G
+
+Reception
+
+Ultimate Ninja Storm 2
+ has had generally positive reviews. On the review aggregator Game Rankings, the Xbox 360-version of the game has an average score of 76%, based on 25 reviews. On Metacritic, the Xbox 360-version has an average of 74 out of 100 based on 31 reviews. It was slightly better-received on the PlayStation 3, with Game Rankings and Metacritic giving it a 77% and a 75 out of 100, respectively.
+
+Namco Bandai hoped
+Ultimate Ninja Storm 2
+ would have sold 700,000 units by November 2010.
+ The game shipped a 1 million copies worldwide; 500,000 in Europe, 340,000 in North America and 160,000 in Japan by November 25, 2010.
+
+Trivia
+
+Naruto in his Hokage attire is playable. In the Hokage costume, Naruto is still able to throw the
+Wind Release: Rasenshuriken
+, even though he is not in
+Sage Mode
+.
+
+Though pre-timeskip Naruto is not playable in the VS. and Online modes, he is playable briefly in the boss fight against Sasuke in a flashback in his
+one-tailed form
+. At this moment you play against pre-timeskip Sasuke in his cursed seal level 2 mode.
+
+Previous game-only characters, created specifically for the
+Ultimate Ninja
+ series, are all mentioned by Naruto at some point in the game. In Ultimate Adventure Mode, after purchasing and reading books that hint at previous adventures from the previous games, Naruto will receive letters from each of these characters. These characters include
+Aoi
+,
+Tsukino
+ and
+Kasumi
+.
+
+There is also a glitch that allows the player to go out of bounds. When a player is controlling Pain, (most effective on the Training Field stage), executes the chameleon summoning combo where only the chameleon's tail hits the opponent, the other player is knocked out of the boundaries of the stage. They are still bound to the area due to restraints keeping the other character from getting to far away, but this can be countered by using a technique that causes Pain to use Substitution to teleport behind the other player.
+
+The
+Yamanaka Flowers
+ shop is not open until the start of the final chapter.
+
+When Sasuke (
+Hebi
+) reverts from his awakening, his kimono remains undone for the remainder of the match. This visual aesthetic is also present in every subsequent game in the
+Ultimate Ninja Storm
+ series except
+Naruto Shippūden: Ultimate Ninja Storm Revolution
+.
+
+There is a glitch that allows the player to have both forms of Naruto as support characters during an online team match. The player must first select one of the forms, have the cursor set on the other, and wait for the time limit to run out. They will then have both
+Sage Mode
+/
+Hokage
+ costume Naruto and regular Naruto as supports.
+
+One of the many issues in the game is that Kakashi's
+Mangekyō Sharingan
+ is facing the wrong direction.
+
+In
+Tekken 6
+, Lars Alexandersson's third costume is the same one he wears in Storm 2. This costume was designed by Naruto's author, Masashi Kishimoto. Therefore, it is most likely that Namco allowed Lars to be a guest character in the game for that reason.
+
+Lars is the only character in the game to not have an English audio and only one winning phrase: "
+We have injured. Send a medic
+". Even if the player changes the language to English, he still does not speak English.
+
+There is an extra chapter that is the story of Sasuke fighting Killer B. This story is unlocked by collecting all of the cursed dolls. The only differences are Sasuke doesn't have the rest of Taka (Suigetsu, Karin, and Jūgo) with him and they fight at the Forest of Quiet Movement (Evening) instead of the real location of Storm Cloud Ravine.
+
+In
+Sunagakure
+, there is a shop called
+Karakuri Item Shop
+, most likely being named after Masashi Kishimoto's first manga series,
+Karakuri
+.
+
+In the game’s story mode, the
+Eight Man Squad
+ is not present while aiding in the search for Sasuke or Itachi.
+
+In the game’s story mode, Deidara sacrifices himself just by gathering up chakra in his body, rather than use
+C0
+.
+
+References
+
+External Links
+
+Official Japanese Website

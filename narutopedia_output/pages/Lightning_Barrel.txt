@@ -1,0 +1,3 @@
+This tool allows the user to shoot lightning from it. To activate this, the user must tap the barrel against the ground. The barrel will then shoot one bolt of lightning. As explained by Kakashi, this is used to give away a user's position, like a
+flare gun
+, so that their team-mates can regroup with each other, but it can also be used to shock enemies.

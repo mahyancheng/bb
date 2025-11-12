@@ -1,0 +1,323 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 253411089
+ of
+Wikipedia
+'s
+Naruto: Clash of Ninja (series)
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+The
+Naruto: Clash of Ninja
+ series, known in Japan as
+Naruto: Gekitō Ninja Taisen!
+ (
+ナルト-激闘忍者大戦!
+,
+Naruto: Raging Fight Great Ninja Battle!
+) is a series of 3D cel-shaded fighting games of the
+Naruto
+ franchise. They are developed by Eighting and published by D3 Publisher and Tomy. Various instalments of the series have appeared on both Nintendo's GameCube and Wii. Four games are available for the GameCube, and seven are available for the Wii. The first two GameCube instalments and the three games of the
+Revolution
+ sub-series are available in the United States and in PAL regions. All other instalments have been released exclusively in Japan.
+
+Each instalment of the series has had numerous methods of play with varying types of modes. New games have introduced additional modes that generally appear in subsequent games. The player directly controls a character taken from the
+Naruto
+ series, and uses their unique abilities to battle and defeat an opponent. New games in the series include more of the
+Naruto
+ plotline in a "story mode," and it generally stays true to the source material. As a result, the character selection increases with each instalment due to the inclusion of more of the
+Naruto
+ plotline. With the newer games incorporating
+Naruto: Shippūden
+, the second part of the
+Naruto
+ series, many of the characters have been substantially redesigned, and the playable cast has been correspondingly limited and increased depending on the story. Reactions to each instalment have been mixed, with many praising the simple and easy-to-learn fighting system, with others lambasting the fighting system and the lack of significant unlockable content.
+
+The series' soundtrack is composed by Shinji Hosoe and the SuperSweep company.
+
+Gameplay
+
+For the most part, the series, while rendered in 3D polygons, is mainly focused on 2D plane combat with the ability to move back and forth, double jump, run (which will automatically brake upon reaching the opponent), backflip, and perform basic attacks and combos. There is also the ability to sidestep left and right, either into the foreground and/or background (dodging direction differs between the GameCube and Wii titles). Because of this, characters can end up facing the wrong way from their opponent at times, leading to exploits in movement (and in high-level play, having one's back being exposed leads to a number of various factors and movement management is key). Dodging however, is one way to back around effectively.
+
+Basic moves involve weak attacks, strong attacks, throws and special techniques. Weak Attacks are often quick moves that sport sets of combos, with backward weak attacks having guard points during their animations, allowing autoguard.
+
+Strong Attacks are often projectile moves, weapon attacks and/or special ninjutsu characters tend to have, and most projectiles that are ninja tools can be charged up (while some characters can throw ninja tools upward). Both weak and strong attacks can be done either neutral or in fourth different directions (including up; just before the character jumps into the air in that case) for several different moves and branching combos/strings.
+
+Despite this, there are attacks with either the weak or strong button that are qualified as "weak" on hit (light hitstun/blockstun) or "strong" on hit (heavy hitstun/blockstun that is usually enough to knock the victim off of their feet; strong-on-hit attacks when blocked in particular often send the defender into aerial blockstun via a lift, spiking them down from the air or backwards-sliding blockstun).
+
+Running attacks and midair attacks are also available, where midair weak attacks are often diving attacks for most characters. Characters can also block attacks by holding back or standing still. The guard in the game is infinite and can guard anything except throws and specials, but they can take "chip damage" (small amounts of damage from blocking) if they block weapon attacks or strong attacks that are normally ninjutsu-based. A visual indicator for a guard gauge system however, was added in
+Gekitō Ninja Taisen 4
+ where once emptied would cause a guard break and chakra to be lost for the victim affected by it (and where each character has their own varying amount of guard gauge units).
+
+The chakra gauge at the bottom of the screen fills up via attacking, taking damage or blocking attacks. Once at a certain point, players can press the dodge buttons while getting hit to use the
+Body Replacement Technique
+, to either teleport out of harm's way or counter-attack from another direction depending on the dodge button used. However, some specific attacks are programmed/flagged to be inescapable with the said technique. This costs 75% chakra however and cannot be used in all states (such as when suffering damage while lying down or when hit by certain non-cinematic specials), save for in
+Gekitō Ninja Taisen! Special
+ where a separate chakra gauge is used as the cost. Recovering/teching from a knockdown of any sort by pressing either attack button upon landing not only gives a small amount of chakra, but also helps mitigate a small amount of damage taken upon falling down normally.
+
+If the chakra gauge full, characters can perform secret special attacks (known as ōgi/secret techniques in the Japanese scripts) that use up all chakra. Most of them are cinematic moves that require an initial blow to initiate, such as the
+Naruto Uzumaki Combo
+ and
+Lion Combo
+, that all ignore damage scaling in a combo only during the said cinematic. However, as of
+Gekitō Ninja Taisen 3
+, there exist specials that cost 75% chakra instead. Each character has at least one particular basic attack in their moveset that can be super-cancelled into a special, which is usually their neutral weak combo/string second input; as of the
+EX
+ games, said super cancels are listed in their pause menu moveset.
+
+Chakra can also be used to extend most characters' strong attacks, for example, such as Naruto's down strong attack (where he teleports out of sight then uppercuts from underground), Kakashi's down strong attack (
+Earth Release: Double Suicide Decapitation Technique
+) and Sasuke's forward strong attack (
+Fire Release: Great Fireball Technique
+) can all be held down to extend their duration at the cost of chakra, though they can mainly be performed regardless of chakra amount. Most backward strong attacks that act as reversals can also be held down for chakra cost as well.
+
+Other intricacies to the battle system via debugging and the like include moves that can duck under high-hitting attacks during certain frames (as manual crouching does not exist in this series), types of ground bounces that can either be recovered from or not, as well as moves that inflict stagger or a unique form of paralysis (which must be broken with rapid control stick movement).
+
+In regards to more extensive combos, they are normally formed through understanding the properties of attack string/combo inputs in order to merge them together with other moves, much like other 3D fighters of a similar nature. However, the standard feature of damage scaling still applies, where overall damage will decrease the longer a single combo goes on. In this particular game/series however, all characters have their damage scaled down by 5% across the board, regardless of their overall average damage output. However, attack strings are all easy to escape when blocked, as their more-noticeable gaps can easily be dodged out of should the defender still remain grounded.
+
+Games
+
+
+Game system
+Japanese release
+English release
+Naruto Shippūden: Clash of Ninja Revolution 3
+Wii
+17 November 2009
+Naruto Shippūden: Gekitō Ninja Taisen! EX
+Wii
+22 February 2007
+Naruto Shippūden: Gekitō Ninja Taisen! EX 2
+Wii
+29 November 2007
+Naruto Shippūden: Gekitō Ninja Taisen! EX 3
+Wii
+27 November 2008
+Naruto Shippūden: Gekitō Ninja Taisen! Special
+Wii
+2 December 2010
+Naruto: Clash of Ninja
+GameCube
+11 April 2003
+7 March 2006
+Naruto: Clash of Ninja 2
+GameCube
+4 December 2003
+26 September 2006
+Naruto: Clash of Ninja Revolution
+Wii
+23 October 2007
+Naruto: Clash of Ninja Revolution 2
+Wii
+21 October 2008
+Naruto: Gekitō Ninja Taisen! 3
+GameCube
+20 November 2004
+Naruto: Gekitō Ninja Taisen! 4
+GameCube
+21 November 2005
+
+Trivia
+
+This is one of the few series notable to be heavily taijutsu-based in its animations; characters such as Gaara (who makes use of the standard jab combos, elbow strikes, sliding kicks, flip-kicks and various lunging attacks in tandem with his ninjutsu via exaggerated movements), Kankurō (basic hand-to-hand combat with a few hay-makers) and Sasori have used taijutsu for the first time in this series. Others such as Itachi (who fights with his left-arm resting at his mid-unbuttoned cloak), Shino and Deidara have a more clear emphasis on it outside of the usual media.
+
+However, the most notable exceptions to this are Chiyo (save for her connected neutral special) and Sasori in Hiruko form.
+
+Upon debugging the entirety of the titles of this series,
+Gekitō Ninja Taisen!
+ in general reuses several assets and flags from Eighting's prior fighting game series,
+Bloody Roar
+. One example is that the weapon-based hitboxes are carried over into this series with the flag "Beast" (Beast Mode attacks often carry chip-damage-on-block properties), carrying over the same mechanics involving having one's back turned against a foe, as well as nearly all characters' back weak attack inputs being based off of the guard attack mechanic.
+
+Likewise, this series also shares other aspects with other Eighting-developed fighting games such as the same stagger and airborne hitstun animations, and throws activating in 1 frame.
+
+When slowed down and/or exampled closely, a majority of characters' (mainly the genin characters) running animations are sped-up versions of the basic running animations for several characters in
+Bloody Roar
+ (this exact animation with the same pace is reused for
+Konjiki no Gash Bell!! Yūjō Tag Battle/Zatch Bell! Mamodo Battles
+ along with runstop being disabled).
+
+A notable oddity when debugging the games in the series is how teleports function; due to the character's model/hurtbox still remaining on the field as coded-in-game despite disappearing, it is possible to switch sides with the opposing character to make the teleporting character appear at the opposing character's front instead of the back. Thus, when a victim uses a left-dodging Body Replacement Technique on a very high launch/juggle where the attacker happens to move too far forward underneath them, this exact result can occur.
+
+It is solely because of this, the fan-term "back-turned unblockables" becomes apparent via the attacker intentionally having their own back facing towards their foe to perform area-of-effect moves to render them unblockable, due to game's engine being tricked into believing the victim is receiving an attack from behind.
+
+So far however, the Wii games' debug menus have not been properly surfaced yet.
+
+Only a few select characters in the series are able to teleport in the series:
+
+Naruto in his demon fox form (for his down strong attack). This was originally used for his normal form until he gained a new clone-based down strong attack as of
+Clash of Ninja 2
+. The
+Sexy Technique
+ via his back strong prior to
+Gekitō Ninja Taisen 3
+ also applies, along with his One-Tailed Form's running strong attack.
+
+In the Shippūden games, this applies to his midair strong attack in the same concept.
+
+Rock Lee in his
+Eight Gates
+ form after activating the Life Gate (he does so during his Reverse Lotus to connect with his initial blow easier).
+
+Might Guy for his up and back strong attacks.
+
+Kakashi's down strong attack, which is like Naruto's (which for him is the Earth Release: Double Suicide Decapitation Technique), and for his Thousand Years of Death (back strong). Kabuto's own version of the technique also applies as well.
+
+This also applies to Kakashi and Sasuke in their Sharingan modes; Sasuke has his back strong in normal mode and up/running strong with Sharingan active (which copies one of Lee's techniques), while Kakashi's his down strong attack is the same as normal, with the back strong attack involving him using his Sharingan to foresee an incoming attack (and also doubling as the famous copying technique).
+
+In Sasuke's case, this also applies to his Cursed Seal Second State version.
+
+Orochimaru and Itachi for their back strong attack (which is a mere Body Flicker Technique). Itachi can also do so for his running strong attack, and several other of his attacks as well.
+
+Iruka and Mizuki can also employ the Body Flicker Technique for their down and back strong attacks, as well as for several of their combos (via sharing practically the same moveset). Sakura also has the same concept as well.
+
+Shikamaru can teleport into different combos off of his back strong, which is his famous "thinking stance".
+
+Shino instead wraps somewhere else via usage of the
+Insect Clone Technique
+ for some of his combo strings, while his back strong is a typical teleport counter in the same vein.
+
+Sakura, Haku, Kiba, The Third Hokage, Temari and several other back strong attacks on a successful counter.
+
+Zabuza during one of his strong attack combo finishers and for his up strong attack.
+
+Part II Sasuke via his midair strong attack as of
+Clash of Ninja Revolution 3
+, which is yet another Body Flicker Technique. Itachi in Part II also has a
+crow-based variation
+ of it as well with the same input.
+
+Characters with a certain element attached to them that only orients towards one direction (such as Zabuza and Kisame's swords, Itachi's left arm, Part II Sasuke's sword, and Bando's cannons) are prevented from flipping their basic stances. One of the few exceptions is Gaara, as his sand gourd is not a true part of his attack-set.
+
+Several characters have the same one-two punch combination as a base animation for their neutral weak attack animations, with some flipping stances on their second punch; some but-not-all exceptions for this are Sakura, Shikamaru, Chōji, Jiraiya, Part II Naruto, Orochimaru, Anko, Part II Sasuke, Itachi, Chiyo and Hidan. Likewise, all these inputs are cancel-able into Secret Techniques.
+
+Both Anko and Orochimaru curiously use claw-based attacks, despite not showing them visibly in any other form of media. This also applies to three of the second-state Curse Mark characters.
+
+Zabuza, Kisame, Hiruko, Hidan, Bando, Tsunade (in post-timeskip games) and Part II Nine-Tailed Naruto are the only characters who have different throw animations compared to all the other characters; most of them are one-handed slamming throws as opposed to the somersault-over throws, which actually inflict 10 extra damage points compared to the standard somersaulting-vault throws.
+
+Sakura also has a unique throw in the series where she mainly shoves her opponent back for a free attack; Part I Sakura shoves them normally, while Part II Sakura strangles them a bit prior. Ino also shares this throw animation and keeps it in via her Part II-self in
+Special
+.
+
+Hidan, along with Chōji and Jirōbō, are the only characters who do not backflip with their backdashes. In Hidan's case, this is due to him dual-wielding his scythe and pike in tandem, causing his hands to be preoccupied (explaining his different throw animation).
+
+Much like in other video games such as the
+Ultimate Ninja
+ series, Kakashi with his back strong in his Sharingan mode in the whole series can have two functions as a counter: the first is being able to teleport away should any type of attack connect on his stance, the second is that should a special attack hit him instead, he can counter with a copied version of it, though some techniques like Haku's, Nine-Tailed Naruto's, Gaara's, Kankurō's, Temari's, the Sound Five's and Bando's cannot be copied via this method where he'll teleport away as usual (he also cannot copy alternate and/or crisis specials). The "copying" function of that attack was scrapped in the
+Naruto: Shippūden
+-sub series for both Kakashi and Anbu Kakashi.
+
+When he copies techniques, Kakashi often has his own personal touches to them; for example:
+
+Copying Zabuza's
+Hiding in Mist Technique
+ has Kakashi utilise his
+Lightning Cutter
+ with a kunai instead.
+
+Kakashi also shows his own "Inner Kakashi" when copying Inner Sakura.
+
+When copying the
+Fang Passing Fang
+, a shadow clone appears above Kakashi in place of the
+Beast Human Clone
+.
+
+If Kakashi counters Sasuke's
+Chidori
+ or his own Lightning Cutter, then he'll perform his own usual version of the said techniques instead. He will also copy the
+Lightning Cutter Combo
+ from another Kakashi, only he'll omit his basic starting quote.
+
+Originally, Kakashi could copy the
+Air Lightning Strike
+ done by Iruka and Mizuki; due to the attack's re-allocated command in
+Gekitō Ninja Taisen 3
+ and
+4
+ however, Kakashi in those two games only copies the
+Air Lightning Bullet
+ instead.
+
+Kakashi whenever he copies Lee's
+Front Lotus
+, does it without the bandages akin to how Guy performs it (despite using bandages out of nowhere in other forms of media).
+
+Kakashi always spouts his own personal quote set upon copying techniques, save for a special quote during the Hiding in Mist Technique (only as of
+Clash of Ninja 2
+).
+
+Kakashi could originally copy the
+Nine-Tailed Naruto Wild Attack
+ in the first
+Clash of Ninja
+ game, though with no special effects.
+
+Kakashi's Lightning Cutter (pre-timeskip), Sasuke's Chidori (pre-timeskip), Sasuke and Itachi's Amaterasu (Part II/timeskip; in
+Gekitō Ninja Taisen Special
+) are the only specials that can be charged up.
+
+In
+Gekitō Ninja Taisen 3
+ and
+4
+, Itachi's
+Tsukuyomi
+ can have their negative colour effects reverted to normal colours for a brief while if the game is paused and exited.
+
+Also in the series, Itachi's quotes during a connected Tsukuyomi are considered as part of the soundtrack as opposed to actual voice clips/files. As a result, muting the music will also mute the said quotes.
+
+In the series, Neji and Hinata's Gentle Fist strikes, Shino's
+kikaichū
+, Kisame's sword slashes and Itachi's
+Tsukuyomi
+ are the only attacks that drain chakra from their opponent. Orochimaru's
+Five Elements Seal
+ prior to
+Special
+ however, is also able to disable chakra gain as well as locking characters out of alternate states (as of
+Gekitō Ninja Taisen 3
+) for 10 seconds.
+
+The Nine-Tailed Naruto Wild Attack and
+Snake Wild Strike
+ are the only two neutral specials in the series (barring down specials in
+Gekitō Ninja Taisen! EX 2
+ and
+3
+) that have no special cinematic (as the camera does not turn to a specific angle upon connecting unlike similar hit-grab-based moves), thus the damage scaling will also further increase on such attacks when used to finish long combos.
+
+Both Lee and Guy are the only characters in the series with backward weak attacks that can be charged up. Upon doing so at full charge, they act as instant-guard crush attacks in a slight nod to the
+Bloody Roar
+ series' Guard Break attacks. Though this is likely to make up for the fact that they lack chargeable strong attacks.
+
+Cinematic attacks (including supers/specials/secret techniques) strangely enough, while they also ignore damage scaling during the cinematic portions, they also ignore overall-damage settings in the battle options, no matter how high or low they have been set to.
+
+Performing a secret technique does not actually freeze time for specific states, such as the blockstun duration of the defender; as a result, secret techniques when cancelled into during a blockstring can easily be avoided.
+
+It is possible throughout the series to cancel the jump-squat frames of one's jump before they leave the ground (such as tapping forward quickly in time), allowing for a pseudo-crouching animation to occur throughout the games.
+
+The differences between Japanese and English versions of the games:
+
+The English versions have only the first round in 2 vs 2 battles, while the Japanese versions are only available in 3 rounds in 2 vs 2 battles.
+
+The English version has 4 filler characters available in
+Revolution 2
+ and
+3
+, being
+Towa
+,
+Komachi
+,
+Bando
+ and
+Kagura
+; they also have Japanese voices solely in the PAL versions of
+Revolution 3
+ which are uncredited.

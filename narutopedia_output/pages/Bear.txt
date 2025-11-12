@@ -1,0 +1,5 @@
+Wikipedia:Bear
+
+This page is a
+soft redirect
+.

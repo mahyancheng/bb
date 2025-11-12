@@ -1,0 +1,448 @@
+Naruto Shippūden: Clash of Ninja Revolution III
+ is the first
+Shippūden
+ game released for the
+Wii
+ in the
+US
+ or
+EU
+ and the third game going by the
+Revolution
+ subtitle.
+
+Gameplay
+
+It is the fifth instalment of the
+Clash of Ninja
+ series
+ and the overall tenth game using the
+Gekitō Ninja Taisen
+ fighting engine. The European version is slightly different from the American version in that several glitches have been fixed and the in-battle voices for all characters are Japanese, with several new voice clips recorded and even new voice actors cast for some characters.
+
+The game boasts a robust roster of 40 playable characters. It covers the
+Kazekage Rescue Mission
+ in the story mode, as with the first
+Shippūden
+ game in the
+Gekitō Ninja Taisen! EX
+ series in
+Japan
+, and it is also the first game in the series to have
+Wi-fi
+ connectivity for online battles. It also features what was described as an "overhauled combat system." While many characters have already undergone changes due to the time skip in the story, almost every character has had some major changes since their last appearances in
+the previous game
+ or
+Naruto Shippūden: Gekitō Ninja Taisen! EX 3
+. For example,
+Kakashi
+, a mainstay of the series since the first game, has been changed, now sporting a few new moves, combo/string finishers, and several techniques copied from other characters that he can use at any time.
+
+Several characters also receive new alternate special attacks different from
+Gekitō Ninja Taisen! EX 3
+ to
+Clash of Ninja Revolution 3
+, examples include
+Naruto
+,
+Sakura
+,
+Gaara
+,
+Kankurō
+,
+Itachi
+ and
+Sasori
+. The changes also involve removing certain attacks or abilities that proved too much of either a drawback or were overpowering in competitive play, as well as remapping previous attacks. Other inclusions are being able to attack while getting up from a downed position, and universal uses that involve the
+Body Flicker Technique
+. Certain characters' strong attacks now use up a small amount of chakra (25%) as opposed to those that drain chakra if they are delayed/extended via holding down the respective button.
+
+The game features a total of 40 different stages to play on, with stage transitions turned off. Stage jumping can now occur both on 1st and 2nd tiered areas back and forth, enabling possible stage jumping in both directions, though this does not work for certain stages however as some of them still work only one-way. There is also a new feature called Latent Ninja Powers, which is the translated Senzai Ninriki feature from 2008's
+Gekitō Ninja Taisen! EX 3
+. However, most character's original Senzai Ninriki/Latent Ninja Powers like their specials have been changed from
+Gekitō Ninja Taisen! EX 3
+ to
+Clash of Ninja Revolution 3
+ most likely for balance. The return of hand seals from both
+EX 2
+ and
+Revolution 2
+ as well as explosive tags from the latter are also to be noted.
+
+Almost every character also has a brand-new throwing animation in one way or another, done by inputting down + throw. These said throws may or may not reuse one of their other animations or be a new move entirely, along with being inescapable. During the Two-Man Squad mode, it is now possible to set two players to one character each on one squad, rather than one player controlling both characters of a pair. Aside from this, the Two-Man Squad mode also allows a player to call up the character they're not playing as to aid them for a short time with a predetermined combo, or have the other character attack as they enter the field, a feature which was used as standard in
+Gekitō Ninja Taisen! 4
+ on the
+Gamecube
+.
+
+Many other features that were in
+Naruto: Clash of Ninja Revolution 2
+, such as Kumite Mode and Mission Mode make a return. The shop feature from
+Naruto: Clash of Ninja 2
+ and
+Naruto: Gekitō Ninja Taisen! 3
+ also makes a return for purchasing modes and characters. Instead of being run by
+Anko
+ as it previously was, is now owned by
+Bando
+. With this, some content requires the need to be unlocked first before being available for purchase, and the prices are not as cheap as in the previous games, and money is instantly earned during a character's winning animation.
+
+Other quality of life changes involve:
+
+Extra stage transitions now working two-way.
+
+The ability to use the projectile deflection with the GameCube controller (with the c-stick).
+
+The ability to perform getup sweep kick attacks when knocked down.
+
+Faster startup frames for
+explosive tag
+ throwing animations.
+
+Faster knocked-down-getup times compared to
+EX3
+.
+
+Sidesteps now have invulnerability frames upon startup and have decreased recovery (a quality of life from
+EX3
+).
+
+Staggers in this game are also inverted; when hitting a staggered foe with any non-stagger move, it will put them into airborne hitstun where as it is possible to loop stagger-inflicting moves into each other with no juggle-state being applied.
+
+Many of these changes however, along with the victim's increased chakra gain across the Wii titles (added in with the altered juggling gravity and increased forward knockback mid-juggle), overall causes the game to be more overly defensive than the likes of the competitive scene seen in
+Gekitou Ninja Taisen! 4
+ (which was more offensive-heavy).
+
+Another new feature is tilting the control stick during specific animations for new features, such as tilting any direction upon activating Kakashi's neutral special to use his other copied-jutsu, or tilting up during Hidan's neutral special to have him throw his scythe upwards via his up strong attack animation for the initial blow.
+
+Most of these changes carry over to
+Naruto Shippūden: Gekitō Ninja Taisen! Special
+.
+
+Playable Characters
+
+
+
+
+
+Bando, one of the exclusive
+Naruto: Clash of Ninja
+ characters only in America and European.
+
+
+
+Naruto Uzumaki
+ (can enter a
+One-Tailed
+ form)
+
+Sakura Haruno
+
+Kakashi Hatake
+ (can activate
+Sharingan
+ and
+Mangekyō Sharingan
+, also playable with
+Anbu
+ form)
+
+Might Guy
+ (can activate
+Eight Gates
+ and
+Gate of Healing
+)
+
+Rock Lee
+ (can activate
+Eight Gates
+,
+Gate of Healing
+ and
+Gate of Life
+)
+
+Neji Hyūga
+
+Tenten
+
+Asuma Sarutobi
+
+Shikamaru Nara
+
+Chōji Akimichi
+
+Kurenai Yūhi
+
+Hinata Hyūga
+ (also playable in an
+Awakened
+ form)
+
+Kiba Inuzuka
+ (assisted by
+Akamaru
+)
+
+Shino Aburame
+
+Anko Mitarashi
+ (also playable in a
+Curse Mark
+ form)
+
+Yūgao Uzuki
+
+Jiraiya
+
+Tsunade
+
+Sai
+
+Yamato
+
+Gaara
+
+Kankurō
+ (assisted by
+Karasu
+ and
+Kuroari
+)
+
+Temari
+
+Baki
+
+Chiyo
+ (assisted by
+Mother and Father
+)
+
+Sasuke Uchiha
+
+Kabuto Yakushi
+
+Orochimaru
+
+Itachi Uchiha
+
+Kisame Hoshigaki
+
+Deidara
+
+Sasori
+ (also playable while in
+Hiruko
+)
+
+Hidan
+
+Kakuzu
+
+Towa
+
+Komachi
+
+Bando
+
+Kagura
+
+Stages
+
+Hidden Leaf Village
+
+Hidden Leaf Village Main Gate
+
+Akatsuki
+ Hideout
+
+Tenchi Bridge
+
+Chūnin Exams
+
+Leaf Forest (Day, Night)
+
+Tanzaku Castle
+
+Nine-Tailed Fox
+ Room
+
+Final Valley
+
+Hidden Leaf Village Riverside
+
+Hidden Leaf Village Pillar Chamber
+
+Forest Hideout
+
+Warehouse Road
+
+Shirato Street
+
+Intersection
+
+Hidden Sand Village
+
+Third Training Field
+
+Hidden Sand Village Entrance
+
+Silent Shrine
+
+Forest of Death
+
+Tag-Team Jutsu
+
+Naruto Uzumaki
+ and
+Jiraiya
+
+Sakura Haruno
+ and
+Tsunade
+
+Rock Lee
+ and
+Might Guy
+
+Shikamaru Nara
+ and
+Chōji Akimichi
+
+Shino Aburame
+ and
+Kiba Inuzuka
+
+Hinata Hyūga
+ and
+Neji Hyūga
+
+Kakashi Hatake
+ and
+Yūgao Uzuki
+
+Kurenai Yūhi
+ and
+Asuma Sarutobi
+
+Gaara
+ and
+Rock Lee
+
+Kankurō
+ and
+Kiba Inuzuka
+
+Temari
+ and
+Shikamaru Nara
+
+Orochimaru
+ and
+Kabuto Yakushi
+
+Itachi Uchiha
+ and
+Kisame Hoshigaki
+
+Towa
+ and
+Komachi
+
+Kagura
+ and
+Bando
+
+Trivia
+
+Much of the game possess bugs that often involve looped voice clips. Most of this was fixed in the PAL/European version. Likewise, a large number of bug fixes and balance changes also exist in the PAL/European versions.
+
+In European version, this game is one of the first few
+Naruto
+ games where US-exclusive characters receive Japanese voices. However, to this day, the Japanese voice actors appear to be un-credited.
+
+Despite this game being an alternate version of
+the first
+Gekitō Ninja Taisen! EX
+, the game does not use 3D models for the selection menus as the original 2D models of the previous
+Revolution
+ games are used.
+
+Also tying into this, the menu designs and HUD are mainly carried over from
+Revolution 2
+, along with using
+Gekitō Ninja Taisen 4
+'s Vs. screen theme.
+
+The opening also reuses the opening theme for
+EX2
+, though the roster is more akin to the size of
+EX3
+ barring the US-exclusive additions.
+
+Chiyo is the only character in the game who never attacks her opponents directly with punches or kicks (with the exception of her special). She can only attack with her Mother and Father puppets, but can manoeuvre them around the battlefield. Because she's given such a big advantage with two puppets that are her only means of attacking, she has a weaker guard than most of the other characters and thus makes it easier to shatter it, causing her to lose her chakra and be vulnerable quicker. However, this also gives her a major disadvantage since she must constantly re-position her puppets favourably, as they cannot move alongside her unlike Karasu with Kankurō.
+
+Yamato during his connected neutral secret technique puts on his supposed "fear face" though it is not as clearly shown in the
+EX
+ games;
+Revolution 3
+ uses extra effects to render it more clearly. This carries over to
+Special
+.
+
+Players should be careful, as there are a noticeable amount of game lock-up glitches in this game. However, with the hardware made to utilise emulation, some of these glitches will not occur. Most of these glitches are also fixed in the PAL/European versions.
+
+If
+Kabuto
+'s
+Temple of Nirvana Technique
+ as much as touches
+Kurenai
+, the game will freeze completely. Likewise, if Kabuto also uses the same technique on a Tenten as she is summoning a weapon, she will be stuck in the air until the game or match is reloaded/reset.
+
+Playing as
+Hidan
+ in a second round, and perform anything related to activating his
+Curse Technique: Death Controlling Possessed Blood
+ special immediately after doing his back-strong attack (especially via it's natural ōgi-cancel-able point on its final hit) will freeze the game after he picks up the scythe again. If this glitch is performed in Round 3 or more, the game will freeze immediately after the special activation.
+
+A bug involving Itachi causes his neutral strong attack kunai when deflected, to not retain their knockdown properties unlike all other deflected kunai. Likewise, any kunai thrown by anyone else that was deflected by Itachi will suddenly gain the properties of Itachi's neutral strong.
+
+The difficulty of the CPU's at Level 4 has changed, but only slightly. The only noticeable different is on how the CPU's substitute immediately after being hit, and they also focus on more powerful combos. For many players, they might have improved, but are still not as tough as those from the GameCube series.
+
+There is, however, an interesting fact to consider about the CPU's behaviour at Level 4. Unlike the previous game, players can modify characters with the Handicap selection when at the stage select, such as how strong their attacks are, how strong their guard is before it's shattered, or how fast their chakra bar fills up. If the player modifies a character's handicap, such as decreasing their opponent's attack and increasing their guard, they will act smarter in battle, willing to guard against combos and attacks that normally they would've been caught with. It's not significant enough to be comparable to their GameCube counterparts, but it does make the CPU somewhat more competitive.
+
+As of this game, Part 2 Sasuke can somehow no longer activate his Sharingan, but his movesets across both his normal and Sharingan mode have been combined together while having his Sharingan already active (such as his Sharingan-mode-ōgi being usable with down + special and
+Chidori Current
+ being mapped to back + special). His new down throw also reuses the animation of his Sharingan-mode-back strong attack (with lightning now added around his sword arm to likely imply that the move is the
+Chidori Katana
+).
+
+When Naruto and Sasuke are pitted against each other in the Valley of the End stage, instead of the default theme from the
+EX
+ games, the original leitmotif for the Valley from
+Gekitō Ninja Taisen! 4
+ plays. This change carries over to
+Special
+ only for normal Naruto vs. Sasuke on the same stage.
+
+There are many unused assets within the game's debugging menus, such as the 3-Way Deadlock stage from the prior 2
+Revolution
+ games, as well as Orochimaru's Lair from the
+EX
+ games. Both of these stages can be accessed when playing on Survival Mode for long enough, though debugging and modding the files is the only way to play to select the stages normally.
+
+Also in the games files,
+Ino
+ via her
+Revolution 2
+ assets is also within the leftover data, though her stance and moveset are not loaded.
+
+Some of the models of the characters coming from
+Revolution 2
+ to
+Revolution 3
+ are somewhat up-scaled, such as Kagura.

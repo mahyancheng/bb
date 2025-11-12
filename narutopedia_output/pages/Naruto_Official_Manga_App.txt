@@ -1,0 +1,117 @@
+The start screen for the Naruto App.
+
+
+
+The
+Naruto Official Manga App
+ (
+NARUTO-ナルト- 公式漫画アプリ
+,
+Naruto Kōshiki Manga Apuri
+) is a
+Naruto
+ companion app published by Shueisha for Android and iOS in the Japanese region, designed to act as a one-stop shop for
+Naruto
+ news and digital media. In late 2017 the app was partially redesigned with its 2.0 update, with some features being removed. The new version of the app allows users to directly purchase or accumulate
+Chakra
+ through daily login bonuses and ad viewing, which can be used to rent or permanently purchase digital manga chapters, volumes, databooks, and light novels.
+
+Features
+
+News:
+ The app is frequently updated with
+Naruto
+ news and announcements, including information on promotions, upcoming releases, and summaries of articles from the
+Weekly Shōnen Jump
+ print magazine.
+
+Chakra:
+ A currency used to make purchases through the app. Users are given 7 Free Chakra to spend each week, while Bonus Chakra can be accumulated through the daily Character Summon or by viewing ads, and Premium Chakra can be purchased.
+
+Free Manga:
+ The entire
+Naruto
+ manga can be read through the app's e-reader. Users can spend 1 Chakra to rent individual chapters, organised into chronological arcs, in either monochrome or colourised editions. The latest chapter of
+Boruto: Naruto Next Generations
+ is also made available to read for free for a week one month after it's published. These free editions are notably published without the editorial copy present on the first and last pages of the serialised edition. Individual story arcs are also sometimes made available to read for free for a limited time as part of limited-time events.
+
+Bookstore:
+ A digital bookstore linked to the user's Jump Bookstore account. Users can use Bonus or Premium chakra to permanently purchase monochrome volumes of the
+Naruto
+ manga, the colourised
+Naruto: Colour Edition
+,
+Naruto Gaiden: The Seventh Hokage and the Scarlet Spring
+,
+Boruto: Naruto Next Generations
+,
+Rock Lee's Springtime of Youth Full Power Ninja Chronicles
+,
+Sasuke Uchiha's Sharingan Legend
+, and
+Boruto: Saikyo Dash Generations
+, as well as the four
+Official Character Data Books
+ and most of the
+Light Novels
+, including the latest releases.
+
+External Links:
+ Links to various official
+Naruto
+ and Shueisha websites and apps.
+
+Deprecated Features
+
+Animation:
+ Every Monday and Thursday the app is updated with free streaming episodes of the
+Naruto
+ anime.
+
+Gallery:
+ Each week a different illustration is featured in the app's "mini-gallery," with commentary from Masashi Kishimoto. The illustrations and commentary are taken from the
+Uzumaki
+ and
+Naruto
+ artbooks.
+
+Sharingan Camera!!:
+ A special feature that allows the user to unlock five special illustrations by photographing the back covers or postcards of particular
+Naruto
+ books:
+Retsu no Sho
+,
+Fū no Sho
+,
+Rai no Sho
+ and
+Zai no Sho
+. The fifth illustration is unlocked by unlocking any two illustrations.
+
+Retsu no Sho
+ illustration
+Fū no Sho
+ illustration
+Rai no Sho
+ illustration
+Zai no Sho
+ illustration
+Unlockable illustration
+
+History:
+ A special feature that summarises all 18 story arcs of the
+Naruto
+ manga, with descriptions for keywords and characters. The timeline has been rolled into the free manga section of the app as of version 2.0.
+
+Calendar:
+ A calendar listing all upcoming events and release dates for
+Naruto
+ media.
+
+Wallpaper & Icon:
+ A small collection of wallpapers and SNS icons.
+
+SNS:
+ The official
+Naruto
+ twitter feed.

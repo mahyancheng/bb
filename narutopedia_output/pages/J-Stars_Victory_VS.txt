@@ -1,0 +1,368 @@
+J-Stars Victory VS
+ (originally titled as
+Project Versus J
+) is a crossover video game by Namco Bandai Games for PlayStation 3 and PlayStation Vita.
+
+The game was first announced in December 2012, in the second 2013 issue of
+Weekly Shōnen Jump
+. It was made to commemorate the 45th anniversary of
+Jump
+, and it is presented as the "ultimate
+Jump
+ game". The game was released on March 19, 2014. It was re-released for the western territories as
+J-Stars Victory VS+
+ for the PlayStation 4, PlayStation 3, and PlayStation Vita, with an additional Arcade Mode for the international release.
+
+Gameplay
+
+The game allows up to four players to play in combat or battle. The players may fight in all directions of a 3D battlefield.
+
+Fighters can use regular attacks, strong attacks, combo strings, area-based attacks, guard breaks, special moves and finishing moves; mobility based actions involve dashing, sidestepping, Just Guarding and double jumping/delayed jumping. By using different techniques, the player can lead their team to victory. Learning each character's different powers, range, and effects is the first step towards being unbeatable.
+
+The game revolves around 1 on 1 or 2 on 2 combat with side characters being a support each with their own cooldown timers. The objective of the game is the earn mainly 3 K.O.s for each side to fill up a victory gauge on the top corners of the screen for a victory. Upon being K.O.ed, the K.O.ed character(s) will respawn.
+
+Each character also has the standard HP gauge, as well as a stamina gauge which can be charged by combining the guard + jump buttons. Stamina Gauges act as the main resource bar for all characters, and all vary for each universe; for example,
+Dragon Ball Z
+ characters charge up their ki-based stamina gauge quickly, while
+Naruto
+ characters will after charging for a set amount of time, charge double the amount of stamina in an instant burst. Stamina gauges depending on the character, can have 1 or 2 layers with increments by ten, and set amounts of expended when using special moves, area-attacks, guard breaks, dashing, taking damage at certain intervals or when certain attacks connect or when blocking strong attacks. When the stamina gauge empties, stamina break occurs where when guarding, the character's guard is broken and the gauge cannot be charged for a while until it refills to 40% on its own. Stamina-based actions can always be used as long as there is stamina even if below enough and as long as stamina break has not occurred.
+
+Each character has mainly around three special moves (neutral, plus a forward direction or plus the guard button) which each use up a set amount of stamina depending on the move. Some characters can have an auto-combo-based special used at the end of one of their basic strings, or can naturally chain into a special move with another one of their strings for more variety.
+
+There is also a Voltage Gauge at the centre top of the screen each leans in favour of the side that deals damage repeatedly. Upon the pointed reaching to the furthest points of the gauge, the respective side can activate a Victory Burst to reset themselves to neutral position, which not only gives a specific stat increase chosen before battle (Friendship Bursts decrease stamina usage, Effort Bursts increase defence while Triumph Bursts increase attack power) but also allows the usage of Super/Ultimate Attacks (and/or some alternate states beforehand depending on the character). Getting frequently knocked down and/or using Super/Ultimate Attacks will decrease the duration of the Victory Burst however, while often failing to activate it on time may result in the Voltage Gauge swinging the other way around should the opposing team gain the upper hand.
+
+Characters
+
+Naruto Uzumaki
+
+Sasuke Uchiha
+
+Madara Uchiha
+
+Son Gokū
+
+(Dragon Ball Z)
+
+Vegeta
+
+(Dragon Ball Z
+)
+
+Freeza
+
+(Dragon Ball Z)
+
+Monkey D. Luffy
+
+(One Piece)
+
+Boa Hancock
+
+(One Piece)
+
+Portgas D. Ace
+
+(One Piece)
+
+Akainu
+
+(One Piece)
+
+Toriko
+
+(Toriko)
+
+Zebra
+
+(Toriko)
+
+Himura Kenshin
+
+(Rurouni Kenshin)
+
+Makoto Shishio
+
+(Rurouni Kenshin)
+
+Ichigo Kurosaki
+
+(Bleach)
+
+Sōsuke Aizen
+
+(Bleach)
+
+Sakata Gintoki
+
+(Gintama)
+
+Kankichi Ryotsu
+
+(Kochikame)
+
+Gon Freecss
+
+(Hunter X Hunter)
+
+Killua Zoldyck
+
+(Hunter X Hunter)
+
+Yusuke Urameshi
+
+(Yū Yū Hakusho)
+
+Younger Toguro
+
+(Yū Yū Hakusho)
+
+Hiei
+
+(Yū Yū Hakusho)
+
+Medaka Kurokami
+
+(Medaka Box)
+
+Tsunayoshi Sawada
+ with
+Reborn
+
+(Katekyō Hitman Reborn!)
+
+Tatsumi Oga
+ with
+Beelzebub IV
+
+(Beelzebub)
+
+Jonathan Joestar
+
+(JoJo's Bizarre Adventure)
+
+Joseph Joestar
+
+(JoJo's Bizarre Adventure)
+
+Korosensei
+
+(Assassination Classroom)
+
+Pegasus Seiya
+
+(Saint Seiya)
+
+Kenshiro
+
+(Fist of the North Star)
+
+Raoh
+
+(Fist of the North Star)
+
+Bobobo-bo Bo-bobo
+
+(Bobobo-bo Bo-bobo)
+
+Arale Norimaki
+
+(Dr. Slump)
+
+Kusuo Saiki
+
+(Saiki Kusuo no Psi Nan
+)
+
+Momotarō Tsurugi
+
+(Sakigake!! Otoko Juku)
+
+Meisuke Nueno
+(Jigoku Sensei Nūbē)
+
+Luckyman
+
+(Tottemo! Luckyman)
+
+Taro Yamada
+(Chinyūki-Taro to Yukaina Nakama-tachi)
+
+Support
+
+Rukia Kuchiki
+
+(Bleach)
+
+Hisoka Morow
+
+(Hunter X Hunter)
+
+Jaguar Junichi
+
+(Pyu to Fuku! Jaguar)
+
+Misogi Kumagawa
+
+(Medaka Box)
+
+Lala Satalin Deviluke
+
+(To Love Ru)
+
+Kagura
+ with
+Sadaharu
+
+(Gintama)
+
+Tetsuya Kuroko
+
+(Kuroko's Basketball)
+
+Hime Onizuka
+
+(Sket Dance)
+
+Yūsuke Fujisaki
+
+(Sket Dance)
+
+Kazuyoshi Usui
+
+(Sket Dance)
+
+Neuro Nōgami
+
+(Majin Tantei Nōgami Neuro)
+
+Allen Walker
+
+(D.Gray-man)
+
+Chitoge Kirisaki
+
+(Nisekoi)
+
+Heihachi Edajima
+
+(Sakigake!! Otoko Juku)
+
+Shoyo Hinata
+
+(Haikyu)
+
+Others
+
+Sakura Haruno
+
+Kakashi Hatake
+
+Gaara
+
+Babaa (
+Chinyuki: Taro to Yukaina Nakama Tachi
+)
+
+Ohara Daijiro
+
+(Kochikame)
+
+Sunny
+ (
+Toriko
+)
+
+Koenma
+ (
+Yū Yū Hakusho
+)
+
+Botan
+ (
+Yū Yū Hakusho
+)
+
+Hitoyoshi Zenkichi
+ (
+Medaka Box
+)
+
+Shiranui Hansode
+ (
+Medaka Box
+)
+
+Stages
+
+Konohagakure
+
+Namek
+ (
+Dragon Ball
+)
+
+Alabasta
+ (
+One Piece
+)
+
+Vegetable Sky
+ (
+Toriko
+)
+
+Soul Society
+ (
+Bleach
+)
+
+Dark Tournament Stadium
+ (
+Yū Yū Hakusho
+)
+
+Juppongatana HQ Rooftop
+ (
+Rurouni Kenshin
+)
+
+Edo City Central
+ (
+Gintama
+)
+
+Yoshiwara Paradise
+ (
+Gintama
+)
+
+Sanctuary
+ (
+Saint Seiya
+)
+
+Katsushika City
+ (
+Kochikame
+)
+
+Gallery
+
+Naruto
+Sasuke
+Madara
+
+External Links
+
+J-Stars Victory VS
+ official website
+
+J-Stars Victory VS
+ HQ commercial
+
+J-Stars Victory VS
+ HQ trailer
+
+J-Stars Victory VS+ - Jump Festa Trailer
+
+J-Stars Victory VS+ - Gameplay Trailer

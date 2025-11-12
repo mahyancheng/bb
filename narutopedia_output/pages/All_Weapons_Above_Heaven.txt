@@ -1,0 +1,3 @@
+This technique raises all the status boosts (Speed, Attack, Defence) for all characters in battle with
+Tenten
+.

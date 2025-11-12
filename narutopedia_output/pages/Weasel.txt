@@ -1,0 +1,5 @@
+Wikipedia:Weasel
+
+This page is a
+soft redirect
+.

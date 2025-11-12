@@ -1,0 +1,135 @@
+Naruto Shippūden: Gekitō Ninja Taisen! EX
+ (
+NARUTO -ナルト- 疾風伝 激闘忍者大戦! EX
+,
+Naruto Shippūden: Great Ninja Battle EX
+) is the fifth instalment of the Japanese-exclusive
+Gekitō Ninja Taisen
+ series. This game was also the first
+Gekitō Ninja Taisen
+ game to be released for the Nintendo
+Wii
+ as well as the first entry into the
+EX
+ sub-series.
+
+Gameplay
+
+The game uses the Wii Remote in unison with the Nunchuk by waving the controller in different directions, but the GameCube controller and the Wii Classic controller can be used with the game as well. Also new to the system are plane switches, where characters after hitting their opponents with a hard flying attack force them out via a cinematic, where they rush after them to a new area of the stage. During this time, the one who sent the foe flying can either chose to do nothing and let them fall to the ground in the new area, teleport behind them to give them even fair ground in landing, attack them or teleport out of sight and behind them in the new area to open them up to combos via a ground bounce from a fall (which cannot be escaped from with a Body Replacement Technique).
+
+However, the victim that was sent flying with proper timing in response to the pursuer can counter these actions by dodging or recovering, making it a bit of a Quick-Time Event. This function becomes a mainstay for the whole Wii sub-series of the
+Gekitō Ninja Taisen
+/
+Clash of Ninja
+ series.
+
+Also new and part of the mainstay are objects on the arena where characters can move next to in order to hide behind. Doing so they can perform one of their many attacks after slipping out of cover, hop over the object to assault the foe with midair attacks, or simply dodge away from the object. Both players can hide behind the same object, and they can be damaged and broken, leaving the hiding character in a stagger if they are happening to be hiding behind one of them. Characters can also knock each other into the objects with attacks for a "wallbounce" effect seen in more traditional fighters (and the extra damage dealt by the bounce itself is proportional to the attack that sent them into the obstacle in question).
+
+The game takes place during the
+Naruto: Shippūden
+ series, specifically the first ten episodes of the Kazekage Rescue Mission. The game contains re-done
+Shippūden
+ versions of 12 characters from the previous games in the series and two new characters specifically from the
+Shippūden
+ series.
+
+Another notable change to this game is the heavier physics compared to the GameCube titles, and decreased metre gain. As a result, on top of a lower chakra gain when connecting their own attacks, some select attacks now have higher gravity scaling during juggles either horizontally (victims get pushed away further per hit) or vertically, while some don't.
+
+Sidestepping as of this game throughout the Wii sub-series, is now based on button placement as opposed to perspective; thus, left-dodging will always result in dodging to the character's "left side", and right-dodging will always result in dodging to the character's "right side" likewise. Dodging when one's back is turned will now auto-correct a character's facing direction.
+
+Players can also use the nunchuck to deflect ninja tools and other types of projectiles with proper timing, causing them to return on the exact opposite path of which they flew from. This can be done from any position, save for being knocked down or attacked. Upon deflecting a projectile, despite the laggy animation, the user can instantly followup with an attack.
+
+However, invincibility frames upon landing on the ground from a knockdown have been removed, making on-the-ground hits more easy to achieve than in previous titles.
+
+Playable characters
+
+Naruto Uzumaki
+ (can enter a
+One-Tailed
+ form)
+
+Sakura Haruno
+
+Kakashi Hatake
+ (can activate
+Sharingan
+)
+
+Rock Lee
+
+Neji Hyūga
+
+Tenten
+
+Might Guy
+
+Gaara
+
+Kankurō
+
+Temari
+
+Itachi Uchiha
+
+Kisame Hoshigaki
+
+Deidara
+
+Sasori
+ (playable only while in
+Hiruko
+)
+
+Trivia
+
+Iruka acts as the announcer in this game, which oddly enough carries over to the localised
+Revolution 3
+ with his English voice, and to
+Special
+.
+
+Said announcer voice in Japanese however, also applies to the European version of
+Revolution 3
+.
+
+Due to the Wiimote + Nunchuck scheme, it is impossible for both Lee and Guy to charge up their back weak attacks like so in the Wii games onward.
+
+Since it's possible to cancel the obstacle-hiding state with the down input, staying near an obstacle while doing so as of this game in the series causes the character to rapidly exit and enter hiding state non-stop.
+
+As of this game:
+
+Clashed attacks now count as whiffed-attacks, meaning that entire combo strings clashing against each other can no longer occur.
+
+However, a bug exists in all the other Wii games where if lingering projectiles (such as Shino's bugs from his neutral strong attack) continuously connect upon the opponent, they will register as hits that can allow any whiffed attack string to continue normally.
+
+Likewise, if a projectile hits an airborne foe, whiffed physical attacks can be Chakra Cancelled like so. This too is another bug in all other Wii games.
+
+Weapon attacks now make a metallic clunking sound when they are blocked, different from when thrown-bladed-weapons contact a surface or when they clash with each other.
+
+Stages are now bigger than their prior GameCube counterparts with some specific corrections done to match the source material.
+
+The viewing of the stage itself with no obstacles and/or opponents on it will be shown after the versus jingle during the battle intro.
+
+A K.O. no longer briefly pauses the game in-real time, and instead slows the game down upon one happening.
+
+Upon a K.O. happening, the defeated character no longer has a hurtbox registered to their body if they are about to touch the ground in a certain period of time, meaning they cannot be continuously hit as easily before the victor does their victory animation before the match ends and/or the next round starts.
+
+Pause menu movesets now list down the super/special/ōgi-cancelable attacks for each character.
+
+A bug exists in all the Wii games where knocking the opponent off of their feet during a crumple will force most non-small launch/juggle hit effects to act abnormally. Examples include a far-distance launcher inflicting normal knockdown/launch/juggle instead of its original hit effect.
+
+When deflecting a projectile, a bug allows characters to somehow perform their counterattack action in any state, including in the air. This bug also exists in all the Wii games.
+
+Akin to the famed kara/void throw technique seen in other fighting games, all the Wii games via another bug allow for throws to have notably increased ranged when the throw is used to cancel the character's initial jumping animation.
+
+Strangely enough, as part of the physics changes, the attack-height-crush mechanics were removed (e.g. high/low-crushing attacks no longer work/exist).
+
+Throws are revealed to actually be a unique animation with momentum that happens to have damage applied, and not 'true hitstun/flinching'. As a result, in all the Wii games, it's possible to perform a projectile deflect whilst launched by a basic grounded throw.
+
+Similarly to
+Ultimate Ninja 4
+, the Shippūden version of Sasuke is not playable or even seen in the story mode and throughout the game.
+
+Strangely enough, due to the new engine different from the Gamecube titles, some assets are missing such as midair guard crush animations (an oddity present in all
+EX
+ games).

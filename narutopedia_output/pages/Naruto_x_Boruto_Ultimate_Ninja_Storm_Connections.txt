@@ -1,0 +1,1638 @@
+Naruto x Boruto: Ultimate Ninja Storm Connections
+ is the seventh instalment of the
+Ultimate Ninja Storm
+ series developed by CyberConnect2 and published by Namco-Bandai games for the PlayStation 4, Xbox One, Nintendo Switch, PlayStation 5, Xbox Series X|S, and Steam.
+
+Gameplay changes
+
+Here have been some of the confirmed gameplay changes so far:
+
+Ninja items with the D-pad are now infinite in usage.
+
+Idle chakra regeneration rate has notably increased.
+
+Hitstun times are now more generalized across the cast, which may or may not interfere with intended hit effects of attacks from prior games.
+
+The counter returning from
+Storm Revolution
+ now inflicts a crumple instead of a ground slide.
+
+Hitting a victim during crumple state, ground slide (mainly with a chakra dash) or with a tool throw when they are downed causes a re-stand state.
+
+Damage scaling is implemented, but the game is unable to properly register it at times if the combo is desynced enough.
+
+Mid-ranged tilt moves are removed, and is replaced with a second chakra technique/jutsu/U1, and for some characters, they now also have essentially 3 chakra techniques usable on-hand.
+
+The input for the second jutsu is the same as the original input for chakra tool throw. As a result, chakra tool throws have been removed.
+
+Playable Characters
+
+Naruto Uzumaki
+
+Part I (
+One-Tailed Form
+)
+
+Pyjamas (Costume)
+
+Part II
+
+Beginning (
+Four-Tailed Form
+)
+
+Sage Mode
+ (
+Six-Tailed Form
+)
+
+School (Costume)
+
+Poncho (Costume)
+
+Five Kage Summit
+ (
+Nine-Tails Chakra Mode
+)
+
+Dark Naruto (Costume)
+
+Armour (Costume)
+
+Shinobi World War
+ (Nine-Tails Chakra Mode)
+
+Cowboy (Costume)
+
+Gondolier (Costume)
+
+Kimono (Costume)
+
+Lederhosen (Costume)
+
+Matador (Costume)
+
+Pirate (Costume)
+
+Warrior (Costume)
+
+Sasuke Costume
+
+White Robe (Costume)
+
+Suit (Costume)
+
+Traditional Festival Costume
+
+Tailed Beast Mode
+ (
+Kurama
+
+Mode
+)
+
+Six Paths Sage Mode
+ (Kurama Mode)
+
+The Last
+ (Tailed Beast Sage Mode)
+
+Seventh Hokage
+
+Road to Boruto (Kurama Mode)
+
+Baryon Mode
+
+Sasuke Uchiha
+
+Part I
+
+Black Outfit
+ (
+Sharingan Mode
+)
+
+Blue Outfit
+ (
+Curse Mark Stage 2
+)
+
+Initial Uniform (
+Sharingan Mode
+)
+
+Part II
+
+Beginning (Curse Mark Stage 2)
+
+Black Outfit
+ (Curse Mark Stage 2)
+
+Taka
+ (
+Mangekyō Sharingan
+)
+
+Mangekyō Sharingan
+ (
+Armoured Susanoo
+)
+
+Kimono (Costume)
+
+Eternal Mangekyō Sharingan
+ (
+Humanoid Susanoo
+)
+
+Naruto Costume
+
+Napoleon (Costume)
+
+School (Costume)
+
+Warrior (Costume)
+
+Limited Tsukoyomi (Costume)
+
+Rinnegan
+ (
+Complete Body — Susanoo
+)
+
+The Last (Complete Body — Susanoo)
+
+Boruto Era
+
+Wandering Shinobi (Complete Body — Susanoo)
+
+Supporting Kage
+
+Without Cloak (Costume)
+
+Time Travel
+ (Costume) (DLC)
+
+Sakura Haruno
+
+Part I (
+Maiden's Anger Mode
+)
+
+Part II
+
+Beginning (
+Herculean Mode
+)
+
+Allied Shinobi Forces
+ (
+Strength of a Hundred Seal
+)
+
+School (Costume)
+
+Warrior (Costume)
+
+The Last (Costume)
+
+Boruto Era
+ (Costume)
+
+Sai
+ (
+Fast Writing Mode
+)
+
+Casual Outfit
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Shikamaru Nara
+
+Part I (
+Shadow Imitation Mode
+)
+
+Genin
+ Uniform
+
+Chūnin
+ Uniform
+
+Part II (
+Strategy Mode
+)
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Ino Yamanaka
+
+Part I (
+Covered with Flowers Mode
+)
+
+Part II (
+Hundred Scattered Flowers Mode
+)
+
+Beginning
+
+School (Costume)
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Chōji Akimichi
+
+Part I (
+Berserker Rage Mode
+)
+
+Part II
+
+Beginning (
+Expansion Mode
+)
+
+Allied Shinobi Forces (
+Butterfly Mode
+)
+
+Boruto Era (Costume)
+
+Kiba Inuzuka
+
+Part I (
+Fang Mode
+)
+
+Part II (
+Food Pills Mode
+)
+
+Beginning
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Shino Aburame
+
+Part I (
+Beetle Mode
+)
+
+Part II (Beetle Mode)
+
+Beginning
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Hinata Hyūga
+
+Part I (
+Byakugan Mode
+)
+
+Part II (
+Twin Lion Fists Mode
+)
+
+Beginning
+
+School (Costume)
+
+Allied Shinobi Forces
+
+Limited Tsukoyomi (Costume)
+
+The Last (Costume)
+
+Boruto Era (Costume)
+
+Gaara
+
+Part I (
+Brutal Sand Mode
+)
+
+Chūnin Exams
+
+Sasuke Recovery Mission
+
+Part II
+
+Beginning (
+Shukaku
+)
+
+Five Kage Summit
+ (
+Kazekage Mode
+)
+
+Allied Shinobi Forces (Kazekage Mode)
+
+Fifth Kazekage
+ (Costume) (Kazekage Mode)
+
+Temari
+
+Part I (
+Wind Covered Mode
+)
+
+Chūnin Exams
+
+Sasuke Recovery Mission
+
+Part II (
+Heavenly Fan Dance Mode
+)
+
+Beginning
+
+Five Kage Summit
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Kankurō
+
+Part I (
+Puppet Dance Mode
+)
+
+Chūnin Exams
+
+Sasuke Recovery Mission
+
+Part II
+
+Beginning (
+Salamander Mode
+)
+
+Five Kage Summit
+ (
+Scorpion Mode
+)
+
+Allied Shinobi Forces (Scorpion Mode)
+
+Boruto Era (Costume)
+
+Rock Lee
+ (
+Eight Gates Mode
+)
+
+Part I
+
+Part II
+
+Beginning
+
+Allied Shinobi Forces
+
+Boruto Era (Costume)
+
+Neji Hyūga
+ (Byakugan Mode)
+
+Part I
+
+Part II
+
+Allied Shinobi Forces
+
+Tenten
+
+Part I (
+Ninja Tool Summon Mode
+)
+
+Part II (Ninja Tool Summon Mode)
+
+Allied Shinobi Forces (
+Bashōsen Mode
+)
+
+Boruto Era (Costume)
+
+Konohamaru Sarutobi
+ (
+Determination Mode
+)
+
+Hanabi Hyūga
+ (Byakugan Mode)
+
+Part II (Costume)
+
+The Last
+
+Kakashi Hatake
+
+Young Kakashi (
+White Light Blade Mode
+)
+
+Part I (Sharingan Mode)
+
+Anbu (Costume)
+
+School (Costume)
+
+Part II
+
+Beginning (Mangekyō Sharingan)
+
+Allied Shinobi Forces (Mangekyō Sharingan)
+
+Double Sharingan (Complete Body — Susanoo)
+
+New Era (Costume)
+
+Obito Uchiha
+
+Young Obito (Sharingan Mode)
+
+Tobi
+ Suit (Unmasked)
+
+Masked Man (Sharingan Mode)
+
+Akatsuki Cloak (Sharingan Mode)
+
+Shinobi World War
+ (Sharingan and Rinnegan Mode)
+
+Unmasked
+ (Sharingan and Rinnegan Mode)
+
+Six Paths
+ (
+Sword of Nunoboko
+)
+
+Rin Nohara
+ (
+Isobu
+)
+
+Yamato
+ (
+Wood Release Mode
+)
+
+Anbu
+ (Costume)
+
+Part II
+
+Might Guy
+
+Parts I-II (Eight Gates Mode)
+
+Allied Shinobi Forces (Eight Gates Mode)
+
+Birth of the Ten-Tails' Jinchūriki
+ (
+Eight Gates Released Formation
+)
+
+Asuma Sarutobi
+ (
+Flying Swallow Mode
+)
+
+Alive
+
+Reanimation
+ — (DLC 3)
+
+Iruka Umino
+ (
+Strict Sensei Mode
+)
+
+Allied Shinobi Forces
+
+Shisui Uchiha
+ (Complete Body — Susanoo)
+
+Hashirama Senju
+
+Alive (Chakra Blades Mode)
+
+Sage Mode (
+Wood Release: Wood Human Technique
+)
+
+Hokage Cloak (Costume)
+
+Tobirama Senju
+ (
+Water Release Mode
+)
+
+Alive
+
+Reanimation
+
+Hiruzen Sarutobi
+ (Hokage Mode)
+
+Alive
+
+Reanimation
+
+Hokage Cloak (Costume)
+
+Minato Namikaze
+
+Flak Jacket (
+Yellow Flash Mode
+)
+
+Casual Wear (Costume)
+
+Hokage Cloak (Yellow Flash Mode)
+
+Reanimation (Nine-Tails Chakra Mode)
+
+Kushina Uzumaki
+ (
+Red Habenero Mode
+)
+
+Casual Outfit
+
+Flak Jacket (Costume)
+
+Jiraiya
+ (Sage Mode)
+
+Parts I-II
+
+Sannin Era (Costume)
+
+Orochimaru
+ (
+White Snake Mode
+)
+
+Parts I-II
+
+Sannin Era (Costume)
+
+Akatsuki Cloak
+
+Mission Uniform (Costume)
+
+Tsunade
+ (
+Herculean Mode
+,
+Creation Rebirth
+)
+
+Parts I-II
+
+Sannin Era (Costume)
+
+Chiyo
+ (
+Chikamatsu Ten Puppets Mode
+)
+
+Alive
+
+Reanimation (Costume)
+
+A
+ (
+Raikage Mode
+)
+
+Five Kage Summit
+
+Raikage Cloak
+
+Raikage Hat (Costume)
+
+Killer B
+ (
+Gyūki
+)
+
+Casual Outfit
+
+Samehada
+
+White Robe (Costume)
+
+Darui
+ (
+Black Lightning Mode
+)
+
+New Era (Costume)
+
+Mei Terumī
+ (
+Mizukage Mode
+)
+
+Mizukage Hat (Costume)
+
+Ōnoki
+ (
+Tsuchikage Mode
+)
+
+Tsuchikage Hat (Costume)
+
+Mifune
+ (
+Samurai Mode
+)
+
+Five Kage Summit (Costume)
+
+Hanzō
+ (
+Salamander Mode
+)
+
+Alive (Costume)
+
+Reanimation
+
+Rasa
+ (Kazekage Mode)
+
+Alive (Costume)
+
+Reanimation
+
+A
+ (
+Raikage Mode
+)
+
+Alive (Costume)
+
+Reanimation
+
+Gengetsu Hōzuki
+ (Mizukage Mode)
+
+Alive (Costume)
+
+Reanimation
+
+Mū
+ (Tsuchikage Mode)
+
+Alive/Flak Jacket (Costume)
+
+Reanimation
+
+Yugito Nii
+ (
+Matatabi
+)
+
+Alive
+
+Reanimation
+
+Yagura
+ (Isobu)
+
+Alive
+
+Reanimation
+
+Rōshi
+ (
+Son Gokū
+)
+
+Alive
+
+Reanimation
+
+Han
+ (
+Kokuō
+)
+
+Alive
+
+Reanimation
+
+Utakata
+ (
+Saiken
+)
+
+Alive
+
+Reanimation
+
+Fū
+ (
+Chōmei
+)
+
+Alive
+
+Reanimation
+
+Asura Ōtsutsuki
+ (
+Six Paths Mode
+)
+
+Indra Ōtsutsuki
+ (Complete Body — Susanoo)
+
+Kaguya Ōtsutsuki
+ (
+Rinne Sharingan
+ and Byakugan Mode)
+
+Madara Uchiha
+
+Alive (Costume)
+
+Reanimation (Rinnegan Mode)
+
+Reanimation Resolved (Complete Body — Susanoo)
+
+Black Robe (Costume)
+
+Six Paths (Rinne Sharingan and
+Limbo: Border Jail
+)
+
+Nagato
+
+Pain (
+God Mode
+)
+
+Reanimation (
+Six Paths Mode
+)
+
+Konan
+ (
+Angel Mode
+)
+
+Itachi Uchiha
+ (Complete Body — Susanoo)
+
+Anbu
+
+Akatsuki Cloak
+
+Akatsuki Cloak (with Hat)
+
+Reanimation
+
+Kisame Hoshigaki
+ (
+Samehada Fusion Mode
+)
+
+Akatsuki Cloak
+
+Akatsuki Cloak (with Hat)
+
+Hidan
+ (
+Jashin Ritual Mode
+)
+
+Pre-Akatsuki
+
+Akatsuki Cloak
+
+Kakuzu
+ (
+Shinzo Mode
+)
+
+Pre-Akatsuki
+
+Akatsuki Cloak
+
+Reanimation
+
+Deidara
+ (
+C2 Dragon Mode
+)
+
+Pre-Akatsuki
+
+Akatsuki Cloak
+
+Akatsuki Cloak (with Hat)
+
+Reanimation
+
+Sasori
+ (
+Human Puppet Mode
+)
+
+Pre-Akatsuki
+
+Akatsuki Cloak
+
+Reanimation
+
+Kabuto Yakushi
+
+Casual Outfit (
+Chakra Scalpel Mode
+)
+
+Snake Cloak (
+Snake Mode
+)
+
+Sage Mode (
+Twin Demons Mode
+)
+
+Karin
+ (
+Angry Mode
+,
+Attracted Mode
+ (against Sasuke))
+
+Casual Outfit
+
+Akatsuki Cloak
+ (Costume)
+
+Prisoner Outfit
+
+Suigetsu Hōzuki
+ (
+Water Arm Mode
+)
+
+Casual Outfit
+
+Akatsuki Cloak (Costume)
+
+Jūgo
+ (
+Curse Mark Mode
+)
+
+Casual Outfit
+
+Akatsuki Cloak (Costume)
+
+Kimimaro
+ (
+Curse Mark Stage 2
+)
+
+Alive
+
+Reanimation (Costume)
+
+Sakon and Ukon
+ (
+Curse Mark Stage 2
+)
+
+Tayuya
+ (
+Curse Mark Stage 2
+)
+
+Kidōmaru
+ (
+Curse Mark Stage 2
+)
+
+Jirōbō
+ (
+Curse Mark Stage 2
+)
+
+Zabuza Momochi
+ (
+Demon Mode
+)
+
+Alive
+
+Hidden Mist Costume
+
+Reanimation
+
+Haku
+ (
+Ice Mode
+)
+
+Masked
+
+Unmasked
+
+Reanimation
+
+Danzō Shimura
+ (
+Released Seal Mode
+)
+
+Hokage Hat (Costume)
+
+Boruto Uzumaki
+
+Casual Outfit
+
+Time Travel
+ (Costume) (DLC)
+
+Scientific Ninja Tool
+
+Naruto Outfit
+
+Kāma
+ (Kāma Mode)
+
+Without Jacket (Costume)
+
+Mitsuki
+ (
+Sage Mode
+)
+
+Sarada Uchiha
+ (Sharingan Mode)
+
+Casual Outfit
+
+Ninja Academy (Costume)
+
+Chūnin Exam
+
+Mecha-Naruto
+ (
+Mecha-Kurama
+ Form)
+
+Momoshiki Ōtsutsuki
+
+Kinshiki Ōtsutsuki
+
+Kawaki
+ (Kāma Mode)
+
+Jigen
+ (Kāma Mode)
+
+Delta
+ (Frustrated Mode)
+
+Boro
+ (
+Combustible Powder Mode
+)
+
+Koji Kashin
+ (Sage Mode)
+
+Without Cloak (Costume)
+
+Without Mask (Costume)
+
+DLC
+
+Hagoromo Ōtsutsuki
+ (Six Paths Mode)
+
+Isshiki Ōtsutsuki
+ (
+Kokugan
+ Mode)
+
+Kurenai Yūhi
+ (Cherry Blossom Mode)
+
+Kawaki (Kāma Progression) (Kokugan Mode)
+
+Boruto Uzumaki (
+Kāma Progression
+) (Kāma Mode)
+
+Broken Horn (Costume)
+
+Customisation
+
+Players are able to customise their characters with various items unlocked throughout the game.
+
+Items
+
+Head
+
+White Cat Ears
+
+Black Cat Ears
+
+White Bunny Ears
+
+Black Bunny Ears
+
+Fox Ears
+
+Demon Horns
+
+Ogre Horns
+
+Konan's Hair Ornament
+
+Paper Shuriken
+
+Blue Butterfly
+
+Kabuki Piece
+
+Sakura's Hair Ornament
+
+Tazuna's Hat
+
+Origami Crane
+
+Halo
+
+Tobi's Mask
+
+Tobi's War Mask
+
+Haku's Mask
+
+Nine Tails' Mask
+
+Mysterious Man's Mask
+
+Yamato's Anbu Mask
+
+Kakashi's Anbu Mask
+
+Anbu Mask 1
+
+Anbu Mask 2
+
+Anbu Mask 3
+
+Anbu Mask 4
+
+Anbu Mask 5
+
+Anbu Mask 6
+
+Anbu Mask 7
+
+Anbu Mask 8
+
+Hidden Ninja Mask 1
+
+Hidden Ninja Mask 2
+
+Hidden Ninja Mask 3
+
+Kakuzu's Water Release Mask
+
+Kakuzu's Lightning Release Mask
+
+Kakuzu's Fire Release Mask
+
+Kakuzu's Wind Release Mask
+
+Funny Mask
+
+Combination Ultimate Jutsu
+
+All Combination Ultimate Jutsu techniques featured in
+Naruto Shippūden: Ultimate Ninja Storm 4
+ return, along with some new additions:
+
+Naruto Uzumaki (Seventh Hokage), Hinata Hyūga (Road to Boruto) and Boruto Uzumaki (
+Uzumaki Twin Striking Palms
+)
+
+Sasuke Uchiha (Supporting Shadow), Sakura Haruno (Road to Boruto) and Sarada Uchiha (
+Uchiha Cherry Blossom Thunderclap
+)
+
+Naruto Uzumaki (Seventh Hokage) and Kawaki (
+Rasengan: "Ensemble"
+)
+
+Kawaki and Boruto Uzumaki (Kāma) (
+Rasengan: "Unison"
+)
+
+Jigen, Koji Kashin, Delta, and Boro (
+Kara Savagery
+)
+
+Hagoromo, Asura and Indra (
+Origin of Ninshū
+) (DLC)
+
+Asuma and Kurenai (
+Demonic Illusion: Tree Binding Wind Blade
+) (DLC)
+
+Asura, Hashirama (Sage Mode) and Naruto Uzumaki (
+Six Paths Sage Mode
+) (
+Six Paths: True Several Rasenshuriken
+) (DLC)
+
+Indra, Madara (Reanimation) and Sasuke (Rinnegan) (
+Tenhōjimetsu
+) (DLC)
+
+Boss Battles
+
+This is the list of confirmed returning boss battles from previous instalments, as well as new ones, featured in this game:
+
+History Mode
+
+Naruto Uzumaki vs. Shukaku
+
+Naruto Uzumaki and Sakura Haruno vs. Kakashi Hatake
+
+Naruto Uzumaki vs. Sasuke Uchiha (Orochimaru's Hideout)
+
+Sasuke Uchiha vs. Itachi Uchiha
+
+Naruto Uzumaki vs. Pain
+
+Naruto Uzumaki vs. Kurama
+
+Sasuke Uchiha/Itachi Uchiha vs. Kabuto Yakushi
+
+Hashirama Senju vs. Madara Uchiha
+
+Naruto Uzumaki and Sasuke Uchiha vs. Obito Uchiha
+
+Naruto Uzumaki vs. Sasuke Uchiha (Part II, Valley of the End)
+
+Special Story Mode
+
+Sasuke Uchiha vs. Naruto Uzumaki
+
+Boruto Uzumaki, Sarada Uchiha and Mitsuki vs. Nanashi Uchiha
+
+Boruto Uzumaki vs. Nanashi Uchiha
+
+Naruto Uzumaki and Sasuke Uchiha vs. Merz
+
+Boruto Uzumaki, Naruto Uzumaki and Sasuke Uchiha vs. Merz
+
+Boruto Uzumaki and Nanashi Uchiha vs. the Uchiha Clan
+
+Playable Stages
+
+Training Field
+
+Day
+
+Evening
+
+The
+Great Naruto Bridge
+
+The
+Forest of Death
+
+Chūnin Exams
+ Prelims Stage
+
+Chūnin Exams Finals Stage
+
+Lookout Tower
+
+Konohagakure Forest
+
+Day
+
+Evening
+
+Inn Town
+
+Grassy Waves Prairie
+
+Day
+
+Night
+
+Forest of Quiet Movement
+
+Day
+
+Evening
+
+Night
+
+Valley of the End
+
+Past
+
+Part I
+
+Rainy
+
+Clear
+
+Part II
+
+Final Battle
+
+Giant Mushroom Forest
+
+Konohagakure
+
+Part II
+
+Destroyed
+
+Ruined
+
+Under Reconstruction
+
+After the Great Ninja War
+
+Road to Boruto
+
+Sunagakure
+
+Sunagakure Gate
+
+Five Seal Barrier
+ Cliff
+
+Akatsuki Hideout
+
+Orochimaru's Hideout
+
+Normal
+
+Destroyed
+
+Forest of Dead Trees
+
+Sulphur Stone Temple
+
+Amegakure
+
+Upper
+
+Lower
+
+The
+Uchiha Hideout
+
+Normal
+
+Destroyed
+
+Storm Cloud Ravine
+
+Mount Myōboku
+
+Site of
+Planetary Devastation
+
+Five Kage Summit
+ Venue
+
+Great Snowfield of Iron
+
+Samurai Bridge
+
+On
+
+Under
+
+Waterfall of Truth
+
+Day
+
+Evening
+
+Tailed Beast Ruins
+
+Mountain Graveyard
+
+Lightning Desert
+
+Crashing Waves Coast
+
+The Wasteland at Dawn
+
+Great Ninja War Battlefield
+
+Hidden Snake Grotto
+
+Foot of
+God Tree
+
+Moonlit Battlefield
+
+Obliterated Battlefield
+
+Alternate Dimension
+
+Zone
+ of the
+First Orb
+
+Kaguya's Dimensions
+ (Kaguya enabled only)
+
+The Hokage's Mansion
+
+Chūnin Exam - Third Round Hall (Road to Boruto)
+
+Otherworld Divine Tree (Road to Boruto)
+
+Mountainous Region
+
+The
+Zero
+ Hideout
+
+Normal
+
+Destroyed
+
+Shinobi World Tournament
+
+Mode Exclusive Stages
+
+History Mode
+
+Great Ninja War Battlefield (Ten-Tails Revival)
+
+Mental World
+
+Valley of the End (River)
+
+Academy
+ (Story Secret Action flashback)
+
+Special Story Mode
+
+Nanashi's Space
+
+Uchiha Clan Territory
+
+Downloadable Content
+
+Season Pass
+
+
+
+
+
+
+
+Pre-Order Bonus Costume
+
+Naruto Uzumaki - Great Ninja War - End
+
+DLC Pack 1
+
+Character - Hagoromo Ōtsutsuki
+
+Combination Ultimate Jutsu - Origin of Ninshū
+
+12 Matching Voices
+
+5 Ninja Info Cards
+
+DLC Pack 2
+
+Character - Isshiki Ōtsutsuki
+
+2 Costumes
+
+Boruto Uzumaki -
+Time Travel
+
+Sasuke Uchiha (Wandering Shinobi) - Time Travel
+
+12 Matching Voices
+
+5 Ninja Info Cards
+
+DLC Pack 3
+
+Character - Kurenai Yūhi
+
+2 Combination Ultimate Jutsu
+
+Demonic Illusion: Tree Binding Wind Blade
+
+Six Paths: True Several Rasenshuriken
+
+12 Matching Voices
+
+5 Ninja Info Cards
+
+DLC Pack 4
+
+Character - Kawaki (Kāma Progression)
+
+2 Costumes
+
+Naruto Uzumaki - Ichiraku Ramen Costume
+
+Hinata Hyūga -
+Road to Sakura
+
+12 Matching Voices
+
+5 Ninja Info Cards
+
+DLC Pack 5
+
+Character - Boruto Uzumaki (Kāma Progression)
+
+1 Costume
+
+Boruto Uzumaki (with horn)
+
+Combination Ultimate Jutsu - Tenhōjimetsu
+
+12 Matching Voice
+
+5 Ninja Info Cards
+
+Miscellaneous DLC
+
+Pre-Order Costumes Pack
+
+These costumes were initially pre-order exclusive but were later sold in a pack.
+
+Naruto Uzumaki - The Final Battle
+
+Naruto Uzumaki - TV Anime 20th Anniversary
+
+Sasuke Uchiha - TV Anime 20th Anniversary
+
+Non-Standard Edition DLC Costumes
+
+Kakashi Hatake (Double Sharingan) - Maskless
+
+Minato Namikaze - Genin Outfit (Ultimate Digital and Premium Collector's Editions only)
+
+Kushina Uzumaki - Genin Outfit (Ultimate Digital and Premium Collector's Editions only)
+
+Sakura Haruno (Part II) - Wedding Outfit (Ultimate Digital and Premium Collector's Editions only)
+
+Ino Yamanaka (Part II) - Wedding Outfit (Ultimate Digital and Premium Collector's Editions only)
+
+Tenten (Part II) - Wedding Outfit (Ultimate Digital and Premium Collector's Editions only)
+
+Nostalgic Anime Song and Item Pack
+
+5 Anime Songs
+
+Far Away
+
+GO!!!
+
+Blue Bird
+
+Silhouette
+
+Wind
+
+3 Items
+
+Substitution Item: Microphone
+
+Substitution Item: Orange Headphones
+
+Ninja Info Card Skin: Nostalgic Anime Song Skin
+
+Free Updates
+
+Included with the performance patches for the game are free additional costumes, accessories and items. They only require in-game currency to purchase.
+
+Costumes
+
+Gaara (Five Kage Summit) - Travel Wear
+
+Hashirama Senju
+
+Reanimation - The Last Battle
+
+Reanimation - Warring States Period
+
+Reanimation - Hakama Pants
+
+Kaguya Ōtsutsuki
+
+Advent
+
+Sleepwear
+
+Killer B - BORUTO
+
+Madara Uchiha
+
+Reanimation - Rinne Rebirth
+
+Reanimation Release - Konohagakure
+
+Obito Uchiha
+
+Unmasked - w/o Tailed Beast
+
+Unmasked -
+Black Zetsu
+
+Possessed
+
+Orochimaru - BORUTO
+
+Tsunade
+
+with Hat
+
+w/o Haori Jacket
+
+Accessories
+
+Ethereal Butterfly Wings (Back & Waist)
+
+Red Rimmed Glasses (Face)
+
+Stuffed Mitsuki (Arms)
+
+Substitution Items
+
+Stuffed Panda
+
+Trivia
+
+The characters they use
+Fire Release: Great Fireball Technique
+ and
+Water Release: Water Dragon Bullet Technique
+ and
+Poison
+ will be aligned with the movement of throwing shuriken.
+
+The feature to customise the appearance of playable characters, first introduced in
+Naruto Shippūden: Ultimate Ninja Storm Revolution
+, finally makes a reappearance after being omitted in the
+previous game
+.
+
+It is unknown where in the timeline the Special Story takes place - it appears to at the least follow after
+Boruto: Naruto the Movie
+, as Boruto is clearly shown with his
+Kāma
+.
+
+The developers were accused by the English voice actors from the game to have re-dubbed over their lines with AI. The developers revealed that the questionable voice work was just the result of poor editing, and that it will be fixed in a later update.
+
+External Links
+
+Official Japanese website
+
+Official English website
+
+References

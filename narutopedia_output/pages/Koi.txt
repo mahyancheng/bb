@@ -1,0 +1,5 @@
+wikipedia:Koi
+
+This page is a
+soft redirect
+.

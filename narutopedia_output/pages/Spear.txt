@@ -1,0 +1,5 @@
+Wikipedia:Spear
+
+This page is a
+soft redirect
+.

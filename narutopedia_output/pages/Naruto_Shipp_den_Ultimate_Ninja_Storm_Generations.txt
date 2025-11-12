@@ -1,0 +1,1522 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 467355486
+ of
+Wikipedia
+'s
+Naruto Shippuden: Ultimate Ninja Storm Generations
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+Naruto Shippūden: Ultimate Ninja Storm Generations
+ is the sequel to
+Naruto Shippūden: Ultimate Ninja Storm 2
+. It was released on March 30th 2012 in Europe, March 13th in North America, and February 23rd in Japan for the
+PlayStation 3
+ and
+Xbox 360
+ and supports worldwide online matches. The game starts from the beginning of
+Naruto
+, from
+Prologue — Land of Waves
+, all the way to the battles at the
+Five Kage Summit arc
+, and also includes anime cutscenes from the
+Fourth Shinobi World War: Countdown
+.
+
+Gameplay
+
+
+
+
+
+Naruto, in his Nine-Tails Chakra Mode, as depicted in the game.
+
+
+
+While carrying several elements seen in previous entries, the game shows several new features and changes. The battle system has been modified for smoother gameplay.
+
+The game now implements a new status metre that limits the amount of Body Replacement Techniques that can be performed up to only 4 times maximum; while using it is less about timing and more about personal decision, spamming it can result in the metre recovering much slower which still rewards conservation of the metre and avoiding as much damage as possible altogether. With this in mind, players can now more effectively deplete the escape resources of their opponents to now fully commit to offence, unlike the low-resource-cost-issue of the prior Body Replacement mechanic. Likewise, the recovery speed of the gauge also is determined by how much damage a character is taking, with all forms of regeneration resetting upon a Body Replacement being used and regenerating once more after a certain amount of time passes.
+
+This game alone also introduces many other intricate mechanics, such as:
+
+Cancelling both neutral/close-range attacks and tilt/mid-range attacks into a neutral jump (which is buffered until the end of the chosen attacking animation), allowing characters to cancel into air actions such as jumping attacks and jumping ninja tool throws, especially when tapped to perform them as low to the ground as possible.
+
+However, the old ninja dash cancel still exists when input the same way.
+
+Cancelling both neutral/close-range attacks and tilt/mid-range attacks into a ninja move by combining a direction with a single jump button tap (which due to the ninja move as mentioned to be triggered only when in an airborne state, effectively allows characters to perform this as close to the ground as possible). Like the neutral jump cancel, it too can be buffered until the end of the chosen attack animation. Ninja move cancelling to the side within close range of the foe automatically makes the user circle around the opposition.
+
+Characters such as Minato and Danzō with projectile-based tilt moves can make use of this to loop their tilt moves and ninja move cancels into each other for continuous zoning (as ninja moves can already be cancelled into mid-range attacks/tilt attacks).
+
+Said ninja move cancel with the prior ability to cancel into grabs since the first instalment now allows most attacks to be indirectly-cancelled into grabs for mixups (or on some characters' string inputs with enough hitstun, to indirectly combo into grabs likewise).
+
+The prior option to cancel any ninja move into a ninja tool throw (chakra-version as well), mid-ranged attacks as aforementioned, U1s/Jutsus and U2s/Ultimates allows for the ninja move cancel to also double as a fake-out/frame-trap. This can also be used mid-attack to be able to cancel a ninja move into either one of these states in order to perform a Body Replacement Technique if hit (as like in the first game, if hit during a ninja move, the users' Body Replacements cannot be registered).
+
+Even then, cancelling close-range attacks and mid-range attacks with these mechanics varies for each character due to the nature of their strings in general during offence and/or blockstrings due to as aforementioned, the cancels buffering at the end of the chosen animation.
+
+A new midair chakra dash is added that can cover vertical angles (though a "perfect" version can be performed where it has less drawbacks via being aimed at either a 0 degree or 180 degree angle). Mastering this is essential to low-aerial approaches to setup for grounded juggles or landing-lag frame-traps.
+
+If a character is already in midair, then the grounded character's grounded Chakra Dash is automatically converted into an airborne one to chase after them.
+
+Ninja moving in certain directions can also convert into air chakra dashes likewise instead of grounded ones.
+
+However, a blocked midair chakra dash if done at an angle that allows for the bounce, has recoil for the user which even if possible, does not allow for extra air actions to be done before landing.
+
+Cancelling a close-range attack/neutral string input into any type of Chakra Dash, dubbed as the Spark Cancel as a yellow lightning flash appears around the character. However, Spark Cancels cost a bit more chakra compared to default Chakra Dashes.
+
+However, this cannot be performed on tilt/mid-range attacks. Spark Cancels though, can be performed on midair strings to at least briefly re-enable midair actions or midair string extensions.
+
+Cancelling a grounded Chakra Dash into a block/guard, which possesses some endlag as they effectively have a braking animation for it. However, the said endlag is partially cancel-able some actions such as a into a chakra tool throw which is useful as a mixup for some situations.
+
+More characters, especially from Part 1, gained the ability to naturally cancel their tilt/mid-range attacks into neutral string/close-range attack inputs compared in
+Storm 2
+.
+
+Some characters now selectable alternate versions of their U1s/Jutsu (and/or their U2s/Ultimate Jutsu) when selected with the R1/RB button on the character select screen.
+
+More D-Pad ninja items are added, but only a few are actually applied as defaults to characters.
+
+The Frenzy Pill, where you take more damage in exchange for super armor.
+
+The Cohesion Tag (also dubbed as a "Team Pill"), which makes your support metre recover quicker.
+
+The Dummy Tag (also dubbed as a "Sub Pill"), which increases the overall regeneration rate of the Body Replacement Gauge.
+
+The Sleep Pill, which when hitting someone with this causes the victim to fall asleep. This item is not part of any characters' default item set.
+
+The Chakra Seal Tag, which causes the victim to be unable to use or charge chakra. This item is not part of any characters' default item set.
+
+The Chakra Suction Tag, which saps the victim's chakra and gives it to the user. This item is not part of any characters' default item set.
+
+Supports somehow act much quicker when called during an attack string.
+
+Because of these new cancel mechanics (especially with the jump cancel and ninja move cancel in mind), the game's higher levels of play has higher enforcement of ground-to-low-air approaches and movement option cancels for a more movement-heavy-based neutral. Short-hop movement is now even more vital than before in order to zone properly with tool throws while on the move. These specific cancels have all remained as mainstay mechanics in later
+Storm
+ games, albeit with specific tweaks in each title.
+
+The story mode is divided between both Part I focusing mainly on Naruto, Gaara and both Zabuza and Haku's stories, and with Part II (respectively featuring the younger and older incarnations from the series' characters). Even then, they are now mainly divided by specific characters this time around as opposed to a standard overarching story.
+
+The role-playing game elements from
+Naruto Shippūden: Ultimate Ninja Storm 2
+'s story mode were removed in favour of consecutive battles, thus reducing the time spent during the mode. Although it mainly focuses on Naruto Uzumaki's adventures for 2 stories and Sasuke Uchiha's for 1, the rest are featured as new sidestories lead by supporting characters such as Minato Namikaze and Itachi Uchiha that will expand their backgrounds.
+
+While the game covers both Part I and Part II, all of the characters created for the original episodes will be playable. New animated cutscenes will be used for the story mode. With 72 playable characters and 15 supports, the game includes the other current Kage introduced in Part II, as well as Kakashi Hatake's team during his childhood via mixing in elements of Kakashi Gaiden. Few characters appear assisting such as Fū and Torune who are teamed up with the aforementioned Danzō Shimura.
+
+New stages with purple barriers also now exist, which are stages from the first
+Storm
+ game with new properties, albeit the said purple barriers act as walls which can allow for easy wall-splats (which some characters can easily abuse for huge damage rack-ups).
+
+Development
+
+Naruto Shippūden: Ultimate Ninja Storm Generations
+ was first announced by Namco Bandai Games in late June from 2011 in the manga magazine
+Weekly Shōnen Jump
+, promising the return of Part I characters, most notably Zabuza Momochi and Haku in response to their popularity within fans. With the addition of these characters, the staff comments the game will have a wider variety of battles than the previous game. The initial gameplay was modified during November 2011 to further balance the fights. The game's official website opened shortly afterwards. Producer Yusuke Sasaki commented the staff wanted to give combat a greater focus than its prequels. The term "Generations" was used, standing for "the ultimate ninja battle that crosses generations". The game is meant to satisfy the gamers' wishes and interests regarding the series according to Hiroshi Matsuyama, the president of CyberConnect2. Matsuyama also commented the story mode is different from
+Naruto Shippūden: Ultimate Ninja Storm 2
+, with Part II meant to have a different impact in the gamers. Studio Pierrot, the developer of the Naruto and Naruto: Shippūden anime series, aided CyberConnect2 in the making of new storylines to be featured in the game, resulting in new 60 minutes of created animation. On January 3, the demo release date was announced in the Jump Magazine. It was officially released January 24, 2012 on the Japanese PlayStation Store only. It contains 3 battles which are fighting Sasuke, Pain, and Tobi. The North American demo was released on the PlayStation Store on February 21st and on the Xbox Live Marketplace on February 28th with the same three battles, but with the option to choose between English and Japanese voices.
+
+In November 2011, Namco Bandai announced the game would be released in Japan on February 23, 2012. Pre-orders will included a CD soundtrack from the game and the prequels,
+Ultimate Ninja Storm
+ and
+Ultimate Ninja Storm 2
+, under the title of "Ultimate Ninja Storm Best Sound" (
+ナルティメットストームBestSound?
+) composed by Chikayo Fukuda. Additionally, during following dates, the game was announced to be released in North America and Europe in March 13, 2012 and March 30, 2012, respectively, also by Namco Bandai. Like the Japanese version, the European port will include a CD soundtrack, promoting "the first official rap single of
+Killer B
+". Namco Bandai Europe also announced a card edition including 50 cards a poster with words from
+Masashi Kishimoto
+ and 8 cards for online. The card edition was never released in the UK but those who pre-ordered the Card edition on Zavvi.com as it was a exclusive to Zavvi.com would recieve an "alternative bundle" packed with a A3 Poster, 2 booster packs and a starter pack with the video game. But the actual card edition was still released in other parts of Europe.
+
+Anime Cutscenes
+
+The anime cutscenes for the story mode of the game were produced by Studio Pierrot who are in charge of the anime. They worked very closely with CyberConnect2 to create new content that is considered anime canon (unless they contradict either it or the manga) with totally new scenes and new interpretations for the old ones with major or minor changes. The whole can be seen as an exclusive sixty-minutes OVA, each segment narrated except for the Tale of Killer B, which is more along the line of a music video than a storyline.
+
+Tale of Naruto Uzumaki (2 cutscenes — 1, 2): Narrated by
+Hiruzen Sarutobi
+.
+
+Tale of Sasuke Uchiha (2 cutscenes — 3, 4): Narrated by Hiruzen Sarutobi.
+
+Tale of young Naruto Uzumaki (2 cutscenes — 5, 6): Narrated by Hiruzen Sarutobi.
+
+Tale of Jiraiya (2 cutscenes — 7, 8): Narrated by
+Jiraiya
+.
+
+Tale of Itachi Uchiha (2 cutscenes — 9, 10): Narrated by
+Tobi
+.
+
+Tale of Zabuza Momochi and Haku (2 cutscenes — 11, 12): Narrated by
+Kakashi Hatake
+.
+
+Tale of Minato Namikaze (2 cutscenes — 13, 14): Narrated by
+Minato Namikaze
+.
+
+Tale of Kakashi Hatake (2 cutscenes — 15, 16): Narrated by Kakashi Hatake.
+
+Tale of Gaara (2 cutscenes — 17, 18): Narrated by
+Gaara
+.
+
+Tale of Madara Uchiha (2 cutscenes — 19, 20): Narrated by Tobi.
+
+Tale of Killer B (5 cutscenes — 21, 22, 23, 24, 25): Recited by
+Killer B
+.
+
+Differences/Changes
+
+Some anime cutscenes of the game differ from the original anime scenes. Not only are the scenes changed, but also the colouring and lighting of some of the techniques are also lightly changed. For all cutscenes, there are rarely any blood and no amputation.
+
+Tale of young Naruto Uzumaki
+
+In the first cutscene, instead of painting graffiti on the stone faces, Naruto paints his own face next to the Hokage faces.
+
+In the final cutscene, When Naruto and Sasuke have their final battle they yell out each other's names. In the anime, they yell their technique's names.
+
+Tale of Jiraiya
+
+In the second cutscene,
+Fukasaku
+ and
+Shima
+ are not present when Jiraiya faces the Six Paths of Pain.
+
+Tale of Zabuza Momochi and Haku
+
+In the first cutscene, Kakashi uses Lightning Cutter twice instead of once when trying to kill Zabuza, Zabuza being protected by Haku.
+
+In the first cutscene, Naruto and Sasuke use kunai to defend against Haku's Demonic Mirroring Ice Crystals instead of Shadow Clone Technique by Naruto and Fire Release: Great Fireball Technique by Sasuke.
+
+In the second cutscene, Zabuza's death is changed from being impaled by various weapons from
+Gatō
+'s men to being beaten to death.
+
+Tale of Minato Namikaze
+
+In the first cutscene,
+Kurama
+'s chakra tempts Naruto to release it during his battle with Pain rather than the fox controlling him. As Naruto is launching several punches, they all miss instead of hitting Minato.
+
+In both cutscenes, the background of where Minato talked with Naruto is an
+aurora
+ like colour.
+
+In the second cutscene, Minato does not restore the Nine-Tails seal.
+
+Tale of Gaara
+
+In the first cutscene, instead of Gaara protecting Sasuke from A's attack, he protects A from Sasuke's Amaterasu.
+
+In both cutscenes, Gaara battles Sasuke one on one, with only Kankurō and Temari around him.
+
+In both cutscenes, the bones of Sasuke's Susanoo are white.
+
+Playable Characters
+
+Character
+
+Awakening Mode(s)
+
+Additional Outfit(s)
+
+Naruto Uzumaki
+
+One-Tailed Form
+,
+Four-Tailed Form
+
+Playable in Part I and Part II versions
+
+Sage
+
+Naruto
+
+Six-Tailed Form
+
+Naruto Uzumaki
+
+Nine-Tails Chakra Mode
+
+Sakura Haruno
+
+Maiden's Anger Mode
+,
+Herculean Mode
+
+Playable in Part I and Part II versions
+
+Sai
+
+Fast Writing Mode
+
+Sasuke Uchiha
+
+Curse Mark Mode
+,
+Sharingan
+
+Playable in Part I and Part II versions, playable with
+Chūnin Exams
+ outfit, Playable in Hebi and Black Costume in Part II
+
+Sasuke Uchiha
+ (
+Taka
+)
+
+Mangekyō Sharingan Mode
+
+Sasuke Uchiha
+ (
+Susanoo
+)
+
+Susano'o Mode
+
+Karin
+
+Angry Mode, Attracted Mode (against Sasuke)
+
+Suigetsu Hōzuki
+
+Water Arm Mode
+
+Jūgo
+
+Curse Mark Mode
+
+Shikamaru Nara
+
+Shadow Imitation Mode
+,
+Strategy Mode
+
+Playable in Part I and Part II versions
+
+Ino Yamanaka
+
+Covered with Flowers Mode
+,
+Hundred Scattered Flowers Mode
+
+Playable in Part I and Part II versions
+
+Chōji Akimichi
+
+Expansion Mode
+,
+Berserker Rage Mode
+
+Playable in Part I and Part II versions
+
+Kiba Inuzuka
+
+Fang Mode
+,
+Food Pills Mode
+
+Playable in Part I and Part II versions
+
+Shino Aburame
+
+Beetle Mode
+
+Playable in Part I and Part II versions
+
+Hinata Hyūga
+
+Byakugan Mode
+,
+Twin Lion Fists Mode
+
+Playable in Part I and Part II versions
+
+Gaara
+
+Brutal Sand Mode
+,
+Kazekage Mode
+
+Playable in Part I and Part II versions
+
+Temari
+
+Wind Covered Mode
+,
+Heavenly Fan Dance Mode
+
+Playable in Part I and Part II versions
+
+Kankurō
+
+Salamander Mode
+,
+Puppet Dance Mode
+
+Playable in Part I and Part II versions
+
+Rock Lee
+
+Eight Gates Mode
+
+Playable in Part I and Part II versions
+
+Neji Hyūga
+
+Byakugan Mode
+
+Playable in Part I and Part II versions
+
+Tenten
+
+Ninja Tool Summon Mode
+,
+Ninja Tool Mode
+
+Playable in Part I and Part II versions
+
+Kakashi Hatake
+
+Sharingan Mode
+
+Young
+Kakashi
+
+White Light Blade Mode
+
+Obito Uchiha
+
+Sharingan Mode
+
+Yamato
+
+Wood Style Mode
+
+Might Guy
+
+Eight Gates Mode
+
+Asuma Sarutobi
+
+Flying Swallow Mode
+
+Hashirama Senju
+
+Wood Release Ninjutsu Mode
+
+Tobirama Senju
+
+Water Release Ninjutsu Mode
+
+Hiruzen Sarutobi
+
+Hokage Mode
+
+Minato Namikaze
+
+Yellow Flash Mode
+
+Playable with Flak Jacket and
+Hokage
+ costume
+
+Jiraiya
+
+Sage Mode
+
+Orochimaru
+
+White Snake Mode
+
+Tsunade
+
+Herculean Mode
+
+Chiyo
+
+Chikamatsu Ten Puppets Mode
+
+A (Fourth Raikage)
+
+Raikage Mode
+
+Killer B
+
+Full Eight-Tails Mode
+
+Mei Terumī
+
+Mizukage Mode
+
+Ōnoki
+
+Tsuchikage Mode
+
+Pain
+
+God Mode
+
+Konan
+
+Angel Mode
+
+Itachi Uchiha
+
+Tsukuyomi Mode
+,
+Susano'o Mode
+
+Kisame Hoshigaki
+
+Samehada Fusion Mode
+
+Hidan
+
+Jashin Ritual Mode
+
+Kakuzu
+
+Shinzo Mode
+
+Deidara
+
+C2 Dragon Mode
+
+Sasori
+
+Human Puppet Mode
+
+Tobi
+
+Sharingan Mode
+
+Playable as the
+Masked Man
+
+Kabuto Yakushi
+
+Chakra Scalpel Mode
+,
+Snake Mode
+
+Playable with
+Snake Cloak
+
+Kimimaro
+
+Curse Mark Mode
+
+Zabuza Momochi
+
+Demon Mode
+
+Haku
+
+Ice Mode
+
+Danzō Shimura
+
+Released Seal Mode
+
+Support-Only Characters
+
+Kurenai Yūhi
+
+Shizune
+
+Anko Mitarashi
+
+Darui
+
+C
+
+Chōjūrō
+
+Ao
+
+Kurotsuchi
+
+Akatsuchi
+
+Sakon and Ukon
+
+Tayuya
+
+Kidōmaru
+
+Jirōbō
+
+Fū Yamanaka
+
+Torune Aburame
+
+Teams
+
+Parenthesis indicates what are the members of the teams:
+
+A–B Combo
+ (
+Killer B
+ and
+A
+)
+
+Aburame clan
+ (
+Shino
+ and
+Torune
+)
+
+Adamantine Power (
+Tsunade
+ and
+Hashirama
+)
+
+Aiming for Sasuke (
+Sakura
+,
+Ino
+, and
+Karin
+)
+
+Akatsuki
+ (three Akatsuki members)
+
+All Boys (
+Sai
+ and
+Sasuke
+)
+
+Animal Lovers (
+Jūgo
+,
+Kiba
+, and
+Shizune
+)
+
+Apprenticeship Aspiration (Part I Sakura and Tsunade)
+
+Artists (
+Deidara
+ and
+Sasori
+)
+
+"Best Friends" (
+Naruto
+ and Sasuke)
+
+Blade Masters (
+Suigetsu
+ and
+Zabuza
+)
+
+Bonds of Love (
+Asuma
+ and
+Kurenai
+)
+
+Boys on the Battlefield (Young
+Kakashi
+,
+Minato
+, and
+Obito
+)
+
+Brotherly Love (Sasuke and
+Itachi
+)
+
+Byakugan
+ Users (
+Neji
+,
+Hinata
+, and
+Ao
+)
+
+Camp Friends (Jūgo and
+Kimimaro
+)
+
+Children of Prophecy (Naruto and
+Pain
+)
+
+Chubby (Chōji,
+Akatsuchi
+, and
+Jirōbō
+)
+
+Chūnin Exam Supervisors (
+Shikamaru
+ and
+Temari
+)
+
+Curse Mark
+ (any combination involving Sasuke, Jūgo,
+Anko
+, and
+Sound Five
+ members)
+
+Cursed Ties (
+Orochimaru
+ and Anko)
+
+Dangerous Characters (Itachi and
+Kisame
+)
+
+Duo of Fate (Minato and
+Masked Man
+)
+
+Eat or be Eaten (Killer B and Kisame)
+
+Eternal Friends (Shikamaru and Chōji)
+
+Eternal Rivals (
+Guy
+ and Kakashi)
+
+Fastest in History (Minato and A)
+
+From Anbu Black Ops (Kakashi,
+Yamato
+, and Itachi)
+
+Genes of the First Hokage (Hashirama, Yamato, and Danzō)
+
+Generations (Naruto and Part I Naruto)
+
+God and Angel (Pain and
+Konan
+)
+
+Grandmother and Grandchild (Sasori and
+Chiyo
+)
+
+Gusty Master and Student (Part I Naruto and
+Jiraiya
+)
+
+Five Kage Summit (any combination involving
+Gaara
+, A, Danzō,
+Mei
+, and
+Ōnoki
+)
+
+Foundation Members (any combination involving Danzō, Sai,
+Fū
+, and Torune)
+
+Hebi
+ (Sasuke and/or other Hebi members)
+
+Hidden Cloud Ninja (any combination involving A, Killer B,
+Darui
+, and
+C
+)
+
+Hidden Mist Natives (any combination involving Mei, Suigetsu, Kisame, Zabuza,
+Haku
+,
+Chōjūrō
+, and Ao)
+
+Hidden Rain Master and Student (Jiraiya, Pain, and Konan)
+
+Hidden Rock Natives (any combination involving Ōnoki, Deidara, Akatsuchi, and
+Kurotsuchi
+)
+
+Hokage & Aid (Tsunade and Shizune)
+
+Hot-Blooded Master and Student (
+Lee
+ and Guy)
+
+The Hyūga Clan (Neji and Hinata)
+
+Immortal Duo (
+Kakuzu
+ and
+Hidan
+)
+
+Inherited Necklace (Naruto, Tsunade, and Hashirama)
+
+Inherited Will (Shikamaru and Asuma)
+
+Ino–Shika–Chō (Shikamaru, Ino, and Chōji)
+
+Jinchūriki (Naruto, Gaara, and Killer B)
+
+Jiraiya's Apprentices (any combination involving Naruto, Minato, Pain, and Konan)
+
+Junior and Senior (
+Tobi
+ and Deidara)
+
+Kazekage's Group (Three Sand Siblings)
+
+Leaf Chūnin (three of the
+Konoha 11
+ other than Naruto, Sasuke, Neji, Obito, and Part I Chūnin Shikamaru)
+
+Leaf Genin (Naruto and two of the Konoha 11 other than Part I Chūnin Shikamaru)
+
+Leaf Higher-Ups (any combination involving Kakashi, Yamato, Danzō, Tsunade, Guy, Asuma, Jiraiya,
+Hiruzen
+,
+Tobirama
+, Hashirama, Minato, and Shizune)
+
+Leaf Jōnin (any combination involving Neji, Minato, Kakashi, Yamato, Guy, Asuma, Kurenai, and Shizune)
+
+Leaf Peers (Naruto, and/or Sai, and two of the Konoha 11)
+
+Leaf Sensei (any combination involving Kakashi, Guy, Asuma, and Kurenai)
+
+Leaf's Light and Shadow (Hiruzen and Danzō)
+
+Legendary Guts (Naruto, Jiraiya, and Minato)
+
+The
+Legendary Sannin
+ (all three Sannin)
+
+Like Cats and Dogs (Karin and Suigetsu)
+
+Love Triangle (Part I versions of Sasuke, Sakura, and Ino)
+
+Make-Out Comrades (Kakashi and Jiraiya)
+
+Mangekyō Sharingan
+ (Taka Sasuke, Itachi, and Kakashi)
+
+Masked Ninja (Tobi or Masked Man, Kakuzu, and Haku)
+
+Mature Women (any combination involving Tsunade, Kurenai, Anko, Shizune, Mei, and Konan)
+
+Medical Specialists (any combination involving Sakura, Tsunade or Shizune, and
+Kabuto
+)
+
+Mist Assassins (Zabuza and Haku)
+
+Mist Ninja Swords (any combination involving Suigetsu, Kisame, Zabuza, and Chōjūrō)
+
+Mizukage's Group (Mei, Chōjūrō, and Ao)
+
+Monster Strength (Sakura and Tsunade)
+
+Mutual Respect (Jiraiya and Minato)
+
+My Son's Enemy!? (Kakashi and Chiyo)
+
+New Hokage's Group (Danzō, Fū, and Torune)
+
+New Jutsu Development Team (Naruto, Kakashi, and Yamato)
+
+Nostalgic Team Kakashi
+ (Kakashi and two Part I Team Seven members)
+
+Odd Beast and Scourge (Guy and Kisame)
+
+Old Friends (Jiraiya and Tsunade)
+
+Ones of Wind Nature (Naruto and Asuma)
+
+Orochimaru Band (any combination involving Orochimaru, Kabuto, Sasuke, Karin, Jūgo, Suigetsu, and Sound Five members)
+
+Parent & Child (Naruto and Minato)
+
+Past Hokages
+ (Any combination involving Hashirama, Tobirama, Hiruzen, Minato, Tsunade, and Danzō)
+
+Powerful Tag Team (Sakura and Chiyo)
+
+Puppet Masters (Sasori,
+Kankurō
+, and Chiyo)
+
+Raikage's Group (A, Darui, and C)
+
+Reanimation's Vessel (Part I Sasuke and Kimimaro)
+
+Reliable Allies (Part I Kiba and Part I Kankurō)
+
+Rivals in Love (Sakura and Ino)
+
+Sages
+ (Sage Naruto and Jiraiya)
+
+The
+Three Sand Siblings
+ (all three members)
+
+Sarutobi Clan (Asuma and Hiruzen)
+
+Sasuke Rescue Mission
+ (any combination of the Part I versions of Naruto, Chūnin Shikamaru, Chōji, Neji, and Kiba)
+
+Secret Lovers (Naruto and Hinata)
+
+Senju Siblings (Hashirama and Tobirama)
+
+Shadow Women (Tsunade and Mei)
+
+Sharingan (any combination involving Sasuke, Kakashi, Danzō, Itachi, and Obito)
+
+Snake and Tactician (Orochimaru and Kabuto)
+
+Snake Cell (Orochimaru, Sasuke, and Snake Cloak Kabuto)
+
+Snake Masters (Orochimaru, Anko, and Snake Cloak Kabuto)
+
+The Sound Ninja Five (Kimimaro and two of the Sound Four)
+
+Spectacle Ninja (any combination involving Killer B, Karin, Kabuto, Shino, and Chōjūrō)
+
+Sublime Art (Itachi and Deidara)
+
+Sweet Tooth Duo (Temari and Anko)
+
+Taka
+ (Taka Sasuke and other Taka members)
+
+Taka and Hebi (Sasuke and Orochimaru)
+
+Team Asuma
+ (Asuma and two members of Ino–Shika–Chō)
+
+Team Guy
+ (Team Guy members)
+
+Team Hiruzen
+ (Hiruzen and two of the Sannin)
+
+Team Kakashi
+ (all three Team Kakashi members)
+
+Team New Kakashi
+ (any combination involving Naruto, Sakura, Sai, and Yamato)
+
+Team Kurenai
+ (Team Kurenai members)
+
+Team Seven
+ (three Team Seven members)
+
+Team 7 Captains (Kakashi and Yamato)
+
+The Two, Grown up (Sage Naruto and Taka Sasuke)
+
+Those Steeped in Darkness (Orochimaru, Sasuke, and Kabuto)
+
+Those Who Know Loneliness (Naruto and Gaara)
+
+The Truth of the Uchiha (Taka Sasuke and Tobi)
+
+Tsuchikge's Group (Ōnoki, Akatsuchi, and Kurotsuchi)
+
+Tsunade and Pupil (Tsunade, Sakura, and Shizune)
+
+Uchiha Clan (any combination involving Sasuke, Part I Sasuke, Itachi, and Obito)
+
+Utterly Gusty Master and Student (Naruto and Jiraiya)
+
+Whiskered Warriors (any combination involving Hiruzen, Asuma, Killer B, A, and Ōnoki)
+
+Worthy Past Opponents (Young Kakashi and Obito)
+
+Yamanaka Clan (Ino and Fū)
+
+Playable Stages
+
+Konohagakure
+ (Part I, Normal, Destroyed, Ruined)
+
+Training Field
+ (Day, Evening)
+
+Grassy Waves Prairie
+
+Forest of Death
+
+Forest of Quiet Movement (Day, Evening, Night)
+
+Konohagakure Forest (Day, Evening)
+
+Five Kage Summit Venue
+
+Great Naruto Bridge
+
+Orochimaru's Hideout (Normal, Destroyed)
+
+Akatsuki Hideout
+
+The
+Uchiha Hideout
+ (Normal, Destroyed)
+
+Forest of Dead Trees
+
+Amegakure
+ (Upper, Lower)
+
+Chūnin Exams
+ Stadium
+
+Chūnin Exams
+ Preliminary Arena
+
+Lookout Tower
+
+Valley of the End
+ (Clear Weather, Rainy Weather)
+
+Bridge in the Land of Iron
+
+Snowfield
+
+Storm Cloud Ravine
+
+Madara's Hideout
+
+Site of Planetary Devastation
+
+Five-Seal Barrier
+ Cliff
+
+Sunagakure Gate
+
+Sunagakure
+
+Mount Myōboku
+
+Inn Town
+
+Trophies/Achievements
+
+Trophies/Achievements
+
+Condition
+
+Trophy Type
+
+Gamerscore
+
+Tale of Naruto Uzumaki complete
+
+Completed Tale of Naruto Uzumaki.
+
+Bronze
+
+15G
+
+Tale of Sasuke Uchiha complete
+
+Completed Tale of Sasuke Uchiha.
+
+Bronze
+
+15G
+
+Tale of Young Naruto complete
+
+Completed Tale of Young Naruto.
+
+Bronze
+
+15G
+
+Substitution Jutsu Master
+
+Substitution Jutsu collected: 80%
+
+Bronze
+
+15G
+
+Ninja Info Card Collector
+
+Ninja Info Card images collected: 50%
+
+Bronze
+
+5G
+
+Ninja Tool Master
+
+Ninja Tools collected: 80%
+
+Bronze
+
+15G
+
+Image Master
+
+Images collected: 80%
+
+Bronze
+
+15G
+
+Ultimate Jutsu Movie Master
+
+Ultimate Jutsu scenes collected: 80%
+
+Bronze
+
+15G
+
+First S Rank!
+
+You've earned your first S rank in a battle.
+
+Bronze
+
+5G
+
+Introductory Stage Survivor!
+
+You've completed all of Introductory Survival.
+
+Bronze
+
+15G
+
+Beginner Survivor!
+
+You've completed all of Beginner Survival.
+
+Bronze
+
+15G
+
+Intermediate Survivor!
+
+You've completed all of Intermediate Survival.
+
+Bronze
+
+15G
+
+Advanced Survivor!
+
+You've completed all of Advanced Survival.
+
+Bronze
+
+15G
+
+10 Down
+
+You've defeated 10 opponents in Ultimate Survival.
+
+Silver
+
+30G
+
+Team Seven Tournament Champ!
+
+You've completed the Team Seven Tournament.
+
+Bronze
+
+15G
+
+Sand Genin Tournament Champ!
+
+You've completed the Sand Genin Tournament.
+
+Bronze
+
+15G
+
+Boy's Life Tournament Champ!
+
+You've completed the Boy's Life Tournament.
+
+Bronze
+
+15G
+
+New Team Seven Tournament Champ!
+
+You've Completed the New Team Seven Tournament.
+
+Bronze
+
+15G
+
+Leaf Chunin Tournament Champ!
+
+You've completed the Leaf Chunin Tournament.
+
+Bronze
+
+15G
+
+Ultimate Ninja Tournament Champ!
+
+You've completed the Ultimate Ninja Tournament.
+
+Bronze
+
+15G
+
+Leaf Higher-Up Tournament Champ!
+
+You've completed the Leaf Higher-Up Tournament.
+
+Bronze
+
+15G
+
+Shippuden Tournament Champ!
+
+You've completed the Shippuden Tournament.
+
+Bronze
+
+15G
+
+Peerless Ninja Tournament Champ!
+
+You've completed the Peerless Ninja Tournament.
+
+Bronze
+
+15G
+
+Akatsuki Tournament Champ!
+
+You've completed the Akatsuki Tournament.
+
+Bronze
+
+15G
+
+Five Kage Tournament Champ!
+
+You've completed the Five Kage Tournament.
+
+Bronze
+
+15G
+
+First Shopping!
+
+You've done your first shopping.
+
+Bronze
+
+5G
+
+First Ninja Tool Edit!
+
+You've edited a ninja tool set for the first time.
+
+Bronze
+
+5G
+
+Wealthy Ninja
+
+You've earned a total of 1,000,000 Ryo.
+
+Silver
+
+50G
+
+I'm the greatest ninja!
+
+You've acquired all trophies./You've unlocked all achievements.
+
+Platinum
+
+0G
+
+Secret Trophies/Achievements
+
+Tale of Minato Namikaze complete
+
+Completed Tale of Minato Namikaze.
+
+Bronze
+
+15G
+
+Tale of Itachi Uchiha complete
+
+Completed Tale of Itachi Uchiha.
+
+Bronze
+
+15G
+
+Tale of Madara Uchiha complete
+
+Completed Tale of Madara Uchiha.
+
+Bronze
+
+15G
+
+Tale of Zabuza and Haku complete
+
+Completed Tale of Zabuza and Haku.
+
+Bronze
+
+15G
+
+Tale of Jiraiya complete
+
+Completed Tale of Jiraiya.
+
+Bronze
+
+15G
+
+Tale of Gaara complete
+
+Completed Tale of Gaara.
+
+Bronze
+
+15G
+
+Tale of Kakashi Hatake complete
+
+Completed Tale of Kakashi Hatake.
+
+Bronze
+
+15G
+
+Tale of Killer Bee complete
+
+Completed Tale of Killer Bee.
+
+Bronze
+
+15G
+
+Card Collection Master
+
+Ninja Info Card images collected: 80%
+
+Gold
+
+100G
+
+Alias Master
+
+Titles collected: 80%
+
+Gold
+
+100G
+
+Gimme a Hand!
+
+You can now use all support characters.
+
+Bronze
+
+5G
+
+Master Survivor!
+
+You've completed all of Survival Mode.
+
+Silver
+
+30G
+
+Five Kage Summit
+
+All Kage at the Five Kage Summit can now be used.
+
+Bronze
+
+5G
+
+Past Hokages
+
+You can now use all past Hokages.
+
+Bronze
+
+5G
+
+Younger Version
+
+You can use all characters of the Young Version.
+
+Bronze
+
+15G
+
+Shippuden
+
+You can use all the characters from Shippuden.
+
+Bronze
+
+15G
+
+Game Master!
+
+You've played for a total of over 30 hours.
+
+Bronze
+
+30G
+
+Ninja Lover!
+
+You've used all leader characters.
+
+Gold
+
+50G
+
+Ultimate Ninja Gathering
+
+You can now use all characters.
+
+Silver
+
+50G
+
+Tournament Champ!
+
+You've completed all Challenge Tournaments.
+
+Silver
+
+30G
+
+Glitches
+
+There is a glitch that allows the player to go out of bounds. When a player using the air combo in the
+Chūnin Exams
+ Preliminary Arena cancels and re-does the technique many times, they can go upstairs.
+
+There is another glitch that allows the player to go out of bounds. If a player uses
+Orochimaru
+ and hits the opponent with his technique in the Lookout Tower where the corner is made with the wall and the purple boundary, Orochimaru will end up going out of bounds and able to walk inside of the wall.
+
+There is another glitch that involves
+Kakuzu
+ and
+Hidan
+. If you select either Kakuzu or Hidan's "Attack" support type and in the match and cause a "Strike Back" with either character, their voices will be switched (Kakuzu having Hidan's voice and Hidan having Kakuzu's voice).
+
+There is currently a bug that allows the user to utilise support-only characters in Training Mode, the characters being limited to their support attack and chakra shuriken techniques.
+
+Through this bug it is revealed that
+Darui
+ was possibly going to be playable, based on a unique default item inventory the other support-only characters lack. This was confirmed with the announcement of
+Naruto Shippūden: Ultimate Ninja Storm 3
+.
+
+A notable glitch discovered in this game is the "parry" mechanic, occurring when certain actions are performed the exact frame that a hitbox should have collided with the user (yet the attack's properties such as damage and hitstun does not properly register on the user). The known parry animations so far within 1 frame are:
+
+Chakra Dash.
+
+Air Chakra Dash.
+
+Jump or short hop.
+
+Ninja Move.
+
+Ninja Dash.
+
+Any U1/Jutsu.
+
+Some U2s/Ultimate Jutsu may trigger this as well, but some have more invulnerability frames than others.
+
+However, one notable glitch that exists is the Hollow Step, which is cancelling into a directional jump instead of a neutral jump or ninja move off of a close-range attack string input (and is possible in all later
+Storm
+ games afterwards).
+
+While it is a handy unintentionally-discovered bug/mechanic for being able to close in on a foe in order to mitigate the pushback of one's attacks (either on hit or during blockstrings) as well as to retreat from offence if needed or to flank the foe, it needs to be performed by moving the control stick part-way in-between the threshold of a neutral jump or a ninja move cancel without triggering either as the deadzone to trigger a proper Hollow Step on one's thumbstick is notably very small.
+
+With this in mind, both the neutral jump and Hollow Step cancels allow for characters with strong ninja tool throws or solid air string inputs to convert from ground-to-low air-to-ground again (especially to punish landing lag from airborne hitstun or to extend blockstrings).
+
+However, this is due two analog deadzones that are used in-game for the left thumbstick. In Story Mode, the "walk" deadzone/analog is used for the walking animation (by part-way tilting just enough), which is soft-disabled in battles. In both Story Mode and battle modes, there is a "run" deadzone/analog (by full-tilting) used for the running animation.
+
+Because characters in-battle do not allow a walking animation, the "walk" dead zone doesn't openly move the character or change animations. Because jumping is an action you can perform in both Story Mode and battle modes, it works for both analog ranges. However, the ninja move cancel is battle-only (meaning it only uses the "run" deadzone). Because of this, one can trigger the aforementioned directional jump cancel ("Hollow Step") out of a close-range attack input because the game is tricked into thinking the character is "walking" when said character isn't truly moving.
+
+Trivia
+
+There is an interesting fact about the Lookout Tower stage. If a player successfully does a combo that sends the opponent flying (for example, Part I Naruto's forward/back combo) and it's directed at the purple boundary wall, the opponent will crash into the wall, stay there for several seconds, and then fall from the wall hit. If this happens, the opponent takes extra damage from hitting the wall. This is currently the only stage known where this can happen.
+
+The North American/UK versions of the game incorrectly credits Brian Donovan as Tsunade's English voice actor in the intro sequence (Donovan is actually the voice actor for Rock Lee), as well as Nolan North for "Madara's" voice actor in Naruto and Sasuke's tale (Nolan North voiced "Madara" in
+Naruto Shippūden: Ultimate Ninja Storm 2
+, while he is voiced by Neil Kaplan in this game).
+
+Strangely in the tale of Madara Uchiha, the player does not actually play as either Madara or Tobi. Instead, the other Akatsuki members are playable in this tale with Madara only appearing in opening cutscene while Tobi narrates the events and appears in the epilogue cutscene.
+
+In the tale of Kakashi Hatake, Kakashi reveals that the bell test he used on
+Team 7
+ mirrored the training that he and the rest of
+Team Minato
+ endured under their teacher. One change, however, is that Rin and Obito worked together to fight Minato.
+
+If one looks at the Substitution/Body Replacement item "Naruto's Answer Sheet" long enough, it will appear to spin in the opposite direction for a while then change back to its original rotation direction.
+
+When young Hinata uses her Ultimate Jutsu on young Naruto, she becomes embarrassed when she sees that she's on top of Naruto and jumps farther away than usual. A similar event will happen if Karin uses her Ultimate Jutsu on any Shippuden version of Sasuke, where instead of mocking the opponent for being sloppy, she runs to his side and glances obsessively over him before backing up.
+
+It was confirmed that the game shipped over 1 million copies around the world.
+
+In
+Naruto Shippūden: Ultimate Ninja Storm 2
+, Kakashi's Mangekyō Sharingan is facing the wrong way but it was fixed in this game.
+
+Within in the competitive scene, the Snowfield stage is unique in that it is the only stage that seems to possess both curved walls and corners, making it a staple stage in competitive play ever since.
+
+The specific version of Naruto only in this game with the
+Sage Art: Many Ultra-Big Ball Spiralling Serial Spheres
+ attack as his Ultimate Jutsu/U2 is the only one who can perform directional air strings when he activates his
+Nine-Tails Chakra Mode
+.
+
+Part 1 Shino is so far the only character who is able to cancel his midair string inputs into a chakra tool throw in this game.
+
+The AI is able to somehow perform a backwards ninja move upon recovering from a Body Replacement Technique, which is an action that is impossible for the player.
+
+External Links
+
+Official Japanese Website

@@ -1,0 +1,5 @@
+Wikipedia:Panda
+
+This page is a
+soft redirect
+.

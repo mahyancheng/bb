@@ -1,0 +1,5 @@
+Wikipedia:Koala
+
+This page is a
+soft redirect
+.

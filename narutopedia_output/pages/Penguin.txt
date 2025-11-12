@@ -1,0 +1,5 @@
+Wikipedia:Penguin
+
+This page is a
+soft redirect
+.

@@ -1,0 +1,28 @@
+This is a type of trap ninjutsu (
+トラップ忍術
+,
+Torappu ninjutsu
+) where an area is defined using a number of special tags. When the area is entered by an opponent, a
+barrier
+ is created. The barrier's properties vary depending on the tags used:
+ the
+Sound Four
+, for example, use
+explosive tags
+, which allows it to serve as a sort of booby-trap.
+ To prevent the trap from being noticed, the individual tags are placed in hidden locations, such as the shade of trees. Even if the tags are discovered, actually disarming them is very difficult, for which reason it's generally safer to simply avoid the area.
+
+Shikaku Nara
+ once forced his son,
+Shikamaru
+, to read a book that discussed this technique, which described it as "a high-class ninjutsu".
+
+Trivia
+
+In
+Ultimate Ninja Storm Revolution
+,
+String Light Formation
+ is incorrectly named as this technique.
+
+References

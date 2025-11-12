@@ -1,0 +1,5 @@
+Wikipedia:Catfish
+
+This page is a
+soft redirect
+.

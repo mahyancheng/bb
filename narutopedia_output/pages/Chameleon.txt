@@ -1,0 +1,5 @@
+Wikipedia:Chameleon
+
+This page is a
+soft redirect
+.

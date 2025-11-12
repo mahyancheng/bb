@@ -1,0 +1,171 @@
+This article uses
+Creative Commons licensed
+ content from
+revision 141809232
+ of
+Wikipedia
+'s
+Naruto: Ultimate Ninja (game)
+ article.
+
+The list of authors can be seen in the
+page history
+ there.
+
+Naruto: Ultimate Ninja
+ is the first instalment of the
+Ultimate Ninja
+ series released for the
+PlayStation 2
+.
+
+Gameplay
+
+The game and the series overall, is a 1 on 1 2D-plane-based free-movement fighting game akin to the likes of
+Super Smash Bros.
+, with stage hazards and bottomless pits one can fall off of. A unique aesthetic to this game is the battle intros and victory screens are rendered in koma/panels akin to a manga. Another unique aesthetic is that when each time when a round starts after the koma/panel-styled intro, the two opposing characters recoil from each other along the ground leaping back a set distance from each other with the back-leaping function.
+
+It also features a unique battle system with special attacks and various techniques that can be used. Uniquely-named attacks are performed though these methods (all of these are performed with the Circle button by default):
+
+A three-to-two hit base combo that leads into varying finishers, either a forward, upward, downward or backward move. Each character has 3, with one of them ending in a technique/jutsu that uses chakra (the other one can be done with downx2 + the attack button). Example: Attack x3, Forward + Attack.
+
+Three two-to-one input attacks that are single-direction combos oriented forward, up or down. These types of simple input moves may not knock down and/or launch as effectively as their basic-combo-finisher-counterparts, but the downward ones however double as both OTG (off/on-the-ground) attacks to hit downed victims with and attacks that can guard break. Example: Down + Attack x2.
+
+Back + Attack moves within proper proximity of the opponent (whiff or connect) are throw attacks, which cannot be blocked and all force a side-switch upon connecting.
+
+Three midair combos which are extensions of the aforementioned single-direction combos on ground, usually with three-to-two inputs total for each one. Downward air combo starters are all normally diving attacks. Example: Jump, then Up + Attack x3.
+
+Some of these attacks, especially grounded ones (like for Shikamaru) are dubbed as "Knockout Blows" in the localised version, which are essentially counterattacks.
+
+Chakra Techniques can be performed that cost minor chakra amounts, with the first being a basic string attack ender (direction chosen varies for each character) and must have the final input connect on hit in order to trigger it. The second is inputting Down x2 + Attack as a non-cinematic Chakra Technique.
+
+All of these uniquely-named basic combo attacks (barring the actual jutsu that use up the chakra gauge) are able to either toss down, fling forward and/or launch the opponent in a knocked-down state. From there, pressing the attack button again plus the respective direction allows for a quick-time event followup blow via flickering right next to the target behind/above/below them in the opposite direction they were since flying towards. From there, the following can happen:
+
+This additional blow can be beaten with a Body Replacement Technique that allows the victim to counter the attacker with an additional blow of their own.
+
+From there, the pattern between both fighters can be repeated until the tempo speeds up as both attacker and victim try to repeatedly counterattack each other in this state.
+
+Regardless, the hitstun/flinch time between such moves often varies, thus, landing a hit with an invested attack string is often difficult to do in this series against more deft opponents. If both characters try to hit each other at the same proper time, then a clash will occur if timed right where both characters will slide back from each other via recoil while they both suffer damage, regardless of the strength/attack level between the blows.
+
+Other features involve using the Body Replacement Technique to avoid attacks akin to the style of a parry (press either guard button at the right time in order to activate it properly), the ability to lock-on dash AKA ninja dash (quickly double-tap the jump button which is X by default; a staple control method for CC2's games) for the character to roll up into a ball to dash at the opponent with a bounce-off air dash that does no damage and deflects all ninja tools (and also allows for a free air combo). However, a blocked lock-on dash prevents the user from acting out of the landing period, allowing the defender to punish them afterwards.
+
+The down direction can be held for charging up chakra passively (which can also be collected in the form of chakra orbs that appear from a knockdown victim if they impact a surface from harder knockdowns), while some characters can hold up for a unique taunt that gives them a unique passive effect and/or can heal them for a bit of HP. All characters can also double jump as well as run up specific walls, and also have their chakra slowly drain on surfaces such as water in order for them to maintain standing on said surfaces (while any true-knockdown effect they take will make them pass through as ring-out damage).
+
+Characters unlike in most 2D-plane fighting games like the
+Super Smash Bros.
+ series, can choose to hold up or down while pressing the jump button to warp between two of the planes each stage has, allowing for diverse stage interaction on top of hitting objects and/or background characters that provide items and the like. The most common destructible object is a dummy doll that often appears in periodic droves via rising up from the ground briefly, though they will drop back to the ground on their own if left alone. Said items also involve unique ninja tools (aside from the usual kunai and shuriken) that can be switched through with the L1 and R1 buttons while they are used by the Square button by default, and all ninja tools can be used to aim at any opposition that is not on the same plane as the thrower.
+
+On top of that, stages also have other layers to them aside from two planes, which may or may not contain notable stage hazards. Both the aforementioned chakra orbs as well as some HP recovery items can also appear from interact-able objects. In regards to certain ninja items, usage of them can end up disabled if the user is on a different plane than their opposition, though basic default ninja tools and others akin to them can be thrown at fighters on different planes.
+
+Another notable feature is the ability to use Secret Skills/Techniques (Ōgi) by hitting the charge technique button (Triangle by default), which gives them an aura that turns their next attack into an initial blow that can be blocked that leads into the said technique. Hit, block, miss or not executed, characters that fail a Secret Technique cannot charge up another one until a few seconds pass, thus requiring some precision and solid opportunity to land one (though it does not use up chakra if it fails). Once a Secret Skill/Technique does connect however, a non-real time cinematic occurs with a series of button interactions that must be fulfilled to either reduce the damage taken (victim) or to move onto the next cinematic to increase overall damage (attacker); only then it will use up the respective amount of chakra per level.
+
+Secret Skills/Techniques are counted via Lv. 1, 2 and 3 (depending on how many Triangle button presses are done beforehand), which each version having a unique initial blow with Lv. 1 being red, Lv. 2 being purple, and Lv. 3 being pale blue. Some characters' Secret Techniques also allow them when properly completed past a certain point (in terms of the cinematics) to power up with a unique effect that lasts for a while (examples include Sasuke with his Sharingan and Rock Lee with his Eight Gates).
+
+Guarding can also be performed with the L2 and R2 buttons by default, and like many fighting games, unique attacks such as jutsu and/or ninja tools will cause the blocker to take chip damage. Another unique aspect about this game is the fact that the countdown timer for matches is calculated as "counts", which are roughly around 3 seconds for a single one.
+
+In the background are also support characters (with each playable character having their own set tailored to them) that can appear on the battlefield to give them unique items to use when walked up to. However, opposing characters can hit support characters to make them warp away as a form of counterplay, making it a bit of a race to see who can get to which support character fast enough. When enough time passes and when the button prompt is hit, a stage shift can occur between two related locations that share the same BGM during the battle.
+
+In the original Japanese version, there were only 12 characters; however, Namco Bandai has added the ability to select both Cursed Seal Sasuke and Nine-Tailed Naruto as bonus characters. Although both of these characters were already in the Japanese version as transformations via their Lv. 3 Secret Techniques, Namco Bandai has separated them into separate characters. Due to this, both Naruto and Sasuke have lost their ability to transform into their advanced modes during battle.
+
+Story
+
+The Story Mode consists of up to six battles divided by some dialogue in a manga style display. It loosely covers the events from
+Land of Waves Arc
+ to
+Konoha Crush Arc
+.
+
+The game's twelve stories are meant to depict the events from different characters' perspectives and as the result some of them deviates from the original source (such as Neji become the winner in match against Naruto).
+
+Reception
+
+Critical reception has been mixed, ranging from mediocre to somewhat high ratings. G4's X-Play gave
+Ultimate Ninja
+ a three out of five for a creative comic book feel and stylish cell-shaded graphics, but complained that the controls are too simple and the English voices are "slightly questionable". Both IGN and GameSpot say that the game is easy, yet fun to play, and praise the anime/manga-inspired graphics.
+
+Playable Characters
+
+Naruto Uzumaki
+ (Playable in a
+Nine-Tails
+ form)
+
+Sasuke Uchiha
+ (Playable in a
+Cursed Marked
+ form)
+(
+Sharingan
+)
+
+Sakura Haruno
+
+Shikamaru Nara
+
+Hinata Hyūga
+ (
+Byakugan
+)
+
+Gaara
+
+Rock Lee
+ (
+Eight Gates
+)
+
+Neji Hyūga
+ (
+Byakugan
+)
+
+Kakashi Hatake
+ (
+Sharingan
+)
+
+Orochimaru
+
+Zabuza Momochi
+
+Haku
+
+Support-Only Characters
+
+Shino Aburame
+
+Temari
+
+Tenten
+
+Might Guy
+
+Asuma Sarutobi
+
+Iruka Umino
+
+Kabuto Yakushi
+
+Trivia
+
+While characters in the game have three Ultimates they can choose from, Nine-Tailed Naruto and Curse Marked Sasuke only have the ability to do Lv. 3 Ultimates.
+
+Unlike its future Storm successors, running on water costs chakra; if the player does not have enough chakra, they will fall through the water on stages where it is available, and will be treated just like if they fell off the stage.
+
+Although Nine-Tailed Naruto and Curse Marked Sasuke are very powerful in the game, they have been given big disadvantages compared to the other characters.
+
+Nine-Tailed Naruto is unable to use any items he picks up, meaning he cannot use support or battle items (as well as lacking any normal Jutsu).
+
+Curse Marked Sasuke gradually loses health over time, but stops when he only has ten percent left.
+
+In one of Sakura's Ultimates, she actually uses one of
+Kurenai Yūhi
+'s genjutsu techniques as her attack, the same technique Kurenai used when she fought
+Itachi Uchiha
+ in Konoha.
+
+External Links
+
+Naruto: Ultimate Ninja official webpage
+
+Naruto: Narutimate Hero official webpage
