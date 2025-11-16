@@ -1,0 +1,349 @@
+This article contains information about spoilers describe in the novels, anime-only watchers and manga-only readers should please proceed with caution!
+
+Magic
+ (
+魔術
+,
+
+Majutsu
+)
+ refers to the manipulation of
+mana
+ stored in the body to generate supernatural effects known as
+Magic Spells
+.
+
+Mana
+
+Magic requires an energy source in order to produce its effect in the corporeal world.
+Mana
+ (
+魔力
+,
+
+Maryoku
+, lit. "Magical Power")
+ is the natural energy source for employing and invocation of magic.
+
+All living beings existing in the
+Six-Faced World
+ innately have mana in their body. Souls normally dissipate into mana after death and can get reincorporated into the environment. The only known exception to this is people from outside the Six-Faced World that have been summoned. Summoned people are incapable of holding mana inside their body, thus incapable of using magic.
+
+Mana or magical power reserve of a person is generally believed to be inherited and the amount one has is determined at birth. Due to the existence of individuals with the
+Laplace Factor
+ (such as
+Rudeus
+ and
+Sylphy
+) having enormous amounts of aggregate mana that increased since their birth, they were considered to be the only exception. This is later proved to be incorrect and not linked to the Laplace Factor. All people are capable of increasing their aggregate mana amount by stimulating their mana from a young age (seen in
+Julie
+). The ability to learn silent spell-casting is also linked to practicing the skill at a young age.
+
+History
+
+Long before the
+Great Human-Demon War
+, the world was engulfed in an unceasing spiral of battle and chaos. During that time, in order to fight their enemies the
+High Elves
+ race entreated with the spirits of the forests to control natural inorganic elements like the wind and the earth. In this manner, the first magic spells were born. Modern form of magic took its form from humans imitating the spells used by the High Elves in battle and reworking them to convenience. Magic was mostly used only in battle and fending off obstacles. As a result, a large portion of the spells that came to exist are combat spells.
+
+Mechanism
+
+Conventional Spell-casting
+
+Magic Spells
+
+Magic Spells
+ (
+詠唱
+,
+
+Eishō
+, alt. "Incantations")
+, in this method, one recites a set of words to perform magic. Magic Spells acts as an activation trigger for magic, where uttering the words would create the effect without having to focus on the
+Mana
+ coursing through one's body. As such, magic spells are much less flexible than silent spell-casting due to a restricted amount of control one has while tuning the magic.
+
+Magic Spells are the common method for using magic as it is relatively easy to use. A
+magician
+ typically uses magic spells from when they were a beginner all the way to when they became a master.
+
+Magic Circles
+
+Rudeus pouring mana to a Magic Circle.
+Multi Layered Magic Circle.
+Magic Circle for healing in
+Ranoa Magic Academy
+.
+1/3
+
+Magic Circle
+ (
+魔法陣
+,
+
+Mahō-jin
+)
+ invented by Demon Empress
+Kirisis Calisis
+, this method involves one inscribing patterns using a specialized ink or carved patterns to cast a spell. Magic circles cast the inscribed spell at a predetermined power whenever mana is poured into it. Because of this, magic circles have the least flexibility of all spell-casting methods, albeit being the easiest and fastest to use.
+
+Depending on the kind of Magic and rank, a Magic Circle's can be larger but its work around is to create multiple layers of Magic Circles on a single plane to achieve a single spell.
+
+Earlier, magic circles were widely used until one magician succeeded at greatly shortening incantations. But for the more complex rituals involved in Summoning magic, where greater efficiency wasn't attainable, magic circles remained the primary means.
+
+Mixed Magic
+
+Mixed Magic
+ (
+混合魔術
+,
+
+Kongō majutsu
+)
+ or Combined Magic is magic where the caster uses consecutive spells to alter or enhance the effects of a single spell. Spells such as Dry Steaming (Wind and Fire) and Frost Nova (Wind and Water/Ice) are examples of melded magic. Melded magic is exclusive to attack magic; these are familiar and easy to piece together with basic knowledge of science.
+
+Truncated Spell-casting
+
+Truncated or shortened incantations are very similar to conventional spell-casting; the caster recites a predetermined set of words corresponding the magic they are using. With shortened incantations, as used by
+Roxy
+ and Rudeus, cast times and flexibility are drastically improved over conventional casting. The casting of melded magic also becomes much easier due to the reduced downtime between incantations.
+
+Silent Spell-casting
+
+Silent spell-casting or Incantation-less spell-casting involves the caster manipulating mana itself in order to produce the desired effect. This method, unlike incantation and magic circles, does not require preparation for invocation as the caster only needs strong imaginative power to mold mana to their will.
+
+It follows a process the caster calculates in their mind: First, the caster calls forth the shape of the spell they wish to use. Next, there is a window of time where they can add additional magical power to impact its size. Third, the velocity of the spell with which it will travel is adjusted. Finally, the caster releases the finished spell from their hand.
+
+Silent spell-casting is a particularly unorthodox method of performing magic for almost no mages are able to completely skip the incantation. Since the process is convoluted and relies heavily on the caster's understanding of the spell, until the birth of Rudeus Greyrat, this method of spell-casting is not formally taught anywhere. However
+Roxy M. Greyrat
+ wrote a paper detailing the specifics of voiceless magic and began to introduce silence spell casting into standard magic curriculum, which helped give rise to many prominent mages.
+
+Types
+
+Main Category:
+
+Attacking Magic
+
+Attacking Magic
+ (
+攻撃魔術
+,
+
+Kōgeki majutsu
+)
+ is comprised of spells that manipulate mana into tangible elements. The power, speed, effective range, and area of these spells are dependent on the amount of mana poured into them.
+
+It is divided into four schools:
+
+Fire
+: Generate fire/heat.
+
+Water
+: Generates water and in extension, ice and steam (melded with fire magic).
+
+Wind
+: Manipulates gases.
+
+Earth
+: Generates earth, Manipulates earth and minerals.
+
+Healing Magic
+
+Healing Magic
+ (
+治癒魔術
+,
+
+Chiyu majutsu
+)
+ mainly comprises of spells used for healing injuries and removing toxins.
+
+It is further divided into four schools:
+
+Healing
+: Magic for healing injuries.
+
+Detoxification
+: Magic for purging poisons and disease.
+
+Divine Strike
+: Magic used against incorporeal monsters and demons.
+
+Protection
+: Magic for increasing one's defenses and create barriers (distorts mana in a finite space. Effects include nullifying magic activation and altering magic regeneration rate).
+
+Summoning Magic
+
+Summoning Magic
+ (
+召喚魔術
+,
+
+Shōkan majutsu
+)
+ is used to call forth powerful beings to carry out the summoners's bidding.
+
+It has two types of summons:
+
+Fiends
+: A class of beast that have intellect.
+
+Spirits
+: An intelligent being called forth to reside in an artificial body, has been stated by Rudeus to be much akin to Mana Programming.
+
+Special Category:
+
+Inherent Magic
+
+Inherent Magic
+ (
+固有魔術
+,
+
+Koyū majutsu
+)
+, is a magic of race secret with a special activation method.
+
+Howling (Originally dubbed "voice magic" by
+Rudeus
+)
+
+Teleport
+
+Gravity Manipulation
+
+Time Travel
+
+Hypnosis
+
+Magic Disruption (Ran Ma)
+
+Reincarnation
+
+Divination
+
+Temporary Soul Summoning (Used only by
+Hitogami
+)
+
+Magic Rank Title
+
+Rank
+
+Title
+
+Scale
+
+1
+
+Beginner / Elementary
+
+Basic mana manipulation.
+
+2
+
+Intermediate
+
+Advanced mana manipulation.
+
+3
+
+Advanced
+
+Complex mana manipulation. Generally large area of effect.
+
+4
+
+Saintly / Holy
+
+Large scale complex mana manipulation. Usually spells that affects the weather.
+
+5
+
+Kingly
+
+Builds upon Saint-class Magic by increasing its effectiveness.
+
+6
+
+Imperial / Emperor
+
+Further enhances the scale of King-class Magic
+
+7
+
+Divine / God
+
+Continental scale magic.
+
+Spell rankings are typically proportionate to the amount of mana necessary to cast the spell. There are exceptions however, such as with
+Badigadi
+ and
+Orsted
+, Rudeus's magic is considered to be of a higher rank despite using lower ranked magic as the base.
+
+It has been stated that only 1 in 20 people is born with the capacity of using mana and of those, only 1 in 20 is capable of learning how to master it and becoming a mage. However, only 1 in a 100 of those is actually capable of becoming an advanced magician in only 1 element.
+
+The magician's ranking title is determined by the most advanced spell they could cast.
+
+Diseases
+
+Since the Human-Demon Wars, there are also several magic related diseases that are known to exist and in time the denizens of the Human World became immune to it or a way to treat them has been discovered.
+
+Magic Stone Disease
+
+Magic Stone Disease is an extremely rare magical virus that turns that kills its host by gradually turning it to a purple magic stone starting from their feet and eventual death upon reaching half of their body at the very least.
+
+Drain Syndrome
+
+Drain Syndrome is a magical illness first found in Humans from the early ages into the Laplace Wars that affects a child born with out any magic capacity who absorbs magic externally and after accumulating it for 10 years, they will fall ill and die.
+
+Known Advanced Magic Users Important to the Story
+
+Rudeus Greyrat
+
+Sylphiette
+
+Roxy
+
+Orsted
+
+Cliff
+
+List of Known Voiceless Magicians
+
+Rudeus Greyrat
+
+Sylphiette
+
+Juliette
+
+Orsted
+
+Sieghart
+
+Trivia
+
+The number of magicians capable of using shortened or silent spell-casting are very few because the method was previously unknown.
+Roxy
+,
+Rudeus
+,
+Sylphy
+ and
+Moore
+ were the few individuals capable of using the silent spell-casting method before it was popularized by Rudeus.
+
+It is stated by
+Future Rudeus
+ that, "Magic in this world is omnipotent. Once you realize that, you can essentially do anything."
+
+Many attack magics function by converting mana into physical substances. It appears that the materials manifested take a while to stabilize, as evidenced by the fact that projectiles from attack magic can be disintegrated by using manatite stone, but figurines created by Rudeus aren't affected
+.
+
+See Also
+
+List of Magic Spells
+
+References
